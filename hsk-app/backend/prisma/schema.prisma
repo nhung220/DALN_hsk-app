@@ -1,0 +1,229 @@
+// ─── Prisma schema – HSK App (email/password auth, no NextAuth) ──────────────
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─── User ──────────────────────────────────────────────────────────────────────
+
+model User {
+  id           String   @id @default(cuid())
+  name         String
+  email        String   @unique
+  passwordHash String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  lessonProgress  LessonProgress[]
+  flashcardCards  FlashcardCard[]
+  gateResults     GateResult[]
+  testResults     TestResult[]
+  gameResults     GameResult[]
+  notebookEntries NotebookEntry[]
+  wrongWords      WrongWord[]
+  aiSessions      AiSession[]
+  grammarProgress GrammarProgress[]
+  reviewSessions  ReviewSession[]
+  moduleProgress  ModuleProgress[]
+}
+
+// Progress for the newer learning modules (topics, reading, dialogues, exams)
+model ModuleProgress {
+  id          String   @id @default(cuid())
+  userId      String
+  module      String
+  itemId      String
+  completed   Boolean  @default(false)
+  bestScore   Int?
+  attempts    Int      @default(0)
+  completedAt DateTime?
+  updatedAt   DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, module, itemId])
+  @@index([userId, module])
+}
+
+// ─── Lesson progress ───────────────────────────────────────────────────────────
+
+model LessonProgress {
+  id          String    @id @default(cuid())
+  userId      String
+  lessonId    String // "new-1-lesson-3"
+  completed   Boolean   @default(false)
+  score       Int? // 0-100
+  completedAt DateTime?
+  updatedAt   DateTime  @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, lessonId])
+  @@index([userId])
+}
+
+// ─── Flashcard SM-2 ────────────────────────────────────────────────────────────
+
+model FlashcardCard {
+  id          String   @id @default(cuid())
+  userId      String
+  wordId      String // "new-1-0"
+  easeFactor  Float    @default(2.5)
+  interval    Int      @default(1)
+  repetitions Int      @default(0)
+  nextReview  String // ISO date "2026-09-28"
+  lastReview  String
+  updatedAt   DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, wordId])
+  @@index([userId])
+}
+
+// ─── Gate / unlock test ────────────────────────────────────────────────────────
+
+model GateResult {
+  id            String   @id @default(cuid())
+  userId        String
+  setId         String // "new-1-set-1"
+  passed        Boolean
+  score         Int
+  attempts      Int      @default(1)
+  lastAttemptAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, setId])
+  @@index([userId])
+}
+
+// ─── Test result history ───────────────────────────────────────────────────────
+
+model TestResult {
+  id           String   @id @default(cuid())
+  userId       String
+  setId        String
+  score        Int
+  totalQ       Int
+  correctCount Int
+  createdAt    DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+// ─── Game result history ───────────────────────────────────────────────────────
+
+model GameResult {
+  id        String   @id @default(cuid())
+  userId    String
+  lessonId  String
+  mode      String // "meaning" | "pinyin" | "hanzi"
+  score     Int
+  totalQ    Int
+  correct   Int
+  timeTaken Int // ms
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+// ─── Notebook ──────────────────────────────────────────────────────────────────
+
+model NotebookEntry {
+  id         String   @id @default(cuid())
+  userId     String
+  wordId     String // "new-1-0"
+  level      String // "new-1"
+  simplified String
+  pinyin     String
+  meaning    String
+  note       String   @default("") @db.Text
+  savedAt    DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, wordId])
+  @@index([userId])
+}
+
+// ─── Grammar progress ─────────────────────────────────────────────────────────
+
+model GrammarProgress {
+  id            String   @id @default(cuid())
+  userId        String
+  pointId       String // grammar point id, e.g. "ba_construction"
+  mode          String // "fill" | "sort"
+  bestScore     Int      @default(0) // 0–100
+  attempts      Int      @default(1)
+  lastAttemptAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, pointId, mode])
+  @@index([userId])
+}
+
+// ─── Review session history ───────────────────────────────────────────────────
+
+model ReviewSession {
+  id           String   @id @default(cuid())
+  userId       String
+  date         String // "2026-10-07" — ngày ôn
+  totalCards   Int // tổng số thẻ ôn trong phiên
+  correctCards Int // số thẻ đúng
+  score        Int // 0–100 %
+  durationSec  Int      @default(0) // thời gian ôn (giây)
+  createdAt    DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([userId, date])
+}
+
+// ─── Wrong words (từ hay sai) ──────────────────────────────────────────────────
+
+model WrongWord {
+  id          String   @id @default(cuid())
+  userId      String
+  wordId      String // "new-1-0"
+  simplified  String
+  pinyin      String
+  meaning     String
+  level       String
+  wrongCount  Int      @default(1)
+  lastWrongAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, wordId])
+  @@index([userId])
+}
+
+// ─── AI session history ────────────────────────────────────────────────────────
+
+model AiSession {
+  id        String   @id @default(cuid())
+  userId    String?
+  type      String // "pronunciation" | "grammar" | "translation" | "explain" | "examples"
+  input     String   @db.Text
+  output    String   @db.Text
+  tokens    Int      @default(0)
+  createdAt DateTime @default(now())
+
+  user User? @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([userId, type])
+}
