@@ -1,4 +1,4 @@
-export type ModuleName = "topic" | "reading" | "dialogue" | "exam";
+export type ModuleName = "topic" | "reading" | "dialogue" | "exam" | "pronunciation";
 export interface ModuleProgressRow { module: ModuleName; itemId: string; completed: boolean; bestScore: number | null; attempts: number }
 
 export async function loadCloudModuleProgress(): Promise<ModuleProgressRow[] | null> {

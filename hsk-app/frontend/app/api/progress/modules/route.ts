@@ -1,11 +1,13 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getUserIdFromRequest } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
+import pinyinSyllables from "@/public/data/pinyin-syllables.json";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-const MODULES = new Set(["topic", "reading", "dialogue", "exam"]);
+const MODULES = new Set(["topic", "reading", "dialogue", "exam", "pronunciation"]);
+const PRONUNCIATION_IDS = new Set(pinyinSyllables.map((item) => item.id));
 
 export async function GET(req: NextRequest) {
   const userId = getUserIdFromRequest(req);
@@ -25,6 +27,9 @@ export async function POST(req: NextRequest) {
     const body = await req.json() as { module?: string; itemId?: string; completed?: boolean; score?: number; countAttempt?: boolean };
     if (!body.module || !MODULES.has(body.module) || !body.itemId || body.itemId.length > 160) {
       return NextResponse.json({ error: "Dữ liệu tiến độ không hợp lệ." }, { status: 400 });
+    }
+    if (body.module === "pronunciation" && !PRONUNCIATION_IDS.has(body.itemId)) {
+      return NextResponse.json({ error: "Âm tiết không hợp lệ." }, { status: 400 });
     }
     const score = body.score === undefined ? undefined : Math.max(0, Math.min(100, Math.round(body.score)));
     const key = { userId_module_itemId: { userId, module: body.module, itemId: body.itemId } };
