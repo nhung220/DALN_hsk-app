@@ -1,0 +1,55 @@
+{
+  "name": "hsk-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "prisma": {
+    "schema": "../backend/prisma/schema.prisma"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run prisma:generate && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prisma:generate": "cd ../backend && npx prisma generate && cd ../frontend && npm run prisma:sync",
+    "prisma:sync": "node scripts/syncPrisma.mjs",
+    "process-data": "node scripts/processData.mjs",
+    "translate-vi": "node scripts/translateVi.mjs",
+    "process-grammar": "node scripts/processGrammar.mjs",
+    "merge-grammar-patterns": "node scripts/mergeGrammarPatterns.mjs",
+    "data:validate": "node scripts/validateLearningData.mjs && node scripts/validateHsk2Data.mjs"
+  },
+  "dependencies": {
+    "@google/generative-ai": "0.21.0",
+    "@prisma/client": "5.22.0",
+    "bcryptjs": "2.4.3",
+    "clsx": "^2.1.1",
+    "fs-extra": "^11.4.1",
+    "hanzi-writer": "^3.5.2",
+    "jsonwebtoken": "9.0.2",
+    "lucide-react": "^0.469.0",
+    "next": "14.2.18",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "2.4.6",
+    "@types/cookie": "0.6.0",
+    "@types/fs-extra": "^11.0.4",
+    "@types/jsonwebtoken": "9.0.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.18",
+    "postcss": "^8",
+    "prisma": "5.22.0",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  },
+  "allowScripts": {
+    "@prisma/client@5.22.0": true,
+    "prisma@5.22.0": true,
+    "@prisma/engines@5.22.0": true
+  }
+}

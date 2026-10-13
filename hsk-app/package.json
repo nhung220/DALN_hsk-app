@@ -1,0 +1,19 @@
+{
+  "name": "hsk-app-tests",
+  "version": "1.0.0",
+  "description": "Test suite for HSK App - Prisma schema inconsistency bugfix",
+  "scripts": {
+    "test": "node --import tsx --test --test-concurrency=1 tests/**/*.test.ts",
+    "test:bug-condition": "node --import tsx --test tests/bug-condition-exploration.test.ts",
+    "test:preservation": "node --import tsx --test tests/preservation-properties.test.ts"
+  },
+  "devDependencies": {
+    "@prisma/client": "^7.10.0",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^20",
+    "bcryptjs": "^3.0.3",
+    "fast-check": "^4.10.2",
+    "tsx": "^4.7.0",
+    "typescript": "^5"
+  }
+}

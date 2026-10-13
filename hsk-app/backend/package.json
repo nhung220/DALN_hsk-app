@@ -1,0 +1,29 @@
+{
+  "name": "hsk-backend",
+  "version": "1.0.0",
+  "description": "HSK App — Prisma schema + server-side utilities (dùng chung với frontend Next.js API routes)",
+  "scripts": {
+    "db:generate": "prisma generate",
+    "db:migrate": "prisma migrate dev",
+    "db:push": "prisma db push",
+    "db:studio": "prisma studio",
+    "db:seed": "ts-node prisma/seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "5.22.0",
+    "bcryptjs": "2.4.3",
+    "jsonwebtoken": "9.0.2"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "2.4.6",
+    "@types/jsonwebtoken": "9.0.7",
+    "@types/node": "^20",
+    "prisma": "5.22.0",
+    "typescript": "^5"
+  },
+  "allowScripts": {
+    "@prisma/client@5.22.0": true,
+    "@prisma/engines@5.22.0": true,
+    "prisma@5.22.0": true
+  }
+}
