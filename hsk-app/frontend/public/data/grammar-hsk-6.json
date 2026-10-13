@@ -1,0 +1,6361 @@
+{
+  "level": "HSK 6",
+  "levelNumber": 6,
+  "totalPoints": 45,
+  "totalExamples": 322,
+  "points": [
+    {
+      "id": "6-ASGXXP6M",
+      "title": "Advanced usages of the contrary dao",
+      "structures": [
+        "Subj. + Verb + 得 + 倒 + Adj.",
+        "Subj. + 倒 + Adj.",
+        "你 + 倒是 + Verb + 呀 / 啊"
+      ],
+      "usedFor": [
+        "Sự tương phản",
+        "Bày tỏ thái độ"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGXXP6M",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "说",
+            "得",
+            "倒",
+            "容易，那",
+            "你",
+            "来",
+            "！"
+          ],
+          "chinese": "说得倒容易，那你来！",
+          "pinyin": "shuō dé dǎo róngyì，nà nǐ lái ！",
+          "translation": "Nói thì dễ, vậy bạn làm thử xem!"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "想",
+            "得",
+            "倒",
+            "美",
+            "！不",
+            "工作",
+            "还",
+            "想",
+            "拿",
+            "工资",
+            "？"
+          ],
+          "chinese": "你想得倒美！不工作还想拿工资？",
+          "pinyin": "nǐ xiǎng dé dǎo měi ！bù gōngzuò huán xiǎng ná gōngzī ？",
+          "translation": "Bạn mơ đẹp quá nhỉ! Không làm mà đòi có lương à?"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "你",
+            "想",
+            "得",
+            "倒",
+            "简单",
+            "！怎么",
+            "可能",
+            "？"
+          ],
+          "chinese": "你想得倒简单！怎么可能？",
+          "pinyin": "nǐ xiǎng dé dǎo jiǎndān ！zěnyāo kěnéng ？",
+          "translation": "Bạn nghĩ mọi chuyện đơn giản quá! Làm sao có thể như vậy được?"
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "这",
+            "个",
+            "小",
+            "女孩",
+            "倒",
+            "挺",
+            "勇敢",
+            "的",
+            "。"
+          ],
+          "chinese": "这个小女孩倒挺勇敢的。",
+          "pinyin": "zhè gè xiǎo nv̌hái dǎo tǐng yǒnggǎn de 。",
+          "translation": "Cô bé này khá dũng cảm đấy."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "倒",
+            "蛮",
+            "会",
+            "说话",
+            "的",
+            "。"
+          ],
+          "chinese": "你倒蛮会说话的。",
+          "pinyin": "nǐ dǎo mán hùi shuōhuà de 。",
+          "translation": "Bạn khéo ăn nói thật đấy."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "你们",
+            "都",
+            "说",
+            "这个",
+            "菜",
+            "太辣了",
+            "，我",
+            "倒",
+            "不",
+            "觉得",
+            "。"
+          ],
+          "chinese": "你们都说这个菜太辣了，我倒不觉得。",
+          "pinyin": "nǐmen dū shuō zhègè cài tàilàle ，wǒ dǎo bù juédé 。",
+          "translation": "Mọi người đều nói món này quá cay, tôi thì không nghĩ vậy."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "别人",
+            "都",
+            "说",
+            "他",
+            "跟",
+            "她",
+            "结婚",
+            "是",
+            "为了",
+            "钱",
+            "，我",
+            "倒",
+            "不",
+            "这么",
+            "看",
+            "。"
+          ],
+          "chinese": "别人都说他跟她结婚是为了钱，我倒不这么看。",
+          "pinyin": "biérén dū shuō tā gēn tā jiéhūn shì wèile qián ，wǒ dǎo bù zhèyāo kàn 。",
+          "translation": "Ai cũng bảo anh ấy cưới cô ấy vì tiền, nhưng tôi không nghĩ vậy."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "很",
+            "多",
+            "人",
+            "认为",
+            "钱",
+            "是",
+            "最",
+            "重要",
+            "的",
+            "，我",
+            "倒",
+            "不",
+            "这么",
+            "想",
+            "。"
+          ],
+          "chinese": "很多人认为钱是最重要的，我倒不这么想。",
+          "pinyin": "hěn duō rén rènwèi qián shì zùi zhòngyào de ，wǒ dǎo bù zhèyāo xiǎng 。",
+          "translation": "Nhiều người cho rằng tiền là quan trọng nhất, nhưng tôi không nghĩ vậy."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "你",
+            "倒是",
+            "说话",
+            "呀",
+            "！"
+          ],
+          "chinese": "你倒是说话呀！",
+          "pinyin": "nǐ dǎoshì shuōhuà yā ！",
+          "translation": "Bạn nói thử xem!"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "倒是",
+            "说",
+            "呀",
+            "！"
+          ],
+          "chinese": "你倒是说呀！",
+          "pinyin": "nǐ dǎoshì shuō yā ！",
+          "translation": "Bạn nói đúng rồi đấy!"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "你",
+            "倒是",
+            "走",
+            "啊",
+            "！"
+          ],
+          "chinese": "你倒是走啊！",
+          "pinyin": "nǐ dǎoshì zǒu a ！",
+          "translation": "Bạn đang rời đi đấy à!"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "你们",
+            "倒是",
+            "签",
+            "啊",
+            "！"
+          ],
+          "chinese": "你们倒是签啊！",
+          "pinyin": "nǐmen dǎoshì qiān a ！",
+          "translation": "Các bạn đã ký nó rồi đấy!"
+        }
+      ],
+      "titleVi": "Cách dùng nâng cao của 倒"
+    },
+    {
+      "id": "6-ASGA1B87",
+      "title": "Emphasizing with henshi",
+      "structures": [
+        "Subj. + 很是 + Adj.",
+        "Subj. + 很是 + 会 / 能 + Verb"
+      ],
+      "usedFor": [
+        "Biểu thị mức độ",
+        "Nhấn mạnh"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGA1B87",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "这样做",
+            "很是",
+            "必要",
+            "。"
+          ],
+          "chinese": "这样做很是必要。",
+          "pinyin": "zhèyángzuò hěnshì bìyào 。",
+          "translation": "Việc này là cần thiết."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "的",
+            "工作",
+            "表现",
+            "让",
+            "领导",
+            "很是",
+            "满意",
+            "。"
+          ],
+          "chinese": "你的工作表现让领导很是满意。",
+          "pinyin": "nǐ de gōngzuò biǎoxiàn ràng lǐngdǎo hěnshì mǎnyì 。",
+          "translation": "Sự thể hiện của bạn rất làm lãnh đạo hài lòng."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "你",
+            "穿",
+            "西装",
+            "看起来",
+            "很是",
+            "精神",
+            "。"
+          ],
+          "chinese": "你穿西装看起来很是精神。",
+          "pinyin": "nǐ chuān xīzhuāng kànqǐlái hěnshì jīngshén 。",
+          "translation": "Bạn mặc vest trông rất có khí chất."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "这",
+            "件",
+            "事",
+            "让",
+            "我",
+            "很是",
+            "不",
+            "舒服",
+            "。"
+          ],
+          "chinese": "这件事让我很是不舒服。",
+          "pinyin": "zhè jiàn shì ràng wǒ hěnshì bù shūfú 。",
+          "translation": "Chuyện này làm tôi rất khó chịu."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "我",
+            "老板",
+            "很是",
+            "喜欢",
+            "你",
+            "的",
+            "设计",
+            "风格",
+            "。"
+          ],
+          "chinese": "我老板很是喜欢你的设计风格。",
+          "pinyin": "wǒ lǎobǎn hěnshì xǐhuān nǐ de shèjì fēnggé 。",
+          "translation": "Sếp của tôi rất thích phong cách thiết kế của bạn."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "他",
+            "都",
+            "退休",
+            "了",
+            "，还在",
+            "创业",
+            "，让人",
+            "很是",
+            "佩服",
+            "。"
+          ],
+          "chinese": "他都退休了，还在创业，让人很是佩服。",
+          "pinyin": "tā dū tùixīu le ，huánzài chuàngyè ，ràngrén hěnshì pèifú 。",
+          "translation": "Ông ấy đã nghỉ hưu mà vẫn khởi nghiệp, thật đáng ngưỡng mộ."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "你们",
+            "的",
+            "表演",
+            "太",
+            "夸张",
+            "了",
+            "，让",
+            "人",
+            "很是",
+            "受不了",
+            "。"
+          ],
+          "chinese": "你们的表演太夸张了，让人很是受不了。",
+          "pinyin": "nǐmen de biǎoyǎn tài kuāzhāng le ，ràng rén hěnshì shòubùle 。",
+          "translation": "Sự thể hiện của bạn quá lố lăng khiến người ta không thể chịu nổi."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "爸爸",
+            "当",
+            "过",
+            "大厨",
+            "，他",
+            "很是",
+            "会",
+            "吃",
+            "。"
+          ],
+          "chinese": "我爸爸当过大厨，他很是会吃。",
+          "pinyin": "wǒ bàbà dāng guò dàchú ，tā hěnshì hùi chī 。",
+          "translation": "Bố tôi từng là đầu bếp, ông ấy rất sành ăn."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "我",
+            "妹妹",
+            "虽然",
+            "小",
+            "，但",
+            "很是",
+            "会",
+            "说话",
+            "。"
+          ],
+          "chinese": "我妹妹虽然小，但很是会说话。",
+          "pinyin": "wǒ mèimèi sūirán xiǎo ，dàn hěnshì hùi shuōhuà 。",
+          "translation": "Mặc dù em gái tôi nhỏ người nhưng lại rất hoạt ngôn."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "这个",
+            "男人",
+            "很是",
+            "会",
+            "骗女人",
+            "。"
+          ],
+          "chinese": "这个男人很是会骗女人。",
+          "pinyin": "zhègè nánrén hěnshì hùi piànnv̌rén 。",
+          "translation": "Người đàn ông này có thể lừa dối phụ nữ."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "大",
+            "老板",
+            "很是",
+            "能",
+            "喝",
+            "。"
+          ],
+          "chinese": "大老板很是能喝。",
+          "pinyin": "dà lǎobǎn hěnshì néng hē 。",
+          "translation": "Đại ca rất tửu lượng cao."
+        }
+      ],
+      "titleVi": "Nhấn mạnh với 很是"
+    },
+    {
+      "id": "6-ASGJIFI9",
+      "title": "Expressing a full with zuzu",
+      "structures": [
+        "足足 + Verb :: / :: Verb + 足足"
+      ],
+      "usedFor": [
+        "Nhấn mạnh một con số"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGJIFI9",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "姚明",
+            "身高",
+            "足足",
+            "有",
+            "2.26米",
+            "。"
+          ],
+          "chinese": "姚明身高足足有2.26米。",
+          "pinyin": "yáomíng shēngāo zúzú yǒu 2.26mǐ 。",
+          "translation": "Diêu Minh cao 2,26 mét."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "昨天",
+            "我的",
+            "约会",
+            "不",
+            "太",
+            "顺利，她",
+            "让",
+            "我",
+            "等",
+            "了",
+            "足足",
+            "两",
+            "个",
+            "小时",
+            "。"
+          ],
+          "chinese": "昨天我的约会不太顺利，她让我等了足足两个小时。",
+          "pinyin": "zuótiān wǒde yuēhùi bù tài shùnlì，tā ràng wǒ děng le zúzú liǎng gè xiǎoshí 。",
+          "translation": "Hôm qua cuộc hẹn của tôi không suôn sẻ lắm. Cô ấy bắt tôi đợi suốt hai tiếng đồng hồ."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "怪不得",
+            "他",
+            "汉语",
+            "说",
+            "得",
+            "那么",
+            "好，他",
+            "在",
+            "中国",
+            "住",
+            "了",
+            "足足",
+            "十",
+            "年",
+            "的",
+            "时间！"
+          ],
+          "chinese": "怪不得他汉语说得那么好，他在中国住了足足十年的时间！",
+          "pinyin": "guàibùdé tā hànyǔ shuō dé nàyāo hǎo，tā zài zhōngguó zhù le zúzú shí nián de shíjiān！",
+          "translation": "Hèn gì anh ấy nói tiếng Trung giỏi thế, anh ấy đã sống ở Trung Quốc trọn mười năm rồi!"
+        }
+      ],
+      "titleVi": "Thể hiện đầy đủ với zuzu"
+    },
+    {
+      "id": "6-ASG47D26",
+      "title": "Expressing again and again with yizai",
+      "structures": [
+        "Subj. + 一再 + Verb"
+      ],
+      "usedFor": [
+        "Nhấn mạnh"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG47D26",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "一再",
+            "跟",
+            "你",
+            "说",
+            "，出门在外",
+            "要",
+            "小心",
+            "。"
+          ],
+          "chinese": "我一再跟你说，出门在外要小心。",
+          "pinyin": "wǒ yīzài gēn nǐ shuō ，chūménzàiwài yào xiǎoxīn 。",
+          "translation": "Tôi đã nhắc đi nhắc lại với bạn là phải cẩn thận khi ra ngoài."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "他",
+            "总是",
+            "犹犹豫豫",
+            "，一再",
+            "错失良机",
+            "。"
+          ],
+          "chinese": "他总是犹犹豫豫，一再错失良机。",
+          "pinyin": "tā zǒngshì yóuyóuyùyù ，yīzài cuòshīliángjī 。",
+          "translation": "Anh ta cứ do dự mãi nên đã bỏ lỡ cơ hội hết lần này đến lần khác."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "一再",
+            "强调",
+            "。"
+          ],
+          "chinese": "一再强调。",
+          "pinyin": "yīzài qiángdiào 。",
+          "translation": "Nhấn mạnh nhiều lần."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "一再",
+            "请求",
+            "。"
+          ],
+          "chinese": "一再请求。",
+          "pinyin": "yīzài qǐngqíu 。",
+          "translation": "Yêu cầu nhiều lần."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "一再",
+            "狡辩",
+            "。"
+          ],
+          "chinese": "一再狡辩。",
+          "pinyin": "yīzài jiǎobiàn 。",
+          "translation": "Ngụy biện nhiều lần."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "他",
+            "一再",
+            "地",
+            "解释",
+            "自己",
+            "不是",
+            "故意",
+            "的",
+            "。"
+          ],
+          "chinese": "他一再地解释自己不是故意的。",
+          "pinyin": "tā yīzài dì jiěshì zìjǐ bùshì gùyì de 。",
+          "translation": "Anh ấy đã giải thích nhiều lần rằng mình không cố ý."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "一再",
+            "地",
+            "嘱咐",
+            "你",
+            "，",
+            "。"
+          ],
+          "chinese": "一再地嘱咐你，。",
+          "pinyin": "yīzài dì zhǔfù nǐ ， 。",
+          "translation": "Tôi đã nói với bạn nhiều lần rồi."
+        },
+        {
+          "id": "ex-8",
+          "tokens": [
+            "一再",
+            "地提醒",
+            "。"
+          ],
+          "chinese": "一再地提醒。",
+          "pinyin": "yīzài dìtíxǐng 。",
+          "translation": "Nhắc nhở nhiều lần."
+        }
+      ],
+      "titleVi": "Thể hiện hết lần này đến lần khác với yizai"
+    },
+    {
+      "id": "6-ASGDU0XL",
+      "title": "Expressing always previously with xianglai",
+      "structures": [
+        "Subject + 向来（都） + Verb/Verb Phrase"
+      ],
+      "usedFor": [
+        "Đề cập đến quá khứ",
+        "Diễn tả tần suất"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGDU0XL",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "父母",
+            "向来",
+            "不",
+            "喜欢",
+            "我",
+            "跟",
+            "你们",
+            "一起",
+            "出去",
+            "玩儿",
+            "。"
+          ],
+          "chinese": "我父母向来不喜欢我跟你们一起出去玩儿。",
+          "pinyin": "wǒ fùmǔ xiànglái bù xǐhuān wǒ gēn nǐmen yīqǐ chūqù wánér 。",
+          "translation": "Bố mẹ tôi chưa bao giờ thích tôi đi chơi với bạn."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "我",
+            "向来",
+            "努力，所以",
+            "我",
+            "每",
+            "一",
+            "次",
+            "考试",
+            "都",
+            "得",
+            "满分",
+            "。"
+          ],
+          "chinese": "我向来努力，所以我每一次考试都得满分。",
+          "pinyin": "wǒ xiànglái nǔlì，suǒyǐ wǒ měi yī cì kǎoshì dū dé mǎnfēn 。",
+          "translation": "Tôi luôn chăm chỉ học tập, nên kỳ thi nào tôi cũng đạt điểm tối đa."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "那个",
+            "足球",
+            "队员",
+            "一向",
+            "被",
+            "称为",
+            "“金脚”，因为",
+            "他",
+            "踢",
+            "足球",
+            "踢",
+            "得",
+            "非常",
+            "好",
+            "。"
+          ],
+          "chinese": "那个足球队员一向被称为“金脚”，因为他踢足球踢得非常好。",
+          "pinyin": "nàgè zúqíu dùiyuán yīxiàng bèi chēngwèi “jīnjiǎo”，yīnwèi tā tī zúqíu tī dé fēicháng hǎo 。",
+          "translation": "Cầu thủ bóng đá đó luôn được gọi là đôi chân vàng vì anh ấy đá bóng rất giỏi."
+        }
+      ],
+      "titleVi": "Thể hiện luôn luôn trước đó với xianglai"
+    },
+    {
+      "id": "6-ASGC11D0",
+      "title": "Expressing as expected with guoran",
+      "structures": [
+        "Subj. + 果然 + Predicate",
+        "Clause 1 ，果然 ，Clause 2"
+      ],
+      "usedFor": [
+        "Bày tỏ thái độ"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGC11D0",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "第一名",
+            "果然",
+            "是",
+            "她",
+            "！我",
+            "就",
+            "知道",
+            "。"
+          ],
+          "chinese": "第一名果然是她！我就知道。",
+          "pinyin": "dìyīmíng guǒrán shì tā ！wǒ jìu zhīdào 。",
+          "translation": "Quả nhiên người đứng nhất là cô ấy! Tôi biết ngay mà."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "大厨",
+            "做",
+            "的",
+            "菜",
+            "果然",
+            "不一样",
+            "！好吃",
+            "！"
+          ],
+          "chinese": "大厨做的菜果然不一样！好吃！",
+          "pinyin": "dàchú zuò de cài guǒrán bùyīyáng ！hǎochī ！",
+          "translation": "Đầu bếp làm món ăn khác hẳn! Ăn rất ngon!"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "你",
+            "说",
+            "得",
+            "没错",
+            "！他",
+            "果然",
+            "是",
+            "个",
+            "骗子",
+            "！"
+          ],
+          "chinese": "你说得没错！他果然是个骗子！",
+          "pinyin": "nǐ shuō dé méicuò ！tā guǒrán shì gè piànzǐ ！",
+          "translation": "Bạn nói đúng rồi! Anh ta quả thực là kẻ nói dối!"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "这个",
+            "止疼药",
+            "果然",
+            "有效",
+            "，我的",
+            "头疼",
+            "好多了",
+            "。"
+          ],
+          "chinese": "这个止疼药果然有效，我的头疼好多了。",
+          "pinyin": "zhègè zhǐténgyào guǒrán yǒuxiào ，wǒde tóuténg hǎoduōle 。",
+          "translation": "Thuốc giảm đau này thực sự có tác dụng, cơn đau đầu của tôi đã đỡ hơn nhiều rồi."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "司机",
+            "师傅",
+            "说",
+            "马上",
+            "到",
+            "，果然",
+            "，两分钟",
+            "以后",
+            "车",
+            "就",
+            "来",
+            "了",
+            "。"
+          ],
+          "chinese": "司机师傅说马上到，果然，两分钟以后车就来了。",
+          "pinyin": "sījī shīfù shuō mǎshàng dào ，guǒrán ，liǎngfēnzhōng yǐhòu chē jìu lái le 。",
+          "translation": "Bác tài xế bảo sắp đến nơi, quả nhiên hai phút sau xe đã tới."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "他",
+            "让",
+            "我",
+            "别",
+            "担心",
+            "，果然",
+            "，他",
+            "很快",
+            "修好",
+            "了",
+            "我们",
+            "的",
+            "网络",
+            "。"
+          ],
+          "chinese": "他让我别担心，果然，他很快修好了我们的网络。",
+          "pinyin": "tā ràng wǒ bié dànxīn ，guǒrán ，tā hěnkuài xīuhǎo le wǒmen de wǎngluò 。",
+          "translation": "Anh ấy bảo tôi đừng lo lắng, quả nhiên anh ấy đã nhanh chóng sửa xong mạng cho chúng tôi."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "天气",
+            "预报",
+            "说",
+            "今早",
+            "要",
+            "下",
+            "大雨",
+            "，果然",
+            "如此",
+            "！"
+          ],
+          "chinese": "天气预报说今早要下大雨，果然如此！",
+          "pinyin": "tiānqì yùbào shuō jīnzǎo yào xià dàyǔ ，guǒrán rúcǐ ！",
+          "translation": "Dự báo thời tiết nói sáng nay trời sẽ mưa to, quả nhiên là vậy!"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "果然",
+            "不出所料",
+            "，内奸",
+            "就是",
+            "他",
+            "！"
+          ],
+          "chinese": "果然不出所料，内奸就是他！",
+          "pinyin": "guǒrán bùchūsuǒliào ，nèijiān jìushì tā ！",
+          "translation": "Quả nhiên kẻ phản bội chính là hắn!"
+        }
+      ],
+      "titleVi": "Thể hiện như mong đợi với guoran"
+    },
+    {
+      "id": "6-ASGB316B",
+      "title": "Expressing as if with sihu",
+      "structures": [
+        "Subj. + 似乎 ⋯⋯"
+      ],
+      "usedFor": [
+        "Bày tỏ thái độ"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGB316B",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "老板",
+            "今天",
+            "似乎",
+            "不太",
+            "高兴",
+            "。"
+          ],
+          "chinese": "老板今天似乎不太高兴。",
+          "pinyin": "lǎobǎn jīntiān sìhū bùtài gāoxīng 。",
+          "translation": "Hôm nay sếp có vẻ không vui lắm."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "说",
+            "得",
+            "似乎",
+            "很",
+            "有道理",
+            "。"
+          ],
+          "chinese": "你说得似乎很有道理。",
+          "pinyin": "nǐ shuō dé sìhū hěn yǒudàolǐ 。",
+          "translation": "Những gì bạn nói đều có lý."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "他",
+            "似乎",
+            "明白",
+            "这句话",
+            "的",
+            "意思",
+            "，却",
+            "又",
+            "说不清楚",
+            "。"
+          ],
+          "chinese": "他似乎明白这句话的意思，却又说不清楚。",
+          "pinyin": "tā sìhū míngbái zhèjùhuà de yìsī ，què yòu shuōbùqīngchǔ 。",
+          "translation": "Anh ấy có vẻ hiểu ý nghĩa của câu này, nhưng lại không thể nói rõ ràng ra được."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "她",
+            "似乎",
+            "隐瞒",
+            "了",
+            "什么",
+            "。"
+          ],
+          "chinese": "她似乎隐瞒了什么。",
+          "pinyin": "tā sìhū yǐnmán le shíyāo 。",
+          "translation": "Cô ấy có vẻ như đang che giấu điều gì đó."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "似乎",
+            "没有人",
+            "关心",
+            "那个",
+            "小男孩",
+            "。"
+          ],
+          "chinese": "似乎没有人关心那个小男孩。",
+          "pinyin": "sìhū méiyǒurén guānxīn nàgè xiǎonánhái 。",
+          "translation": "Dường như không ai quan tâm đến cậu bé đó cả."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "她",
+            "似乎",
+            "才",
+            "三十",
+            "出头",
+            "，但",
+            "其实",
+            "已经",
+            "快",
+            "五十",
+            "了",
+            "。"
+          ],
+          "chinese": "她似乎才三十出头，但其实已经快五十了。",
+          "pinyin": "tā sìhū cái sānshí chūtóu ，dàn qíshí yǐjīng kuài wǔshí le 。",
+          "translation": "Cô ấy trông có vẻ mới ngoài ba mươi, nhưng thực ra đã gần năm mươi rồi."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "我",
+            "男朋友",
+            "似乎",
+            "冷冷",
+            "的",
+            "，其实",
+            "他",
+            "很",
+            "热情",
+            "。"
+          ],
+          "chinese": "我男朋友似乎冷冷的，其实他很热情。",
+          "pinyin": "wǒ nánpéngyǒu sìhū lěnglěng de ，qíshí tā hěn rèqíng 。",
+          "translation": "Bạn trai tôi trông có vẻ lạnh lùng, nhưng thực ra anh ấy rất nhiệt tình."
+        }
+      ],
+      "titleVi": "Thể hiện như thể với sihu"
+    },
+    {
+      "id": "6-ASG38F8A",
+      "title": "Expressing as long as with fanshi",
+      "structures": [
+        "凡是 + Noun + 都 / 就 / 一律 + Predicate",
+        "凡(是) + Noun + 无不 / 均 + Predicate"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG38F8A",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "凡是",
+            "用",
+            "鸡蛋",
+            "做",
+            "的",
+            "菜",
+            "，他",
+            "都",
+            "不",
+            "喜欢",
+            "。"
+          ],
+          "chinese": "凡是用鸡蛋做的菜，他都不喜欢。",
+          "pinyin": "fánshì yòng jīdàn zuò de cài ，tā dū bù xǐhuān 。",
+          "translation": "Anh ấy không thích các món ăn làm từ trứng."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "凡是",
+            "不",
+            "听话",
+            "的",
+            "孩子",
+            "都",
+            "没有",
+            "糖",
+            "吃",
+            "。"
+          ],
+          "chinese": "凡是不听话的孩子都没有糖吃。",
+          "pinyin": "fánshì bù tīnghuà de háizǐ dū méiyǒu táng chī 。",
+          "translation": "Đứa trẻ nào không ngoan thì không được ăn kẹo."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "凡是",
+            "会员",
+            "都",
+            "有",
+            "折扣",
+            "。"
+          ],
+          "chinese": "凡是会员都有折扣。",
+          "pinyin": "fánshì hùiyuán dū yǒu zhékòu 。",
+          "translation": "Tất cả thành viên đều được giảm giá."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "凡是",
+            "美国",
+            "公民",
+            "就",
+            "可以",
+            "投票",
+            "，这",
+            "是",
+            "真的",
+            "吗",
+            "？"
+          ],
+          "chinese": "凡是美国公民就可以投票，这是真的吗？",
+          "pinyin": "fánshì měiguó gōngmín jìu kěyǐ tóupiào ，zhè shì zhēnde ma ？",
+          "translation": "Có phải bất kỳ công dân Mỹ nào cũng có quyền bỏ phiếu không?"
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "凡是",
+            "提前",
+            "三天",
+            "报名",
+            "的",
+            "人",
+            "就",
+            "可以",
+            "免费",
+            "入场",
+            "。"
+          ],
+          "chinese": "凡是提前三天报名的人就可以免费入场。",
+          "pinyin": "fánshì tíqián sāntiān bàomíng de rén jìu kěyǐ miǎnfèi rùcháng 。",
+          "translation": "Những ai đăng ký trước ba ngày đều được vào cửa miễn phí."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "凡是",
+            "没有",
+            "体检",
+            "的",
+            "人",
+            "一律",
+            "不能",
+            "献血",
+            "。"
+          ],
+          "chinese": "凡是没有体检的人一律不能献血。",
+          "pinyin": "fánshì méiyǒu tǐjiǎn de rén yīlv̀ bùnéng xiànxiě 。",
+          "translation": "Bất cứ ai không kiểm tra sức khỏe đều không được hiến máu."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "凡是",
+            "杀",
+            "了",
+            "人",
+            "的",
+            "人",
+            "一律",
+            "判死刑",
+            "，这是",
+            "真的",
+            "吗",
+            "？"
+          ],
+          "chinese": "凡是杀了人的人一律判死刑，这是真的吗？",
+          "pinyin": "fánshì shā le rén de rén yīlv̀ pànsǐxíng ，zhèshì zhēnde ma ？",
+          "translation": "Có phải tất cả những kẻ giết người đều bị kết án tử hình không?"
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "凡是",
+            "听说",
+            "这件事",
+            "的",
+            "人",
+            "无不",
+            "惊讶",
+            "。"
+          ],
+          "chinese": "凡是听说这件事的人无不惊讶。",
+          "pinyin": "fánshì tīngshuō zhèjiànshì de rén wúbù liángyà 。",
+          "translation": "Tất cả những ai nghe tin này đều cảm thấy ngạc nhiên."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "凡是",
+            "看",
+            "过",
+            "他",
+            "的",
+            "表演",
+            "的",
+            "人",
+            "无不",
+            "赞叹",
+            "他",
+            "的",
+            "演技",
+            "。"
+          ],
+          "chinese": "凡是看过他的表演的人无不赞叹他的演技。",
+          "pinyin": "fánshì kàn guò tā de biǎoyǎn de rén wúbù zàntàn tā de yǎnjì 。",
+          "translation": "Bất cứ ai đã xem màn trình diễn của anh ấy đều khen ngợi kỹ năng diễn xuất của anh ấy."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "凡",
+            "质量",
+            "不合格",
+            "的",
+            "产品",
+            "均",
+            "须",
+            "退回",
+            "。"
+          ],
+          "chinese": "凡质量不合格的产品均须退回。",
+          "pinyin": "fán zhíliàng bùhégé de chǎnpǐn jūn xū tùihúi 。",
+          "translation": "Tất cả các sản phẩm không đạt tiêu chuẩn đều phải bị trả lại."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "凡",
+            "使用",
+            "兴奋剂",
+            "的",
+            "运动员",
+            "均",
+            "会",
+            "受到",
+            "严重",
+            "惩罚",
+            "。"
+          ],
+          "chinese": "凡使用兴奋剂的运动员均会受到严重惩罚。",
+          "pinyin": "fán shǐyòng xīngfènjì de yùndòngyuán jūn hùi shòudào yánzhòng chéngfá 。",
+          "translation": "Các vận động viên sử dụng chất kích thích sẽ bị trừng phạt nghiêm khắc."
+        }
+      ],
+      "titleVi": "Thể hiện miễn là với fanshi"
+    },
+    {
+      "id": "6-ASGFZOLQ",
+      "title": "Expressing contrary to expectations with pianpian",
+      "structures": [
+        "A, Subject + 偏偏 + B"
+      ],
+      "usedFor": [
+        "Sự tương phản"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGFZOLQ",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "经过",
+            "大家",
+            "的",
+            "讨论，问题",
+            "都",
+            "解决",
+            "了，偏偏",
+            "他",
+            "还",
+            "要",
+            "钻",
+            "牛角尖",
+            "。"
+          ],
+          "chinese": "经过大家的讨论，问题都解决了，偏偏他还要钻牛角尖。",
+          "pinyin": "jīngguò dàjiā de tǎolùn，wèntí dū jiějué le，piānpiān tā huán yào zuàn níujiǎojiān 。",
+          "translation": "Sau khi mọi người thảo luận, vấn đề đã được giải quyết, nhưng anh ta vẫn cứ cố chấp."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "不",
+            "叫",
+            "他",
+            "去，他",
+            "偏偏",
+            "要",
+            "去",
+            "。"
+          ],
+          "chinese": "不叫他去，他偏偏要去。",
+          "pinyin": "bù jiào tā qù，tā piānpiān yào qù 。",
+          "translation": "Đừng bảo anh ấy đi, anh ấy chỉ muốn đi thôi."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "大家",
+            "都",
+            "叫",
+            "他",
+            "离开",
+            "了，偏偏",
+            "他",
+            "还",
+            "赖着",
+            "不",
+            "走",
+            "。"
+          ],
+          "chinese": "大家都叫他离开了，偏偏他还赖着不走。",
+          "pinyin": "dàjiā dū jiào tā líkāi le，piānpiān tā huán làizháo bù zǒu 。",
+          "translation": "Mọi người đều bảo anh ấy rời đi, nhưng anh ấy vẫn nhất quyết không chịu đi."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "星期天",
+            "他",
+            "来",
+            "找",
+            "我，偏偏",
+            "我",
+            "不",
+            "在",
+            "家",
+            "。"
+          ],
+          "chinese": "星期天他来找我，偏偏我不在家。",
+          "pinyin": "xīngqītiān tā lái zhǎo wǒ，piānpiān wǒ bù zài jiā 。",
+          "translation": "Anh ấy đến tìm tôi vào Chủ nhật, nhưng tôi lại không có nhà."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "好不",
+            "容易",
+            "找到",
+            "了",
+            "他，偏偏",
+            "又",
+            "碰上",
+            "小李",
+            "拉",
+            "他",
+            "去",
+            "办事",
+            "。"
+          ],
+          "chinese": "好不容易找到了他，偏偏又碰上小李拉他去办事。",
+          "pinyin": "hǎobù róngyì zhǎodào le tā，piānpiān yòu pèngshàng xiǎolǐ lā tā qù bànshì 。",
+          "translation": "Cuối cùng thì anh ấy cũng được tìm thấy, nhưng Tiểu Lệ lại kéo anh ấy đi làm việc tiếp."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "这个",
+            "星期天",
+            "本来",
+            "约",
+            "好",
+            "和",
+            "朋友",
+            "去",
+            "赏",
+            "樱花，偏偏",
+            "下",
+            "大雨，就",
+            "没",
+            "去",
+            "。"
+          ],
+          "chinese": "这个星期天本来约好和朋友去赏樱花，偏偏下大雨，就没去。",
+          "pinyin": "zhègè xīngqītiān běnlái yuē hǎo hé péngyǒu qù shǎng yīnghuā，piānpiān xià dàyǔ，jìu méi qù 。",
+          "translation": "Chủ nhật này tôi đã hẹn bạn bè đi ngắm hoa anh đào, nhưng trời mưa to quá nên tôi không đi nữa."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "学生们",
+            "都",
+            "在",
+            "认真",
+            "听",
+            "老师",
+            "讲课，偏偏",
+            "他",
+            "一个人",
+            "在",
+            "那里",
+            "打",
+            "游戏",
+            "。"
+          ],
+          "chinese": "学生们都在认真听老师讲课，偏偏他一个人在那里打游戏。",
+          "pinyin": "xuéshēngmen dū zài rènzhēn tīng lǎoshī jiǎngkè，piānpiān tā yīgèrén zài nàlǐ dǎ yóuxì 。",
+          "translation": "Các học sinh đang chăm chú nghe giảng, còn cậu ta thì lại ngồi chơi game một mình ở đó."
+        },
+        {
+          "id": "ex-8",
+          "tokens": [
+            "别的人",
+            "都",
+            "早",
+            "到",
+            "了，偏偏",
+            "他",
+            "一个人",
+            "迟到",
+            "。"
+          ],
+          "chinese": "别的人都早到了，偏偏他一个人迟到。",
+          "pinyin": "biéderén dū zǎo dào le，piānpiān tā yīgèrén chídào 。",
+          "translation": "Mọi người đều đến sớm, chỉ có mình cậu ta là đến muộn."
+        },
+        {
+          "id": "ex-9",
+          "tokens": [
+            "别的人",
+            "都",
+            "学",
+            "会",
+            "了，偏偏",
+            "他",
+            "不",
+            "会",
+            "。"
+          ],
+          "chinese": "别的人都学会了，偏偏他不会。",
+          "pinyin": "biéderén dū xué hùi le，piānpiān tā bù hùi 。",
+          "translation": "Người khác đều đã học được rồi, chỉ có cậu ta là không học."
+        }
+      ],
+      "titleVi": "Thể hiện sự trái ngược với mong đợi với đàn piano"
+    },
+    {
+      "id": "6-ASGC8A38",
+      "title": "Expressing no exception with yilu",
+      "structures": [
+        "一律 (+ 都) + Verb / Adj."
+      ],
+      "usedFor": [
+        "Bày tỏ thái độ",
+        "Nhấn mạnh",
+        "Biểu thị số lượng"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGC8A38",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "明天",
+            "的",
+            "部门",
+            "会议",
+            "一律",
+            "都",
+            "要",
+            "参加",
+            "。"
+          ],
+          "chinese": "明天的部门会议一律都要参加。",
+          "pinyin": "míngtiān de bùmén hùiyì yīlv̀ dū yào cānjiā 。",
+          "translation": "Các cuộc họp của bộ phận vào ngày mai tất cả đều phải tham dự."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "70岁",
+            "以上",
+            "的",
+            "老人",
+            "坐公交",
+            "一律",
+            "都",
+            "免费",
+            "。"
+          ],
+          "chinese": "70岁以上的老人坐公交一律都免费。",
+          "pinyin": "70sùi yǐshàng de lǎorén zuògōngjiāo yīlv̀ dū miǎnfèi 。",
+          "translation": "Người già trên 70 tuổi đều được miễn phí."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "不管",
+            "是",
+            "谁",
+            "，一律",
+            "都",
+            "要",
+            "通过",
+            "六个月",
+            "试用期",
+            "。"
+          ],
+          "chinese": "不管是谁，一律都要通过六个月试用期。",
+          "pinyin": "bùguǎn shì shúi ，yīlv̀ dū yào tōngguò lìugèyuè shìyòngqī 。",
+          "translation": "Bất kể là ai, tất cả đều phải trải qua thời gian thử việc 6 tháng."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "不需要",
+            "的",
+            "东西",
+            "一律",
+            "捐掉",
+            "。"
+          ],
+          "chinese": "不需要的东西一律捐掉。",
+          "pinyin": "bùxūyào de dōngxī yīlv̀ juāndiào 。",
+          "translation": "Đừng cho đi bất cứ thứ gì mà bạn không cần đến."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "政府",
+            "命令",
+            "重污染",
+            "企业",
+            "一律",
+            "停业",
+            "。"
+          ],
+          "chinese": "政府命令重污染企业一律停业。",
+          "pinyin": "zhèngfǔ mìnglìng zhòngwūrǎn qǐyè yīlv̀ tíngyè 。",
+          "translation": "Chính phủ đã ra lệnh cho tất cả các doanh nghiệp gây ô nhiễm nặng phải đóng cửa."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "从",
+            "明年",
+            "一月",
+            "起",
+            "酒后驾车",
+            "一律",
+            "重罚",
+            "。"
+          ],
+          "chinese": "从明年一月起酒后驾车一律重罚。",
+          "pinyin": "cóng míngnián yīyuè qǐ jǐuhòujiàchē yīlv̀ zhòngfá 。",
+          "translation": "Từ tháng 1 năm sau, lái xe khi say rượu sẽ bị phạt rất nặng."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "这些",
+            "刚刚",
+            "过期",
+            "的",
+            "食物",
+            "一律",
+            "都",
+            "半价",
+            "。"
+          ],
+          "chinese": "这些刚刚过期的食物一律都半价。",
+          "pinyin": "zhèxiē gānggāng guòqī de shíwù yīlv̀ dū bànjià 。",
+          "translation": "Tất cả những thực phẩm vừa hết hạn này đều được giảm giá một nửa."
+        },
+        {
+          "id": "ex-8",
+          "tokens": [
+            "这里",
+            "的",
+            "家具",
+            "一律",
+            "新的",
+            "。"
+          ],
+          "chinese": "这里的家具一律新的。",
+          "pinyin": "zhèlǐ de jiājù yīlv̀ xīnde 。",
+          "translation": "Đồ đạc ở đây đều là đồ mới."
+        }
+      ],
+      "titleVi": "Thể hiện không có ngoại lệ với yilu"
+    },
+    {
+      "id": "6-ASGW0911",
+      "title": "Expressing nothing but with wufei",
+      "structures": [
+        "无非 + 是 + Noun / Verb Phrase"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGW0911",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "空闲",
+            "时间",
+            "无非",
+            "是",
+            "游泳、看",
+            "书",
+            "而已",
+            "。"
+          ],
+          "chinese": "我空闲时间无非是游泳、看书而已。",
+          "pinyin": "wǒ kōngxián shíjiān wúfēi shì yóuyǒng、kàn shū éryǐ 。",
+          "translation": "Thời gian rảnh của tôi chẳng qua cũng chỉ là bơi lội và đọc sách mà thôi."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "我",
+            "空闲",
+            "时间",
+            "无非",
+            "游泳、看",
+            "书",
+            "而已",
+            "。"
+          ],
+          "chinese": "我空闲时间无非游泳、看书而已。",
+          "pinyin": "wǒ kōngxián shíjiān wúfēi yóuyǒng、kàn shū éryǐ 。",
+          "translation": "Thời gian rảnh của tôi chẳng qua cũng chỉ là bơi lội và đọc sách mà thôi."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "我",
+            "无非",
+            "是",
+            "批评",
+            "了",
+            "他",
+            "几",
+            "句，他",
+            "怎么",
+            "哭",
+            "了",
+            "？"
+          ],
+          "chinese": "我无非是批评了他几句，他怎么哭了？",
+          "pinyin": "wǒ wúfēi shì pīpíng le tā jī jù，tā zěnyāo kū le ？",
+          "translation": "Tôi chỉ phê bình cậu ấy vài câu, sao cậu ấy lại khóc?"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "我",
+            "无非",
+            "批评",
+            "了",
+            "他",
+            "几",
+            "句，他",
+            "怎么",
+            "哭",
+            "了",
+            "？"
+          ],
+          "chinese": "我无非批评了他几句，他怎么哭了？",
+          "pinyin": "wǒ wúfēi pīpíng le tā jī jù，tā zěnyāo kū le ？",
+          "translation": "Tôi chỉ phê bình cậu ấy vài câu, sao cậu ấy lại khóc?"
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "我们",
+            "无非",
+            "是",
+            "谈",
+            "了",
+            "一下",
+            "孩子",
+            "的",
+            "教育",
+            "问题",
+            "罢了，没",
+            "谈",
+            "什么",
+            "特别",
+            "的",
+            "事情",
+            "。"
+          ],
+          "chinese": "我们无非是谈了一下孩子的教育问题罢了，没谈什么特别的事情。",
+          "pinyin": "wǒmen wúfēi shì tán le yīxià háizǐ de jiàoyù wèntí bàle，méi tán shíyāo tèbié de shìqíng 。",
+          "translation": "Chúng tôi chỉ nói chuyện về việc giáo dục con cái, không có gì đặc biệt cả."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "我们",
+            "无非",
+            "谈",
+            "了",
+            "一下",
+            "孩子",
+            "的",
+            "教育",
+            "问题",
+            "罢了，没",
+            "谈",
+            "什么",
+            "特别",
+            "的",
+            "事情",
+            "。"
+          ],
+          "chinese": "我们无非谈了一下孩子的教育问题罢了，没谈什么特别的事情。",
+          "pinyin": "wǒmen wúfēi tán le yīxià háizǐ de jiàoyù wèntí bàle，méi tán shíyāo tèbié de shìqíng 。",
+          "translation": "Chúng tôi chỉ nói chuyện về việc giáo dục con cái, không có gì đặc biệt cả."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "他",
+            "这样",
+            "做，无非",
+            "是",
+            "为了",
+            "争取",
+            "更",
+            "多",
+            "的",
+            "权利",
+            "。"
+          ],
+          "chinese": "他这样做，无非是为了争取更多的权利。",
+          "pinyin": "tā zhèyáng zuò，wúfēi shì wèile zhēngqǔ gèng duō de quánlì 。",
+          "translation": "Cậu ta chẳng qua cũng chỉ là đấu tranh vì quyền lợi nhiều hơn mà thôi."
+        },
+        {
+          "id": "ex-8",
+          "tokens": [
+            "他",
+            "这样",
+            "做，无非",
+            "为了",
+            "争取",
+            "更",
+            "多",
+            "的",
+            "权利",
+            "。"
+          ],
+          "chinese": "他这样做，无非为了争取更多的权利。",
+          "pinyin": "tā zhèyáng zuò，wúfēi wèile zhēngqǔ gèng duō de quánlì 。",
+          "translation": "Cậu ta chẳng qua cũng chỉ là đấu tranh vì quyền lợi nhiều hơn mà thôi."
+        },
+        {
+          "id": "ex-9",
+          "tokens": [
+            "他",
+            "无非",
+            "是",
+            "个",
+            "经理，没",
+            "什么",
+            "了不起",
+            "的",
+            "。"
+          ],
+          "chinese": "他无非是个经理，没什么了不起的。",
+          "pinyin": "tā wúfēi shì gè jīnglǐ，méi shíyāo lebùqǐ de 。",
+          "translation": "Anh ta chẳng qua chỉ là một quản lý, không có gì phi thường cả."
+        },
+        {
+          "id": "ex-10",
+          "tokens": [
+            "招待",
+            "中国",
+            "客人",
+            "最",
+            "好",
+            "的",
+            "饮料",
+            "无非",
+            "是",
+            "一",
+            "杯",
+            "热",
+            "茶",
+            "而已",
+            "。"
+          ],
+          "chinese": "招待中国客人最好的饮料无非是一杯热茶而已。",
+          "pinyin": "zhāodài zhōngguó kèrén zùi hǎo de yǐnliào wúfēi shì yī bēi rè chá éryǐ 。",
+          "translation": "Thức uống tốt nhất để tiếp đãi khách Trung Quốc chẳng qua cũng chỉ là một tách trà nóng."
+        },
+        {
+          "id": "ex-11",
+          "tokens": [
+            "城市",
+            "里",
+            "的",
+            "人",
+            "来",
+            "到",
+            "农村，他们",
+            "最",
+            "想",
+            "感受",
+            "的",
+            "无非",
+            "是",
+            "新鲜",
+            "的",
+            "空气，漂亮",
+            "的",
+            "风景",
+            "和",
+            "悠闲",
+            "的",
+            "生活",
+            "节奏",
+            "。"
+          ],
+          "chinese": "城市里的人来到农村，他们最想感受的无非是新鲜的空气，漂亮的风景和悠闲的生活节奏。",
+          "pinyin": "chéngshì lǐ de rén lái dào nóngcūn，tāmen zùi xiǎng gǎnshòu de wúfēi shì xīnxiān de kōngqì，piāoliàng de fēngjǐng hé yōuxián de shēnghuó jiézòu 。",
+          "translation": "Khi người thành phố về nông thôn, họ chẳng qua cũng chỉ muốn không khí trong lành, phong cảnh đẹp và nhịp sống thong thả."
+        },
+        {
+          "id": "ex-12",
+          "tokens": [
+            "孩子",
+            "想",
+            "得到",
+            "的",
+            "无非",
+            "是",
+            "你",
+            "的",
+            "关心",
+            "罢了",
+            "。"
+          ],
+          "chinese": "孩子想得到的无非是你的关心罢了。",
+          "pinyin": "háizǐ xiǎng dédào de wúfēi shì nǐ de guānxīn bàle 。",
+          "translation": "Thứ mà con bạn muốn chẳng qua cũng chỉ là sự quan tâm của bạn mà thôi."
+        }
+      ],
+      "titleVi": "Không thể hiện gì khác ngoài wufei"
+    },
+    {
+      "id": "6-ASGMDJTD",
+      "title": "Expressing when the time comes with dao shihou",
+      "structures": [
+        "……，到时候 + ……"
+      ],
+      "usedFor": [
+        "Biểu đạt thời gian và ngày tháng"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGMDJTD",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "现在",
+            "不",
+            "好好",
+            "准备",
+            "考试，到时候",
+            "肯定",
+            "考",
+            "不好",
+            "。"
+          ],
+          "chinese": "现在不好好准备考试，到时候肯定考不好。",
+          "pinyin": "xiànzài bù hǎohǎo zhǔnbèi kǎoshì，dàoshíhòu kěndìng kǎo bùhǎo 。",
+          "translation": "Bây giờ chuẩn bị cho kỳ thi không tốt, đến lúc đó chắc chắn sẽ tệ."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "我",
+            "要",
+            "学",
+            "唱",
+            "中文",
+            "的",
+            "生日快乐",
+            "歌，到时候",
+            "唱",
+            "给",
+            "你们",
+            "听",
+            "。"
+          ],
+          "chinese": "我要学唱中文的生日快乐歌，到时候唱给你们听。",
+          "pinyin": "wǒ yào xué chàng zhōngwén de shēngrìkuàilè gē，dàoshíhòu chàng gěi nǐmen tīng 。",
+          "translation": "Tôi sẽ học hát bài Chúc mừng sinh nhật bằng tiếng Trung rồi hát cho bạn nghe."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "你",
+            "先",
+            "自己",
+            "试",
+            "一",
+            "试，到时候",
+            "我",
+            "再",
+            "教",
+            "你",
+            "。"
+          ],
+          "chinese": "你先自己试一试，到时候我再教你。",
+          "pinyin": "nǐ xiān zìjǐ shì yī shì，dàoshíhòu wǒ zài jiào nǐ 。",
+          "translation": "Bạn cứ thử tự làm đi, lát nữa tôi sẽ dạy bạn."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "到时候",
+            "见",
+            "。"
+          ],
+          "chinese": "到时候见。",
+          "pinyin": "dàoshíhòu jiàn 。",
+          "translation": "Đến lúc đó gặp lại nhé."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "到时候",
+            "看",
+            "吧",
+            "。"
+          ],
+          "chinese": "到时候看吧。",
+          "pinyin": "dàoshíhòu kàn ba 。",
+          "translation": "Chúng ta xem thử đi."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "到时候",
+            "再",
+            "说",
+            "吧",
+            "。"
+          ],
+          "chinese": "到时候再说吧。",
+          "pinyin": "dàoshíhòu zài shuō ba 。",
+          "translation": "Để lát nữa tôi nói chuyện đó sau."
+        }
+      ],
+      "titleVi": "Thể hiện khi thời gian đến với 到 shihou"
+    },
+    {
+      "id": "6-ASG3AD49",
+      "title": "Expressing why with hebi",
+      "structures": [
+        "Subj. + 何必 + Predicate",
+        "何必⋯⋯ 呢 ？⋯⋯"
+      ],
+      "usedFor": [
+        "Bày tỏ thái độ",
+        "Nhấn mạnh"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG3AD49",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "他",
+            "已经",
+            "道歉",
+            "了",
+            "，你",
+            "何必",
+            "还",
+            "生气",
+            "？"
+          ],
+          "chinese": "他已经道歉了，你何必还生气？",
+          "pinyin": "tā yǐjīng dàoqiàn le ，nǐ hébì huán shēngqì ？",
+          "translation": "Cậu ấy đã xin lỗi rồi, sao bạn vẫn còn giận?"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "都是",
+            "一家人",
+            "，你们",
+            "何必",
+            "这么",
+            "客气",
+            "？"
+          ],
+          "chinese": "都是一家人，你们何必这么客气？",
+          "pinyin": "dūshì yījiārén ，nǐmen hébì zhèyāo kèqì ？",
+          "translation": "Đều là người một nhà cả, sao bạn lại khách sáo như vậy?"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "上海",
+            "的",
+            "房子",
+            "那么",
+            "贵",
+            "，你儿子",
+            "何必",
+            "要",
+            "在",
+            "那儿",
+            "买",
+            "房子",
+            "？"
+          ],
+          "chinese": "上海的房子那么贵，你儿子何必要在那儿买房子？",
+          "pinyin": "shànghǎi de fángzǐ nàyāo gùi ，nǐérzǐ hébì yào zài nàér mǎi fángzǐ ？",
+          "translation": "Nhà ở Thượng Hải đắt đỏ như vậy, sao con trai bạn lại phải mua nhà ở đó?"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "我",
+            "只是",
+            "不小心",
+            "踩",
+            "了",
+            "你",
+            "一下",
+            "，你",
+            "何必",
+            "骂人",
+            "？"
+          ],
+          "chinese": "我只是不小心踩了你一下，你何必骂人？",
+          "pinyin": "wǒ zhǐshì bùxiǎoxīn cǎi le nǐ yīxià ，nǐ hébì màrén ？",
+          "translation": "Tôi chỉ vô tình giẫm phải bạn thôi, sao bạn lại chửi bới?"
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "何必",
+            "下周",
+            "？"
+          ],
+          "chinese": "何必下周？",
+          "pinyin": "hébì xiàzhōu ？",
+          "translation": "Tại sao lại là tuần sau?"
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "何必",
+            "总经理",
+            "？"
+          ],
+          "chinese": "何必总经理？",
+          "pinyin": "hébì zǒngjīnglǐ ？",
+          "translation": "Tại sao lại là tổng giám đốc?"
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "何必",
+            "大家",
+            "都",
+            "去",
+            "呢",
+            "？一个人",
+            "去",
+            "就",
+            "行了",
+            "。"
+          ],
+          "chinese": "何必大家都去呢？一个人去就行了。",
+          "pinyin": "hébì dàjiā dū qù ní ？yīgèrén qù jìu xíngle 。",
+          "translation": "Tại sao mọi người đều phải đi? Cứ đi một mình là được rồi."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "何必",
+            "亲自",
+            "过来",
+            "呢",
+            "？打个电话",
+            "就",
+            "行了",
+            "。"
+          ],
+          "chinese": "何必亲自过来呢？打个电话就行了。",
+          "pinyin": "hébì qīnzì guòlái ní ？dǎgèdiànhuà jìu xíngle 。",
+          "translation": "Tại sao phải đích thân đến? Chỉ cần gọi một cuộc điện thoại là được."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "何必",
+            "麻烦",
+            "别人",
+            "呢",
+            "？我",
+            "自己",
+            "能",
+            "行",
+            "。"
+          ],
+          "chinese": "何必麻烦别人呢？我自己能行。",
+          "pinyin": "hébì máfán biérén ní ？wǒ zìjǐ néng xíng 。",
+          "translation": "Tại sao phải làm phiền người khác? Tôi tự làm được mà."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "你",
+            "又",
+            "买",
+            "了",
+            "礼物",
+            "？何必",
+            "呢",
+            "？"
+          ],
+          "chinese": "你又买了礼物？何必呢？",
+          "pinyin": "nǐ yòu mǎi le lǐwù ？hébì ní ？",
+          "translation": "Bạn lại mua quà à? Phiền phức thế làm gì?"
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "为了",
+            "买",
+            "张",
+            "电影票",
+            "排",
+            "那么",
+            "长",
+            "时间",
+            "的",
+            "队",
+            "，何必",
+            "呢",
+            "？"
+          ],
+          "chinese": "为了买张电影票排那么长时间的队，何必呢？",
+          "pinyin": "wèile mǎi zhāng diànyǐngpiào pái nàyāo cháng shíjiān de dùi ，hébì ní ？",
+          "translation": "Tại sao phải đợi lâu như vậy mới mua vé xem phim?"
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "为",
+            "这样",
+            "的",
+            "人",
+            "伤心",
+            "，何必",
+            "呢",
+            "？"
+          ],
+          "chinese": "为这样的人伤心，何必呢？",
+          "pinyin": "wèi zhèyáng de rén shāngxīn ，hébì ní ？",
+          "translation": "Tại sao bạn lại cảm thấy buồn vì một người như vậy?"
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "早知如此，何必",
+            "当初",
+            "？"
+          ],
+          "chinese": "早知如此，何必当初？",
+          "pinyin": "zǎozhīrúcǐ，hébì dāngchū ？",
+          "translation": "Nếu biết trước như thế này, tại sao tôi phải làm vậy chứ?"
+        }
+      ],
+      "titleVi": "Thể hiện lý do tại sao với hebi"
+    },
+    {
+      "id": "6-ASGPV5Z2",
+      "title": "Expressing that something has already happened with laizhe",
+      "structures": [
+        "Sentence + 来着"
+      ],
+      "usedFor": [
+        "Sắp xếp thứ tự các sự kiện theo thời gian"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGPV5Z2",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "昨天",
+            "有",
+            "人",
+            "来",
+            "找",
+            "你",
+            "来着",
+            "。"
+          ],
+          "chinese": "昨天有人来找你来着。",
+          "pinyin": "zuótiān yǒu rén lái zhǎo nǐ láizháo 。",
+          "translation": "Hôm qua có người đến tìm bạn."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "那",
+            "本",
+            "书",
+            "昨天",
+            "还",
+            "在",
+            "这儿",
+            "来着，今天",
+            "怎么",
+            "找",
+            "不到",
+            "了",
+            "？"
+          ],
+          "chinese": "那本书昨天还在这儿来着，今天怎么找不到了？",
+          "pinyin": "nà běn shū zuótiān huán zài zhèér láizháo，jīntiān zěnyāo zhǎo bùdào le ？",
+          "translation": "Hôm qua cuốn sách đó còn ở đây, tại sao hôm nay tôi lại không tìm thấy?"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "他",
+            "叫",
+            "什么",
+            "来着",
+            "？"
+          ],
+          "chinese": "他叫什么来着？",
+          "pinyin": "tā jiào shíyāo láizháo ？",
+          "translation": "Anh ấy tên là gì?"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "那",
+            "首",
+            "歌",
+            "是",
+            "谁",
+            "唱",
+            "的",
+            "来着",
+            "？"
+          ],
+          "chinese": "那首歌是谁唱的来着？",
+          "pinyin": "nà shǒu gē shì shúi chàng de láizháo ？",
+          "translation": "Ai đã hát bài hát đó?"
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "我们",
+            "上",
+            "次",
+            "说",
+            "周末",
+            "去",
+            "哪儿",
+            "玩",
+            "来着",
+            "？"
+          ],
+          "chinese": "我们上次说周末去哪儿玩来着？",
+          "pinyin": "wǒmen shàng cì shuō zhōumò qù nǎér wán láizháo ？",
+          "translation": "Lần trước chúng ta nói cuối tuần đi chơi ở đâu nhỉ?"
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "我",
+            "说",
+            "什么",
+            "来着！你",
+            "一",
+            "吃",
+            "火锅",
+            "就",
+            "拉",
+            "肚子！"
+          ],
+          "chinese": "我说什么来着！你一吃火锅就拉肚子！",
+          "pinyin": "wǒ shuō shíyāo láizháo！nǐ yī chī huǒguō jìu lā dùzǐ！",
+          "translation": "Tôi đã nói gì nào! Cứ ăn lẩu là bị tiêu chảy ngay!"
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "我",
+            "说",
+            "什么",
+            "来着！这",
+            "个",
+            "东西",
+            "肯定",
+            "是",
+            "假的！"
+          ],
+          "chinese": "我说什么来着！这个东西肯定是假的！",
+          "pinyin": "wǒ shuō shíyāo láizháo！zhè gè dōngxī kěndìng shì jiǎde！",
+          "translation": "Tôi đã nói gì nào! Thứ này chắc chắn là hàng giả!"
+        },
+        {
+          "id": "ex-8",
+          "tokens": [
+            "我",
+            "说",
+            "什么",
+            "来着！他",
+            "不",
+            "是",
+            "真的",
+            "喜欢",
+            "你！"
+          ],
+          "chinese": "我说什么来着！他不是真的喜欢你！",
+          "pinyin": "wǒ shuō shíyāo láizháo！tā bù shì zhēnde xǐhuān nǐ！",
+          "translation": "Tôi đã nói gì nào! Anh ta không thực sự thích bạn đâu!"
+        },
+        {
+          "id": "ex-9",
+          "tokens": [
+            "我",
+            "说",
+            "什么",
+            "来着！他们",
+            "会",
+            "回来",
+            "的",
+            "。"
+          ],
+          "chinese": "我说什么来着！他们会回来的。",
+          "pinyin": "wǒ shuō shíyāo láizháo！tāmen hùi húilái de 。",
+          "translation": "Tôi đã nói gì nào! Họ sẽ quay lại thôi."
+        }
+      ],
+      "titleVi": "Bày tỏ rằng đã có chuyện gì đó xảy ra với laizhe"
+    },
+    {
+      "id": "6-ASGCC713",
+      "title": "Expressing as well as with yiji",
+      "structures": [
+        "[Noun Phrase 1]，[Noun Phrase 2] + 以及 + [Noun Phrase 3]"
+      ],
+      "usedFor": [
+        "Liệt kê"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGCC713",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "听觉",
+            "、视觉",
+            "、嗅觉",
+            "、味觉",
+            "以及",
+            "触觉",
+            "都",
+            "属于",
+            "感官",
+            "。"
+          ],
+          "chinese": "听觉、视觉、嗅觉、味觉以及触觉都属于感官。",
+          "pinyin": "tīngjué 、shìjué 、xìujué 、wèijué yǐjí hóngjué dū shǔyú gǎnguān 。",
+          "translation": "Thính giác, thị giác, khứu giác, vị giác và xúc giác đều thuộc về các giác quan."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "艺术",
+            "有",
+            "很多",
+            "种类",
+            "，绘画",
+            "、舞蹈",
+            "、电影",
+            "以及",
+            "文学",
+            "等",
+            "都",
+            "是",
+            "艺术",
+            "。"
+          ],
+          "chinese": "艺术有很多种类，绘画、舞蹈、电影以及文学等都是艺术。",
+          "pinyin": "yìzhú yǒu hěnduō zhǒnglèi ，hùihuà 、wǔdǎo 、diànyǐng yǐjí wénxué děng dū shì yìzhú 。",
+          "translation": "Nghệ thuật có rất nhiều loại, hội họa, múa, phim ảnh và văn học đều là nghệ thuật."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "院子",
+            "里",
+            "种着",
+            "玫瑰花",
+            "、茉莉花",
+            "、牡丹花",
+            "以及",
+            "其他",
+            "一些",
+            "花草",
+            "。"
+          ],
+          "chinese": "院子里种着玫瑰花、茉莉花、牡丹花以及其他一些花草。",
+          "pinyin": "yuànzǐ lǐ zhǒngzháo méigūihuā 、mòlìhuā 、mǔdānhuā yǐjí qítā yīxiē huācǎo 。",
+          "translation": "Trong sân trồng hoa hồng, hoa nhài, hoa mẫu đơn và các loại hoa khác."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "我们",
+            "的",
+            "价值",
+            "就是",
+            "采访、分析",
+            "以及",
+            "组合",
+            "投资",
+            "管理",
+            "人",
+            "。"
+          ],
+          "chinese": "我们的价值就是采访、分析以及组合投资管理人。",
+          "pinyin": "wǒmen de jiàzhí jìushì cǎifǎng、fēnxī yǐjí zǔhé tóuzī guǎnlǐ rén 。",
+          "translation": "Giá trị của chúng tôi là các cuộc phỏng vấn, phân tích và các nhà quản lý đầu tư danh mục."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "习",
+            "主席",
+            "祝",
+            "全国",
+            "人民",
+            "以及",
+            "全体",
+            "海外",
+            "华人",
+            "新年快乐",
+            "。"
+          ],
+          "chinese": "习主席祝全国人民以及全体海外华人新年快乐。",
+          "pinyin": "xí zhǔxí zhù quánguó rénmín yǐjí quántǐ hǎiwài huárén xīnniánkuàilè 。",
+          "translation": "Chủ tịch Tập đã chúc người dân cả nước và tất cả Hoa kiều ở nước ngoài một năm mới hạnh phúc."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "这个",
+            "项目",
+            "的",
+            "投资人",
+            "以及",
+            "相关",
+            "负责",
+            "人",
+            "都",
+            "是",
+            "外国",
+            "人",
+            "。"
+          ],
+          "chinese": "这个项目的投资人以及相关负责人都是外国人。",
+          "pinyin": "zhègè xiàngmù de tóuzīrén yǐjí xiāngguān fùzé rén dū shì wàiguó rén 。",
+          "translation": "Các nhà đầu tư và những người có trách nhiệm liên quan đến dự án này đều là người nước ngoài."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "每种",
+            "语言",
+            "都",
+            "能",
+            "表现",
+            "一个",
+            "民族",
+            "的",
+            "文化",
+            "、价值观",
+            "以及",
+            "思维方式",
+            "。"
+          ],
+          "chinese": "每种语言都能表现一个民族的文化、价值观以及思维方式。",
+          "pinyin": "měizhǒng yǔyán dū néng biǎoxiàn yīgè mínzú de wénhuà 、jiàzhíguān yǐjí sīwéifāngshì 。",
+          "translation": "Mỗi ngôn ngữ đều có thể thể hiện văn hóa, giá trị và cách tư duy của một dân tộc."
+        }
+      ],
+      "titleVi": "Thể hiện cũng như với yiji"
+    },
+    {
+      "id": "6-ASG3GX2H",
+      "title": "Indicating contrast with ze",
+      "structures": [
+        "Subject + Predicate, 则 + Subject + Predicate",
+        "Clause 1，+ 而 Subject + 则 + Predicate"
+      ],
+      "usedFor": [
+        "Sự tương phản"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG3GX2H",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "南方",
+            "人",
+            "喜欢",
+            "吃",
+            "甜",
+            "的",
+            "东西，北方",
+            "人",
+            "则",
+            "喜欢",
+            "吃",
+            "咸",
+            "的",
+            "东西",
+            "。"
+          ],
+          "chinese": "南方人喜欢吃甜的东西，北方人则喜欢吃咸的东西。",
+          "pinyin": "nánfāng rén xǐhuān chī tián de dōngxī，běifāng rén zé xǐhuān chī xián de dōngxī 。",
+          "translation": "Người miền Nam thích ăn đồ ngọt, trong khi người miền Bắc thích ăn đồ mặn."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "美国",
+            "人",
+            "比较",
+            "开放，他们",
+            "喜欢",
+            "认识",
+            "新",
+            "的",
+            "朋友，中国",
+            "人",
+            "则",
+            "比较",
+            "害羞，他们",
+            "更",
+            "喜欢",
+            "与",
+            "亲密",
+            "的",
+            "朋友",
+            "交往",
+            "。"
+          ],
+          "chinese": "美国人比较开放，他们喜欢认识新的朋友，中国人则比较害羞，他们更喜欢与亲密的朋友交往。",
+          "pinyin": "měiguó rén bǐjiào kāifàng，tāmen xǐhuān rènshì xīn de péngyǒu，zhōngguó rén zé bǐjiào hàixīu，tāmen gèng xǐhuān yǔ qīnmì de péngyǒu jiāowǎng 。",
+          "translation": "Người Mỹ cởi mở hơn. Họ thích kết bạn mới, trong khi người Trung Quốc lại nhút nhát hơn."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "我",
+            "老婆",
+            "习惯",
+            "安静、自然",
+            "的",
+            "乡村",
+            "生活，我",
+            "则",
+            "习惯",
+            "喧闹",
+            "繁忙",
+            "的",
+            "大",
+            "城市",
+            "生活",
+            "。"
+          ],
+          "chinese": "我老婆习惯安静、自然的乡村生活，我则习惯喧闹繁忙的大城市生活。",
+          "pinyin": "wǒ lǎopó xíguàn ānjìng、zìrán de xiāngcūn shēnghuó，wǒ zé xíguàn xuānnào fánmáng de dà chéngshì shēnghuó 。",
+          "translation": "Vợ tôi đã quen với cuộc sống thôn quê yên tĩnh, tự nhiên, còn tôi đã quen với cuộc sống thành thị ồn ào, bận rộn."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "南方",
+            "人",
+            "喜欢",
+            "吃",
+            "甜",
+            "的",
+            "东西，而",
+            "北方",
+            "人",
+            "则",
+            "喜欢",
+            "吃",
+            "咸",
+            "的",
+            "东西",
+            "。"
+          ],
+          "chinese": "南方人喜欢吃甜的东西，而北方人则喜欢吃咸的东西。",
+          "pinyin": "nánfāng rén xǐhuān chī tián de dōngxī，ér běifāng rén zé xǐhuān chī xián de dōngxī 。",
+          "translation": "Người miền Nam thích ăn đồ ngọt, trong khi người miền Bắc thích ăn đồ mặn."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "美国",
+            "人",
+            "比较",
+            "开放，他们",
+            "喜欢",
+            "认识",
+            "新",
+            "的",
+            "朋友，而",
+            "中国",
+            "人",
+            "则",
+            "比较",
+            "害羞，他们",
+            "更",
+            "喜欢",
+            "与",
+            "内圈",
+            "的",
+            "朋友",
+            "交往",
+            "。"
+          ],
+          "chinese": "美国人比较开放，他们喜欢认识新的朋友，而中国人则比较害羞，他们更喜欢与内圈的朋友交往。",
+          "pinyin": "měiguó rén bǐjiào kāifàng，tāmen xǐhuān rènshì xīn de péngyǒu，ér zhōngguó rén zé bǐjiào hàixīu，tāmen gèng xǐhuān yǔ nèiquān de péngyǒu jiāowǎng 。",
+          "translation": "Người Mỹ cởi mở hơn, họ thích kết bạn mới, trong khi người Trung Quốc nhút nhát hơn, họ thích giao lưu với bạn bè trong vòng tròn thân thiết hơn."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "我",
+            "老婆",
+            "习惯",
+            "安静、大",
+            "自然",
+            "的",
+            "乡村",
+            "生活，而",
+            "我",
+            "则",
+            "习惯",
+            "喧闹",
+            "繁忙",
+            "的",
+            "大",
+            "城市",
+            "生活",
+            "。"
+          ],
+          "chinese": "我老婆习惯安静、大自然的乡村生活，而我则习惯喧闹繁忙的大城市生活。",
+          "pinyin": "wǒ lǎopó xíguàn ānjìng、dà zìrán de xiāngcūn shēnghuó，ér wǒ zé xíguàn xuānnào fánmáng de dà chéngshì shēnghuó 。",
+          "translation": "Vợ tôi đã quen với cuộc sống thôn quê yên tĩnh, tự nhiên, còn tôi đã quen với cuộc sống thành thị ồn ào, bận rộn."
+        }
+      ],
+      "titleVi": "Chỉ ra sự tương phản với ze"
+    },
+    {
+      "id": "6-ASG0A67E",
+      "title": "In order to avoid with yimian",
+      "structures": [
+        "以免 + Verb Phrase",
+        "以免 + Sentence"
+      ],
+      "usedFor": [
+        "Thể hiện một khái niệm trung tâm"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG0A67E",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "这儿",
+            "有",
+            "高压电线，请",
+            "不要",
+            "靠近，以免",
+            "发生",
+            "危险",
+            "。"
+          ],
+          "chinese": "这儿有高压电线，请不要靠近，以免发生危险。",
+          "pinyin": "zhèér yǒu gāoyādiànxiàn，qǐng bùyào kàojìn，yǐmiǎn fāshēng wēixiǎn 。",
+          "translation": "Ở đây có dây điện cao thế, vui lòng không đến gần để tránh nguy hiểm."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "加强",
+            "安全",
+            "措施，以免",
+            "发生",
+            "工伤事故",
+            "。"
+          ],
+          "chinese": "加强安全措施，以免发生工伤事故。",
+          "pinyin": "jiāqiáng ānquán cuòshī，yǐmiǎn fāshēng gōngshāngshìgù 。",
+          "translation": "Tăng cường các biện pháp an toàn để tránh tai nạn tại nơi làm việc."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "行人",
+            "和",
+            "车辆",
+            "必须",
+            "严格",
+            "遵守",
+            "交通法规，以免",
+            "发生交通事故",
+            "。"
+          ],
+          "chinese": "行人和车辆必须严格遵守交通法规，以免发生交通事故。",
+          "pinyin": "xíngrén hé chēliàng bìxū yángé zūnshǒu jiāotōngfǎgūi，yǐmiǎn fāshēngjiāotōngshìgù 。",
+          "translation": "Người đi bộ và phương tiện giao thông phải tuân thủ nghiêm ngặt các quy định giao thông để tránh tai nạn giao thông."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "你",
+            "赶紧",
+            "走，以免",
+            "晚",
+            "了",
+            "。"
+          ],
+          "chinese": "你赶紧走，以免晚了。",
+          "pinyin": "nǐ gǎnjǐn zǒu，yǐmiǎn wǎn le 。",
+          "translation": "Bạn vội vã rời đi để không bị muộn."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "快",
+            "抓住",
+            "那个",
+            "坏人，以免",
+            "跑",
+            "了",
+            "。"
+          ],
+          "chinese": "快抓住那个坏人，以免跑了。",
+          "pinyin": "kuài zhuāzhù nàgè huàirén，yǐmiǎn pǎo le 。",
+          "translation": "Hãy nhanh chóng bắt lấy kẻ xấu để hắn không chạy thoát."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "他们",
+            "努力",
+            "训练，以免",
+            "在",
+            "比赛中",
+            "输",
+            "了",
+            "。"
+          ],
+          "chinese": "他们努力训练，以免在比赛中输了。",
+          "pinyin": "tāmen nǔlì xùnliàn，yǐmiǎn zài bǐsàizhōng shū le 。",
+          "translation": "Họ đã làm việc chăm chỉ để tránh bị thua trong trò chơi."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "赶紧",
+            "解释",
+            "一下，以免",
+            "她",
+            "伤心",
+            "。"
+          ],
+          "chinese": "你赶紧解释一下，以免她伤心。",
+          "pinyin": "nǐ gǎnjǐn jiěshì yīxià，yǐmiǎn tā shāngxīn 。",
+          "translation": "Bạn hãy nhanh chóng giải thích để cô ấy không bị buồn."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "不要",
+            "在",
+            "河边",
+            "玩耍，以免",
+            "你",
+            "掉到",
+            "河里",
+            "。"
+          ],
+          "chinese": "不要在河边玩耍，以免你掉到河里。",
+          "pinyin": "bùyào zài hébiān wánshuǎ，yǐmiǎn nǐ diàodào hélǐ 。",
+          "translation": "Đừng chơi đùa bên bờ sông, kẻo ngã xuống sông."
+        }
+      ],
+      "titleVi": "Để tránh 一面"
+    },
+    {
+      "id": "6-ASGH4A7W",
+      "title": "Expressing your side with ben",
+      "structures": [
+        "本 + Noun"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGH4A7W",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "本",
+            "人",
+            "。"
+          ],
+          "chinese": "本人。",
+          "pinyin": "běn rén 。",
+          "translation": "Tôi."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "顾客至上",
+            "是",
+            "本",
+            "公司",
+            "的",
+            "经营",
+            "理念",
+            "。"
+          ],
+          "chinese": "顾客至上是本公司的经营理念。",
+          "pinyin": "gùkèzhìshàng shì běn gōngsī de jīngyíng lǐniàn 。",
+          "translation": "Khách hàng là trên hết là triết lý kinh doanh của chúng tôi."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "本",
+            "校",
+            "不",
+            "允许",
+            "外校",
+            "学生",
+            "随便",
+            "进出",
+            "。"
+          ],
+          "chinese": "本校不允许外校学生随便进出。",
+          "pinyin": "běn xiào bù yǔnxǔ wàixiào xuéshēng súibiàn jìnchū 。",
+          "translation": "Nhà trường không cho phép học sinh nước ngoài tự ý ra vào."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "本",
+            "组织",
+            "。"
+          ],
+          "chinese": "本组织。",
+          "pinyin": "běn zǔzhī 。",
+          "translation": "Tổ chức."
+        }
+      ],
+      "titleVi": "Thể hiện quan điểm của bạn với 本"
+    },
+    {
+      "id": "6-ASGDZIO0",
+      "title": "Indicating a characteristic with xing",
+      "structures": [
+        "Word + 性"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGDZIO0",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "你",
+            "知道",
+            "管理",
+            "的",
+            "科学",
+            "性",
+            "和",
+            "艺术",
+            "性",
+            "是",
+            "指",
+            "什么",
+            "吗",
+            "？"
+          ],
+          "chinese": "你知道管理的科学性和艺术性是指什么吗？",
+          "pinyin": "nǐ zhīdào guǎnlǐ de kēxué xìng hé yìzhú xìng shì zhǐ shíyāo ma ？",
+          "translation": "Bạn có biết quản lý khoa học và nghệ thuật nghĩa là gì không?"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "交",
+            "的",
+            "这",
+            "个",
+            "产品",
+            "宣传",
+            "方案",
+            "没有",
+            "可行性",
+            "。"
+          ],
+          "chinese": "你交的这个产品宣传方案没有可行性。",
+          "pinyin": "nǐ jiāo de zhè gè chǎnpǐn xuānchuán fāngàn méiyǒu kěxíngxìng 。",
+          "translation": "Kế hoạch quảng bá sản phẩm mà bạn đã nộp không khả thi."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "中国",
+            "四川",
+            "省",
+            "的",
+            "山区，发生",
+            "地震",
+            "的",
+            "可能性",
+            "较",
+            "大",
+            "。"
+          ],
+          "chinese": "中国四川省的山区，发生地震的可能性较大。",
+          "pinyin": "zhōngguó sìchuān shěng de shānqū，fāshēng dìzhèn de kěnéngxìng jiào dà 。",
+          "translation": "Các vùng núi ở tỉnh Tứ Xuyên, Trung Quốc, có khả năng xảy ra động đất cao hơn."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "本",
+            "公司",
+            "对",
+            "员工",
+            "上班",
+            "时间",
+            "没有",
+            "硬性",
+            "规定",
+            "。"
+          ],
+          "chinese": "本公司对员工上班时间没有硬性规定。",
+          "pinyin": "běn gōngsī dùi yuángōng shàngbān shíjiān méiyǒu yìngxìng gūidìng 。",
+          "translation": "Công ty không có quy định cứng nhắc về giờ làm việc của nhân viên."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "你",
+            "的",
+            "作品",
+            "越",
+            "来",
+            "越",
+            "有",
+            "创造",
+            "性",
+            "。"
+          ],
+          "chinese": "你的作品越来越有创造性。",
+          "pinyin": "nǐ de zuòpǐn yuè lái yuè yǒu chuàngzào xìng 。",
+          "translation": "Công việc của bạn ngày càng trở nên sáng tạo hơn."
+        }
+      ],
+      "titleVi": "Chỉ ra một đặc điểm với xing"
+    },
+    {
+      "id": "6-ASGNLGGX",
+      "title": "Expressing is or is not with shifou",
+      "structures": [
+        "是否 + Verb / Adj."
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGNLGGX",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "他们",
+            "是否",
+            "考虑",
+            "过",
+            "在",
+            "上海",
+            "买",
+            "房",
+            "？"
+          ],
+          "chinese": "他们是否考虑过在上海买房？",
+          "pinyin": "tāmen shìfǒu kǎolv̀ guò zài shànghǎi mǎi fáng ？",
+          "translation": "Họ đã cân nhắc việc mua nhà ở Thượng Hải chưa?"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "父母",
+            "是否",
+            "同意",
+            "你们",
+            "住",
+            "在",
+            "一起",
+            "？"
+          ],
+          "chinese": "你父母是否同意你们住在一起？",
+          "pinyin": "nǐ fùmǔ shìfǒu tóngyì nǐmen zhù zài yīqǐ ？",
+          "translation": "Cha mẹ bạn có đồng ý cho bạn sống chung không?"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "你",
+            "是否",
+            "清楚",
+            "这样",
+            "做",
+            "的",
+            "后果",
+            "？"
+          ],
+          "chinese": "你是否清楚这样做的后果？",
+          "pinyin": "nǐ shìfǒu qīngchǔ zhèyáng zuò de hòuguǒ ？",
+          "translation": "Bạn có nhận thức được hậu quả của việc này không?"
+        }
+      ],
+      "titleVi": "Thể hiện là hoặc không phải với shifou"
+    },
+    {
+      "id": "6-ASGBAIMA",
+      "title": "Expressing possession with zhi",
+      "structures": [
+        "Noun + 之 + Noun"
+      ],
+      "usedFor": [
+        "Biểu thị sự sở hữu"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGBAIMA",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "害",
+            "人",
+            "之",
+            "心",
+            "不",
+            "可",
+            "有，防",
+            "人",
+            "之",
+            "心",
+            "不",
+            "可",
+            "无",
+            "。"
+          ],
+          "chinese": "害人之心不可有，防人之心不可无。",
+          "pinyin": "hài rén zhī xīn bù kě yǒu，fáng rén zhī xīn bù kě wú 。",
+          "translation": "Không được có tâm hại người, nhưng không thể không có tâm phòng người."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "这些",
+            "解决",
+            "问题",
+            "的",
+            "方式",
+            "仍然",
+            "有",
+            "不足",
+            "之",
+            "处",
+            "。"
+          ],
+          "chinese": "这些解决问题的方式仍然有不足之处。",
+          "pinyin": "zhèxiē jiějué wèntí de fāngshì réngrán yǒu bùzú zhī chù 。",
+          "translation": "Những giải pháp cho các vấn đề này vẫn còn những thiếu sót."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "粗心",
+            "之",
+            "害",
+            "大于",
+            "无知",
+            "。"
+          ],
+          "chinese": "粗心之害大于无知。",
+          "pinyin": "cūxīn zhī hài dàyú wúzhī 。",
+          "translation": "Sự bất cẩn còn đáng sợ hơn cả sự thiếu hiểu biết."
+        }
+      ],
+      "titleVi": "Thể hiện quyền sở hữu với 只"
+    },
+    {
+      "id": "6-ASGVMC4B",
+      "title": "Expressing the self-evident with ma",
+      "structures": [
+        "Statement + 嘛"
+      ],
+      "usedFor": [
+        "Bày tỏ thái độ"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGVMC4B",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "你",
+            "妹妹",
+            "很",
+            "漂亮",
+            "嘛",
+            "。"
+          ],
+          "chinese": "你妹妹很漂亮嘛。",
+          "pinyin": "nǐ mèimèi hěn piāoliàng ma 。",
+          "translation": "Chị gái của bạn rất xinh đẹp."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "他",
+            "挺",
+            "有钱",
+            "的",
+            "嘛",
+            "。"
+          ],
+          "chinese": "他挺有钱的嘛。",
+          "pinyin": "tā tǐng yǒuqián de ma 。",
+          "translation": "Anh ấy khá giàu có."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "不",
+            "想",
+            "去",
+            "就",
+            "不要",
+            "去",
+            "嘛",
+            "。"
+          ],
+          "chinese": "不想去就不要去嘛。",
+          "pinyin": "bù xiǎng qù jìu bùyào qù ma 。",
+          "translation": "Nếu không muốn đi thì đừng đi."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "你",
+            "别",
+            "太",
+            "谦虚",
+            "嘛",
+            "。"
+          ],
+          "chinese": "你别太谦虚嘛。",
+          "pinyin": "nǐ bié tài qiānxū ma 。",
+          "translation": "Đừng quá khiêm tốn."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "大家",
+            "有",
+            "话",
+            "就",
+            "说",
+            "嘛",
+            "。"
+          ],
+          "chinese": "大家有话就说嘛。",
+          "pinyin": "dàjiā yǒu huà jìu shuō ma 。",
+          "translation": "Ai cũng có điều muốn nói."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "你",
+            "跟",
+            "他",
+            "很",
+            "熟",
+            "嘛",
+            "。"
+          ],
+          "chinese": "你跟他很熟嘛。",
+          "pinyin": "nǐ gēn tā hěn shú ma 。",
+          "translation": "Bạn hiểu rõ anh ấy mà."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "开",
+            "慢",
+            "点",
+            "，安全",
+            "第一",
+            "嘛",
+            "。"
+          ],
+          "chinese": "开慢点，安全第一嘛。",
+          "pinyin": "kāi màn diǎn ，ānquán dìyī ma 。",
+          "translation": "Lái xe chậm thôi, an toàn là trên hết."
+        },
+        {
+          "id": "ex-8",
+          "tokens": [
+            "不用",
+            "塑料袋",
+            "更",
+            "环保",
+            "嘛",
+            "。"
+          ],
+          "chinese": "不用塑料袋更环保嘛。",
+          "pinyin": "bùyòng sùliàodài gèng huánbǎo ma 。",
+          "translation": "Không dùng túi ni lông sẽ thân thiện với môi trường hơn."
+        },
+        {
+          "id": "ex-9",
+          "tokens": [
+            "这个",
+            "外国人",
+            "很",
+            "了解",
+            "中国",
+            "文化",
+            "嘛",
+            "。"
+          ],
+          "chinese": "这个外国人很了解中国文化嘛。",
+          "pinyin": "zhègè wàiguórén hěn lejiě zhōngguó wénhuà ma 。",
+          "translation": "Người nước ngoài này hiểu rất rõ văn hóa Trung Quốc."
+        },
+        {
+          "id": "ex-10",
+          "tokens": [
+            "别",
+            "担心",
+            "，一边",
+            "工作",
+            "一边",
+            "学",
+            "嘛",
+            "。"
+          ],
+          "chinese": "别担心，一边工作一边学嘛。",
+          "pinyin": "bié dànxīn ，yībiān gōngzuò yībiān xué ma 。",
+          "translation": "Đừng lo lắng, vừa làm vừa học thôi."
+        }
+      ],
+      "titleVi": "Thể hiện sự hiển nhiên với 吗"
+    },
+    {
+      "id": "6-ASGTVKAR",
+      "title": "Expressing whether or not with yufou",
+      "structures": [
+        "Verb/Adjective + 与否"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGTVKAR",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "成功",
+            "与否，要",
+            "靠",
+            "自己",
+            "。"
+          ],
+          "chinese": "成功与否，要靠自己。",
+          "pinyin": "chénggōng yǔfǒu，yào kào zìjǐ 。",
+          "translation": "Thành công phụ thuộc vào chính bạn."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "国家",
+            "发达",
+            "与否，取决于",
+            "它",
+            "的",
+            "人均",
+            "国内",
+            "生产",
+            "总值",
+            "有",
+            "多",
+            "高",
+            "。"
+          ],
+          "chinese": "国家发达与否，取决于它的人均国内生产总值有多高。",
+          "pinyin": "guójiā fādá yǔfǒu，qǔjuéyú tā de rénjūn guónèi shēngchǎn zǒngzhí yǒu duō gāo 。",
+          "translation": "Một quốc gia có phát triển hay không phụ thuộc vào GDP bình quân đầu người cao đến mức nào."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "头发、",
+            "皮肤、",
+            "眼睛",
+            "等",
+            "可以",
+            "显示",
+            "身体",
+            "健康",
+            "与否",
+            "。"
+          ],
+          "chinese": "头发、皮肤、眼睛等可以显示身体健康与否。",
+          "pinyin": "tóufā、 pífū、 yǎnjīng děng kěyǐ xiǎnshì shēntǐ jiànkāng yǔfǒu 。",
+          "translation": "Tóc, da, mắt, v.v. có thể cho thấy bạn có khỏe mạnh hay không."
+        }
+      ],
+      "titleVi": "Thể hiện có hay không với yufou"
+    },
+    {
+      "id": "6-ASGVBH2H",
+      "title": "Using the particle bei",
+      "structures": [
+        "Sentence + 呗"
+      ],
+      "usedFor": [
+        "Diễn đạt những điều hiển nhiên"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGVBH2H",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "别问",
+            "我们",
+            "为什么",
+            "去",
+            "KTV",
+            "唱歌，热闹",
+            "好",
+            "玩儿",
+            "呗！"
+          ],
+          "chinese": "别问我们为什么去KTV唱歌，热闹好玩儿呗！",
+          "pinyin": "biéwèn wǒmen wèishíyāo qù KTV chànggē，rènào hǎo wánér bài！",
+          "translation": "Đừng hỏi tại sao chúng tôi đi hát KTV, rất vui và hài hước!"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "如果",
+            "你",
+            "不",
+            "知道",
+            "怎么",
+            "说，就",
+            "查",
+            "词典",
+            "呗！"
+          ],
+          "chinese": "如果你不知道怎么说，就查词典呗！",
+          "pinyin": "rúguǒ nǐ bù zhīdào zěnyāo shuō，jìu chá cídiǎn bài！",
+          "translation": "Nếu bạn không biết nói gì, cứ tra từ điển đi!"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "要是",
+            "不懂，就",
+            "好好",
+            "学",
+            "呗",
+            "。"
+          ],
+          "chinese": "要是不懂，就好好学呗。",
+          "pinyin": "yàoshì bùdǒng，jìu hǎohǎo xué bài 。",
+          "translation": "Nếu bạn không hiểu thì hãy học đi."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "如果",
+            "你",
+            "不",
+            "想",
+            "去",
+            "就",
+            "不",
+            "去",
+            "呗",
+            "。"
+          ],
+          "chinese": "如果你不想去就不去呗。",
+          "pinyin": "rúguǒ nǐ bù xiǎng qù jìu bù qù bài 。",
+          "translation": "Nếu bạn không muốn đi thì đừng đi."
+        }
+      ],
+      "titleVi": "Sử dụng hạt 被"
+    },
+    {
+      "id": "6-ASGC1BI5",
+      "title": "Expressing in light of with jianyu",
+      "structures": [
+        "鉴于 + observation, conclusion/suggestion"
+      ],
+      "usedFor": [
+        "Biểu thị nguyên nhân và kết quả"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGC1BI5",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "鉴于",
+            "是",
+            "紧急",
+            "情况，我们",
+            "应该",
+            "尽快",
+            "做出",
+            "决定",
+            "。"
+          ],
+          "chinese": "鉴于是紧急情况，我们应该尽快做出决定。",
+          "pinyin": "jiànyú shì jǐnjí qíngkuàng，wǒmen yìnggāi jǐnkuài zuòchū juédìng 。",
+          "translation": "Xét thấy tình hình khẩn cấp, chúng ta nên đưa ra quyết định càng sớm càng tốt."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "鉴于",
+            "我",
+            "儿子",
+            "的",
+            "成绩",
+            "不",
+            "太",
+            "好，所以",
+            "我",
+            "让",
+            "他",
+            "去",
+            "补习班",
+            "。"
+          ],
+          "chinese": "鉴于我儿子的成绩不太好，所以我让他去补习班。",
+          "pinyin": "jiànyú wǒ érzǐ de chéngjī bù tài hǎo，suǒyǐ wǒ ràng tā qù bǔxíbān 。",
+          "translation": "Xét thấy điểm số của con trai tôi kém, tôi đã yêu cầu nó đi học thêm."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "鉴于",
+            "上周",
+            "的",
+            "恐怖",
+            "袭击",
+            "事件，当地",
+            "政府",
+            "采取",
+            "了",
+            "特殊",
+            "的",
+            "安保",
+            "措施",
+            "。"
+          ],
+          "chinese": "鉴于上周的恐怖袭击事件，当地政府采取了特殊的安保措施。",
+          "pinyin": "jiànyú shàngzhōu de kǒngbù xíjí shìjiàn，dāngdì zhèngfǔ cǎiqǔ le tèshū de ānbǎo cuòshī 。",
+          "translation": "Xét thấy các vụ tấn công khủng bố tuần trước, chính quyền địa phương đã thực hiện các biện pháp an ninh đặc biệt."
+        }
+      ],
+      "titleVi": "Thể hiện dưới ánh sáng của với jianyu"
+    },
+    {
+      "id": "6-ASG50DR1",
+      "title": "Adding emphasis with fei....buke",
+      "structures": [
+        "Subj. + 非(要) + [Verb Phrase] + 不可",
+        "非 + Subj. + [Verb Phrase] + 不可",
+        "非(要) + Subj. + [Verb Phrase] + 不可"
+      ],
+      "usedFor": [
+        "Đưa ra mệnh lệnh",
+        "Diễn đạt nghĩa vụ",
+        "Nhấn mạnh"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG50DR1",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "气",
+            "死",
+            "我",
+            "了",
+            "，我",
+            "非要",
+            "打",
+            "死",
+            "你",
+            "不可",
+            "。"
+          ],
+          "chinese": "气死我了，我非要打死你不可。",
+          "pinyin": "qì sǐ wǒ le ，wǒ fēiyào dǎ sǐ nǐ bùkě 。",
+          "translation": "Tôi tức giận quá, tôi phải giết anh."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "我们",
+            "非",
+            "问",
+            "清楚",
+            "不可",
+            "。"
+          ],
+          "chinese": "我们非问清楚不可。",
+          "pinyin": "wǒmen fēi wèn qīngchǔ bùkě 。",
+          "translation": "Chúng ta phải hỏi cho rõ ràng."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "我",
+            "非",
+            "抓到",
+            "他",
+            "不可",
+            "。"
+          ],
+          "chinese": "我非抓到他不可。",
+          "pinyin": "wǒ fēi zhuādào tā bùkě 。",
+          "translation": "Tôi phải bắt được anh ta."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "今天",
+            "那么",
+            "冷，可是",
+            "我",
+            "女儿",
+            "非要",
+            "穿",
+            "裙子",
+            "。"
+          ],
+          "chinese": "今天那么冷，可是我女儿非要穿裙子。",
+          "pinyin": "jīntiān nàyāo lěng，kěshì wǒ nv̌ér fēiyào chuān qúnzǐ 。",
+          "translation": "Hôm nay trời lạnh thế mà con gái tôi cứ nhất quyết phải mặc váy."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "我",
+            "不",
+            "让",
+            "他",
+            "喝",
+            "那么",
+            "多",
+            "，可是",
+            "他",
+            "非要",
+            "喝",
+            "。"
+          ],
+          "chinese": "我不让他喝那么多，可是他非要喝。",
+          "pinyin": "wǒ bù ràng tā hē nàyāo duō ，kěshì tā fēiyào hē 。",
+          "translation": "Tôi không cho anh ấy uống nhiều như vậy, nhưng anh ấy cứ nhất quyết phải uống."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "我",
+            "不",
+            "想",
+            "去",
+            "，可是",
+            "她",
+            "非要",
+            "让",
+            "我",
+            "去",
+            "。"
+          ],
+          "chinese": "我不想去，可是她非要让我去。",
+          "pinyin": "wǒ bù xiǎng qù ，kěshì tā fēiyào ràng wǒ qù 。",
+          "translation": "Tôi không muốn đi, nhưng cô ấy cứ bắt tôi phải đi."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "情人节",
+            "那天",
+            "，我",
+            "女朋友",
+            "非要",
+            "让",
+            "我",
+            "送",
+            "她",
+            "玫瑰花",
+            "。"
+          ],
+          "chinese": "情人节那天，我女朋友非要让我送她玫瑰花。",
+          "pinyin": "qíngrénjié nàtiān ，wǒ nv̌péngyǒu fēiyào ràng wǒ sòng tā méigūihuā 。",
+          "translation": "Vào ngày lễ Tình nhân, bạn gái tôi muốn tôi tặng cô ấy hoa hồng."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "这",
+            "个",
+            "项目",
+            "非",
+            "他",
+            "来",
+            "做",
+            "不可",
+            "。"
+          ],
+          "chinese": "这个项目非他来做不可。",
+          "pinyin": "zhè gè xiàngmù fēi tā lái zuò bùkě 。",
+          "translation": "Anh ấy nhất định phải làm dự án này."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "这",
+            "个",
+            "文件",
+            "非",
+            "大老板",
+            "签字",
+            "不可",
+            "。"
+          ],
+          "chinese": "这个文件非大老板签字不可。",
+          "pinyin": "zhè gè wénjiàn fēi dàlǎobǎn qiānzì bùkě 。",
+          "translation": "Tài liệu này bắt buộc phải có chữ ký của sếp lớn."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "这",
+            "张",
+            "电影",
+            "票",
+            "明天",
+            "就",
+            "到期",
+            "了",
+            "，非",
+            "今天",
+            "去",
+            "看",
+            "不可",
+            "。"
+          ],
+          "chinese": "这张电影票明天就到期了，非今天去看不可。",
+          "pinyin": "zhè zhāng diànyǐng piào míngtiān jìu dàoqī le ，fēi jīntiān qù kàn bùkě 。",
+          "translation": "Vé xem phim này ngày mai hết hạn, hôm nay đi xem là được rồi."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "要是",
+            "被",
+            "老板",
+            "发现",
+            "了",
+            "，非",
+            "炒",
+            "你",
+            "鱿鱼",
+            "不可",
+            "。"
+          ],
+          "chinese": "要是被老板发现了，非炒你鱿鱼不可。",
+          "pinyin": "yàoshì bèi lǎobǎn fāxiàn le ，fēi chǎo nǐ yóuyú bùkě 。",
+          "translation": "Nếu bị sếp phát hiện, cậu chắc chắn sẽ bị đuổi việc."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "再",
+            "说",
+            "下去",
+            "，他",
+            "非",
+            "生气",
+            "不可",
+            "。"
+          ],
+          "chinese": "你再说下去，他非生气不可。",
+          "pinyin": "nǐ zài shuō xiàqù ，tā fēi shēngqì bùkě 。",
+          "translation": "Nếu cậu còn tiếp tục, anh ấy chắc chắn sẽ nổi giận."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "我们",
+            "再",
+            "不",
+            "出发",
+            "，非",
+            "迟到",
+            "不可",
+            "。"
+          ],
+          "chinese": "我们再不出发，非迟到不可。",
+          "pinyin": "wǒmen zài bù chūfā ，fēi chídào bùkě 。",
+          "translation": "Chúng ta không được phép trễ, nhất định không được trễ."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "天气",
+            "这么",
+            "冷",
+            "，你",
+            "穿",
+            "这么",
+            "少",
+            "，非",
+            "感冒",
+            "不可",
+            "。"
+          ],
+          "chinese": "天气这么冷，你穿这么少，非感冒不可。",
+          "pinyin": "tiānqì zhèyāo lěng ，nǐ chuān zhèyāo shǎo ，fēi gǎnmào bùkě 。",
+          "translation": "Thời tiết lạnh thế này mà cậu mặc ít như vậy, chắc chắn là bị cảm rồi."
+        }
+      ],
+      "titleVi": "Thêm điểm nhấn với非....buke"
+    },
+    {
+      "id": "6-ASG5HZG6",
+      "title": "Could it be that with qibushi",
+      "structures": [
+        "岂不是 + rhetorical question"
+      ],
+      "usedFor": [
+        "Diễn đạt câu hỏi tu từ"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG5HZG6",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "他们",
+            "不",
+            "来",
+            "岂不是",
+            "更",
+            "好",
+            "？"
+          ],
+          "chinese": "他们不来岂不是更好？",
+          "pinyin": "tāmen bù lái qǐbùshì gèng hǎo ？",
+          "translation": "Nếu họ không đến thì chẳng phải tốt hơn sao?"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "这样",
+            "做",
+            "岂不是",
+            "给",
+            "自己",
+            "找",
+            "麻烦",
+            "？"
+          ],
+          "chinese": "你这样做岂不是给自己找麻烦？",
+          "pinyin": "nǐ zhèyáng zuò qǐbùshì gěi zìjǐ zhǎo máfán ？",
+          "translation": "Chẳng phải bạn sẽ tự gây rắc rối cho mình sao?"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "如果",
+            "连",
+            "你",
+            "都",
+            "不",
+            "帮",
+            "他，他",
+            "岂不是",
+            "死",
+            "定",
+            "了",
+            "？"
+          ],
+          "chinese": "如果连你都不帮他，他岂不是死定了？",
+          "pinyin": "rúguǒ lián nǐ dū bù bāng tā，tā qǐbùshì sǐ dìng le ？",
+          "translation": "Nếu ngay cả bạn cũng không giúp anh ấy, chẳng phải anh ấy chết chắc rồi sao?"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "你",
+            "是",
+            "警察，这样",
+            "做",
+            "岂不是",
+            "知",
+            "法",
+            "犯法",
+            "？"
+          ],
+          "chinese": "你是警察，这样做岂不是知法犯法？",
+          "pinyin": "nǐ shì jǐngchá，zhèyáng zuò qǐbùshì zhī fǎ fànfǎ ？",
+          "translation": "Bạn là cảnh sát. Biết luật mà phạm luật chẳng phải là tội sao?"
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "他",
+            "不",
+            "在",
+            "的时候",
+            "你",
+            "去",
+            "找",
+            "他，",
+            "岂不是",
+            "浪费",
+            "时间",
+            "？"
+          ],
+          "chinese": "他不在的时候你去找他，岂不是浪费时间？",
+          "pinyin": "tā bù zài deshíhòu nǐ qù zhǎo tā， qǐbùshì làngfèi shíjiān ？",
+          "translation": "Nếu anh ấy đi vắng mà mình lại tìm đến, chẳng phải là lãng phí thời gian sao?"
+        }
+      ],
+      "titleVi": "Có thể là với qibushi"
+    },
+    {
+      "id": "6-ASGKU8FU",
+      "title": "Expressing at the same time with jian",
+      "structures": [
+        "(Subj. + 兼 + Verb + Noun 1 + 和 + Noun 2 ) / ( Subj. + 是 + Noun 1 + 兼 + Noun 2 )"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGKU8FU",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "这",
+            "首",
+            "歌",
+            "的",
+            "主唱",
+            "兼",
+            "词",
+            "作者",
+            "就",
+            "是",
+            "他",
+            "。"
+          ],
+          "chinese": "这首歌的主唱兼词作者就是他。",
+          "pinyin": "zhè shǒu gē de zhǔchàng jiān cí zuòzhě jìu shì tā 。",
+          "translation": "Anh ấy là ca sĩ chính và là tác giả của bài hát này."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "在",
+            "那",
+            "部",
+            "电影",
+            "里，他",
+            "兼",
+            "做",
+            "导演",
+            "和",
+            "男主角",
+            "。"
+          ],
+          "chinese": "在那部电影里，他兼做导演和男主角。",
+          "pinyin": "zài nà bù diànyǐng lǐ，tā jiān zuò dǎoyǎn hé nánzhǔjiǎo 。",
+          "translation": "Trong bộ phim đó, anh ấy kiêm cả vai trò đạo diễn và diễn viên."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "你",
+            "的",
+            "职责",
+            "是",
+            "日常",
+            "行政",
+            "工作",
+            "兼",
+            "人事",
+            "招聘",
+            "。"
+          ],
+          "chinese": "你的职责是日常行政工作兼人事招聘。",
+          "pinyin": "nǐ de zhízé shì rìcháng xíngzhèng gōngzuò jiān rénshì zhāopìn 。",
+          "translation": "Trách nhiệm của bạn là công việc hành chính hàng ngày và tuyển dụng nhân sự."
+        }
+      ],
+      "titleVi": "Thể hiện cùng lúc với jian"
+    },
+    {
+      "id": "6-ASGYYOXD",
+      "title": "Expressing could it be possible that with mofei",
+      "structures": [
+        "Fact, + 莫非 + conjecture + (不成)?",
+        "莫非 + Subject + rhetorical question"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGYYOXD",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "眼前",
+            "这个",
+            "人，莫非",
+            "就是",
+            "大名鼎鼎",
+            "的",
+            "房地产",
+            "大亨",
+            "？"
+          ],
+          "chinese": "眼前这个人，莫非就是大名鼎鼎的房地产大亨？",
+          "pinyin": "yǎnqián zhègè rén，mòfēi jìushì dàmíngdǐngdǐng de fángdìchǎn dàhēng ？",
+          "translation": "Người đang đứng trước mặt anh ấy có phải là một ông trùm bất động sản không?"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "这么",
+            "晚",
+            "了",
+            "他",
+            "还",
+            "没有",
+            "回来，莫非",
+            "他",
+            "出",
+            "了",
+            "什么",
+            "事",
+            "？"
+          ],
+          "chinese": "这么晚了他还没有回来，莫非他出了什么事？",
+          "pinyin": "zhèyāo wǎn le tā huán méiyǒu húilái，mòfēi tā chū le shíyāo shì ？",
+          "translation": "Đã muộn thế này rồi mà anh ấy vẫn chưa về. Có chuyện gì xảy ra với anh ấy vậy?"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "桌子",
+            "上",
+            "那",
+            "条",
+            "鱼",
+            "怎么",
+            "不",
+            "见",
+            "了，莫非",
+            "被",
+            "猫",
+            "偷",
+            "吃",
+            "了不成",
+            "？"
+          ],
+          "chinese": "桌子上那条鱼怎么不见了，莫非被猫偷吃了不成？",
+          "pinyin": "zhuōzǐ shàng nà tiáo yú zěnyāo bù jiàn le，mòfēi bèi māo tōu chī lebùchéng ？",
+          "translation": "Tại sao con cá trên bàn lại biến mất, chẳng lẽ bị con mèo ăn trộm rồi sao?"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "莫非",
+            "他",
+            "听到",
+            "了",
+            "我们",
+            "的",
+            "谈话",
+            "？"
+          ],
+          "chinese": "莫非他听到了我们的谈话？",
+          "pinyin": "mòfēi tā tīngdào le wǒmen de tánhuà ？",
+          "translation": "Chẳng lẽ anh ấy đã nghe thấy cuộc trò chuyện của chúng ta?"
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "莫非",
+            "她",
+            "真的",
+            "是",
+            "你",
+            "的",
+            "亲生",
+            "母亲",
+            "？"
+          ],
+          "chinese": "莫非她真的是你的亲生母亲？",
+          "pinyin": "mòfēi tā zhēnde shì nǐ de qīnshēng mǔqīn ？",
+          "translation": "Liệu bà ấy có thực sự là mẹ ruột của bạn không?"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "莫非",
+            "你",
+            "真的",
+            "相信",
+            "他",
+            "？"
+          ],
+          "chinese": "莫非你真的相信他？",
+          "pinyin": "mòfēi nǐ zhēnde xiāngxìn tā ？",
+          "translation": "Bạn thực sự có thể tin anh ta sao?"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "莫非",
+            "他",
+            "真的",
+            "要",
+            "去",
+            "丛林",
+            "探险",
+            "？"
+          ],
+          "chinese": "莫非他真的要去丛林探险？",
+          "pinyin": "mòfēi tā zhēnde yào qù cónglín tànxiǎn ？",
+          "translation": "Chẳng lẽ anh ấy thực sự định đi thám hiểm rừng rậm sao?"
+        }
+      ],
+      "titleVi": "Thể hiện có thể là với mofei"
+    },
+    {
+      "id": "6-ASGLQNS3",
+      "title": "Expressing from this with youci",
+      "structures": [
+        "Reasons, 由此 + results and implications"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGLQNS3",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "人们",
+            "滥",
+            "用",
+            "农药",
+            "和",
+            "其他",
+            "化学",
+            "原料，由此",
+            "产生",
+            "了",
+            "一系列",
+            "严重",
+            "的",
+            "食品",
+            "安全",
+            "问题",
+            "。"
+          ],
+          "chinese": "人们滥用农药和其他化学原料，由此产生了一系列严重的食品安全问题。",
+          "pinyin": "rénmen làn yòng nóngyào hé qítā huàxué yuánliào，yóucǐ chǎnshēng le yīxìliè yánzhòng de shípǐn ānquán wèntí 。",
+          "translation": "Mọi người lạm dụng thuốc trừ sâu và các nguyên liệu hóa học khác, điều này đã gây ra một loạt các vấn đề nghiêm trọng về an toàn thực phẩm."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "在",
+            "案发",
+            "现场",
+            "我们",
+            "发现",
+            "了",
+            "一些",
+            "蚂蚁",
+            "和",
+            "蜂蜜，由此",
+            "我们",
+            "发现",
+            "了",
+            "罪犯",
+            "的",
+            "身份",
+            "。"
+          ],
+          "chinese": "在案发现场我们发现了一些蚂蚁和蜂蜜，由此我们发现了罪犯的身份。",
+          "pinyin": "zài ànfā xiàncháng wǒmen fāxiàn le yīxiē mǎyǐ hé fēngmì，yóucǐ wǒmen fāxiàn le zùifàn de shēnfèn 。",
+          "translation": "Chúng tôi tìm thấy một vài con kiến và mật ong tại hiện trường vụ án, từ đó chúng tôi đã phát hiện ra danh tính của tên tội phạm."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "最近",
+            "很多",
+            "贪官",
+            "因为",
+            "情妇",
+            "举报",
+            "而",
+            "落马，由此",
+            "看来，情妇",
+            "反腐",
+            "也",
+            "是",
+            "一",
+            "个",
+            "好",
+            "方法",
+            "。"
+          ],
+          "chinese": "最近很多贪官因为情妇举报而落马，由此看来，情妇反腐也是一个好方法。",
+          "pinyin": "zùijìn hěnduō tānguān yīnwèi qíngfù jǔbào ér luòmǎ，yóucǐ kànlái，qíngfù fǎnfǔ yě shì yī gè hǎo fāngfǎ 。",
+          "translation": "Gần đây, nhiều quan chức tham nhũng đã bị cách chức vì bị nhân tình tố cáo. Từ góc độ này mà nói, nhân tình cũng là một cách hay để chống tham nhũng."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "由此",
+            "可见，政府",
+            "进行",
+            "彻底",
+            "地",
+            "政治",
+            "和",
+            "经济",
+            "改革",
+            "是",
+            "多么",
+            "必要",
+            "。"
+          ],
+          "chinese": "由此可见，政府进行彻底地政治和经济改革是多么必要。",
+          "pinyin": "yóucǐ kějiàn，zhèngfǔ jìnxíng chèdǐ dì zhèngzhì hé jīngjì gǎigé shì duōyāo bìyào 。",
+          "translation": "Điều này cho thấy chính phủ cần thiết phải thực hiện các cuộc cải cách chính trị và kinh tế triệt để đến mức nào."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "由此可见"
+          ],
+          "chinese": "由此可见",
+          "pinyin": "yóucǐkějiàn",
+          "translation": "Điều này cho thấy"
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "由此看来"
+          ],
+          "chinese": "由此看来",
+          "pinyin": "yóucǐkànlái",
+          "translation": "Từ đó"
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "由此说来"
+          ],
+          "chinese": "由此说来",
+          "pinyin": "yóucǐshuōlái",
+          "translation": "Từ đó"
+        }
+      ],
+      "titleVi": "Thể hiện từ điều này với youci"
+    },
+    {
+      "id": "6-ASGK0ZG7",
+      "title": "Expressing “must with feidei",
+      "structures": [
+        "Statement, 非 (得) + Action + 不可 / 不行"
+      ],
+      "usedFor": [
+        "Diễn đạt câu hỏi tu từ"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGK0ZG7",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "有",
+            "话",
+            "好好",
+            "说，干嘛",
+            "非得",
+            "吵架",
+            "？"
+          ],
+          "chinese": "有话好好说，干嘛非得吵架？",
+          "pinyin": "yǒu huà hǎohǎo shuō，gānma fēidé chǎojià ？",
+          "translation": "Nếu có chuyện gì muốn nói thì tại sao cứ phải cãi nhau?"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "现在",
+            "是",
+            "紧急",
+            "情况，非得",
+            "马上",
+            "动",
+            "手术",
+            "不可",
+            "。"
+          ],
+          "chinese": "现在是紧急情况，非得马上动手术不可。",
+          "pinyin": "xiànzài shì jǐnjí qíngkuàng，fēidé mǎshàng dòng shǒuzhú bùkě 。",
+          "translation": "Bây giờ là trường hợp khẩn cấp, bạn phải phẫu thuật ngay lập tức."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "我",
+            "今天",
+            "非",
+            "骂",
+            "他",
+            "一",
+            "顿",
+            "不行！"
+          ],
+          "chinese": "我今天非骂他一顿不行！",
+          "pinyin": "wǒ jīntiān fēi mà tā yī dùn bùxíng！",
+          "translation": "Hôm nay tôi nhất định phải mắng cho anh ta một trận!"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "这",
+            "件",
+            "事",
+            "你",
+            "非得",
+            "帮",
+            "我",
+            "查",
+            "清楚",
+            "不可！"
+          ],
+          "chinese": "这件事你非得帮我查清楚不可！",
+          "pinyin": "zhè jiàn shì nǐ fēidé bāng wǒ chá qīngchǔ bùkě！",
+          "translation": "Bạn phải giúp tôi làm rõ chuyện này!"
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "他",
+            "这么",
+            "做",
+            "太",
+            "过分",
+            "了，",
+            "我",
+            "非得",
+            "教训",
+            "教训",
+            "他",
+            "不可！"
+          ],
+          "chinese": "他这么做太过分了，我非得教训教训他不可！",
+          "pinyin": "tā zhèyāo zuò tài guòfēn le， wǒ fēidé jiàoxùn jiàoxùn tā bùkě！",
+          "translation": "Anh ta làm quá đáng lắm rồi, tôi phải dạy cho anh ta một bài học!"
+        }
+      ],
+      "titleVi": "Bày tỏ “phải CÓ FEIDEI"
+    },
+    {
+      "id": "6-ASGGI66V",
+      "title": "Expressing nothing is more...than with moguoyu",
+      "structures": [
+        "Topics or questions + 莫过于 + answer"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGGI66V",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "美国",
+            "最",
+            "好",
+            "的",
+            "大学",
+            "莫过于",
+            "哈佛大学",
+            "。"
+          ],
+          "chinese": "美国最好的大学莫过于哈佛大学。",
+          "pinyin": "měiguó zùi hǎo de dàxué mòguòyú hāfódàxué 。",
+          "translation": "Trường đại học tốt nhất ở Hoa Kỳ là Harvard."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "人生",
+            "中",
+            "最",
+            "悲伤",
+            "的",
+            "事情",
+            "莫过于",
+            "失去",
+            "你",
+            "爱",
+            "的",
+            "人",
+            "。"
+          ],
+          "chinese": "人生中最悲伤的事情莫过于失去你爱的人。",
+          "pinyin": "rénshēng zhōng zùi bēishāng de shìqíng mòguòyú shīqù nǐ ài de rén 。",
+          "translation": "Điều đau buồn nhất trên đời là mất đi người mình yêu thương."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "让",
+            "她",
+            "最",
+            "难过",
+            "的",
+            "莫过于",
+            "你",
+            "对",
+            "她",
+            "大喊",
+            "大叫",
+            "。"
+          ],
+          "chinese": "让她最难过的莫过于你对她大喊大叫。",
+          "pinyin": "ràng tā zùi nánguò de mòguòyú nǐ dùi tā dàhǎn dàjiào 。",
+          "translation": "Điều buồn nhất đối với cô ấy là bạn quát mắng cô ấy."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "我",
+            "能",
+            "想到",
+            "最",
+            "浪漫",
+            "的",
+            "事",
+            "莫过于",
+            "跟",
+            "你",
+            "一起",
+            "白头到老",
+            "。"
+          ],
+          "chinese": "我能想到最浪漫的事莫过于跟你一起白头到老。",
+          "pinyin": "wǒ néng xiǎngdào zùi làngmàn de shì mòguòyú gēn nǐ yīqǐ báitóudàolǎo 。",
+          "translation": "Điều lãng mạn nhất mà tôi có thể nghĩ đến là cùng bạn già đi."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "对",
+            "父母",
+            "来说",
+            "最",
+            "大",
+            "的",
+            "安慰",
+            "莫过于",
+            "孩子",
+            "能",
+            "开始",
+            "独立",
+            "生活",
+            "了",
+            "。"
+          ],
+          "chinese": "对父母来说最大的安慰莫过于孩子能开始独立生活了。",
+          "pinyin": "dùi fùmǔ láishuō zùi dà de ānwèi mòguòyú háizǐ néng kāishǐ dúlì shēnghuó le 。",
+          "translation": "Sự an ủi lớn nhất đối với cha mẹ là con cái có thể bắt đầu một cuộc sống tự lập."
+        }
+      ],
+      "titleVi": "Thể hiện không có gì hơn...so với moguoyu"
+    },
+    {
+      "id": "6-ASGWI5CV",
+      "title": "Expressing Prefer...rather than with yuqi...buru",
+      "structures": [
+        "与其 ⋯⋯ ，不如 ⋯⋯",
+        "与其 ⋯⋯ ，Subj. + 宁可 / 宁愿 ⋯⋯",
+        "与其说 + A，不如说 + B"
+      ],
+      "usedFor": [
+        "Đưa ra mệnh lệnh",
+        "Diễn đạt nghĩa vụ",
+        "Nhấn mạnh",
+        "Thể hiện sự ưu tiên"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGWI5CV",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "天气",
+            "这么",
+            "好，与其",
+            "在",
+            "家",
+            "看",
+            "电视，不如",
+            "出去",
+            "走",
+            "走",
+            "。"
+          ],
+          "chinese": "天气这么好，与其在家看电视，不如出去走走。",
+          "pinyin": "tiānqì zhèyāo hǎo，yǔqí zài jiā kàn diànshì，bùrú chūqù zǒu zǒu 。",
+          "translation": "Thời tiết đẹp thế này, thà đi dạo còn hơn là ở nhà xem TV."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "与其",
+            "干等",
+            "，不如",
+            "先",
+            "去",
+            "找",
+            "点",
+            "事",
+            "做",
+            "。"
+          ],
+          "chinese": "与其干等，不如先去找点事做。",
+          "pinyin": "yǔqí gānděng ，bùrú xiān qù zhǎo diǎn shì zuò 。",
+          "translation": "Thay vì chờ đợi, tốt hơn là nên tìm việc gì đó để làm trước."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "与其",
+            "自己",
+            "乱",
+            "想，不如",
+            "当面",
+            "问",
+            "清楚",
+            "。"
+          ],
+          "chinese": "与其自己乱想，不如当面问清楚。",
+          "pinyin": "yǔqí zìjǐ luàn xiǎng，bùrú dāngmiàn wèn qīngchǔ 。",
+          "translation": "Thay vì tự mình suy đoán, tốt hơn hết là nên hỏi trực tiếp."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "与其",
+            "帮",
+            "别人",
+            "打工，还",
+            "不如",
+            "自己",
+            "当",
+            "老板",
+            "。"
+          ],
+          "chinese": "与其帮别人打工，还不如自己当老板。",
+          "pinyin": "yǔqí bāng biérén dǎgōng，huán bùrú zìjǐ dāng lǎobǎn 。",
+          "translation": "Thay vì giúp người khác làm việc, chi bằng bạn hãy tự làm chủ cho chính mình."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "与其",
+            "麻烦",
+            "别人",
+            "，不如",
+            "自己",
+            "想",
+            "办法",
+            "。"
+          ],
+          "chinese": "与其麻烦别人，不如自己想办法。",
+          "pinyin": "yǔqí máfán biérén ，bùrú zìjǐ xiǎng bànfǎ 。",
+          "translation": "Thay vì làm phiền người khác, chi bằng hãy tự mình suy nghĩ."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "与其",
+            "随便",
+            "找",
+            "一",
+            "个",
+            "男朋友",
+            "，我",
+            "宁愿",
+            "单身",
+            "。"
+          ],
+          "chinese": "与其随便找一个男朋友，我宁愿单身。",
+          "pinyin": "yǔqí súibiàn zhǎo yī gè nánpéngyǒu ，wǒ níngyuàn dānshēn 。",
+          "translation": "Thay vì chỉ tìm kiếm bạn trai, tôi thà độc thân còn hơn."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "与其",
+            "去",
+            "上",
+            "一个",
+            "三流",
+            "的",
+            "大学",
+            "，我",
+            "宁可",
+            "先",
+            "工作",
+            "。"
+          ],
+          "chinese": "与其去上一个三流的大学，我宁可先工作。",
+          "pinyin": "yǔqí qù shàng yīgè sānlíu de dàxué ，wǒ níngkě xiān gōngzuò 。",
+          "translation": "Thay vì vào một trường đại học hạng ba, tôi thà đi làm trước còn hơn."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "与其",
+            "住",
+            "在",
+            "陌生",
+            "的",
+            "大",
+            "城市",
+            "，爷爷",
+            "宁可",
+            "住",
+            "农村",
+            "的",
+            "老房子",
+            "。"
+          ],
+          "chinese": "与其住在陌生的大城市，爷爷宁可住农村的老房子。",
+          "pinyin": "yǔqí zhù zài mòshēng de dà chéngshì ，yéyé níngkě zhù nóngcūn de lǎofángzǐ 。",
+          "translation": "Thay vì sống ở một thành phố lớn xa lạ, ông nội thà sống trong một ngôi nhà nông thôn cũ kỹ."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "与其",
+            "一直",
+            "互相",
+            "伤害",
+            "，我",
+            "宁愿",
+            "早点",
+            "分手",
+            "。"
+          ],
+          "chinese": "与其一直互相伤害，我宁愿早点分手。",
+          "pinyin": "yǔqí yīzhí hùxiāng shānghài ，wǒ níngyuàn zǎodiǎn fēnshǒu 。",
+          "translation": "Thay vì cứ làm tổn thương nhau mãi, tôi thà chia tay sớm còn hơn."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "一样",
+            "多",
+            "的",
+            "钱",
+            "，与其",
+            "在",
+            "市区",
+            "买",
+            "一",
+            "个",
+            "小",
+            "房子",
+            "，我们",
+            "宁愿",
+            "在",
+            "郊区",
+            "买",
+            "大",
+            "房子",
+            "。"
+          ],
+          "chinese": "一样多的钱，与其在市区买一个小房子，我们宁愿在郊区买大房子。",
+          "pinyin": "yīyáng duō de qián ，yǔqí zài shìqū mǎi yī gè xiǎo fángzǐ ，wǒmen níngyuàn zài jiāoqū mǎi dà fángzǐ 。",
+          "translation": "Với cùng một số tiền đó, thay vì mua một căn nhà nhỏ trong thành phố, chúng tôi thà mua một căn nhà lớn ở ngoại ô."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "与其说",
+            "他",
+            "是",
+            "我",
+            "的",
+            "老师，不如说",
+            "他",
+            "是",
+            "我",
+            "的",
+            "朋友",
+            "。"
+          ],
+          "chinese": "与其说他是我的老师，不如说他是我的朋友。",
+          "pinyin": "yǔqíshuō tā shì wǒ de lǎoshī，bùrúshuō tā shì wǒ de péngyǒu 。",
+          "translation": "Nói ông ấy là bạn tôi thì đúng hơn là nói ông ấy là thầy tôi."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "与其说",
+            "她",
+            "是",
+            "在",
+            "帮",
+            "你，不如说",
+            "她",
+            "是",
+            "在",
+            "帮",
+            "她",
+            "自己",
+            "。"
+          ],
+          "chinese": "与其说她是在帮你，不如说她是在帮她自己。",
+          "pinyin": "yǔqíshuō tā shì zài bāng nǐ，bùrúshuō tā shì zài bāng tā zìjǐ 。",
+          "translation": "Thay vì nói cô ấy đang giúp bạn, chi bằng nói cô ấy đang tự giúp chính mình thì đúng hơn."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "与其说",
+            "他",
+            "是",
+            "在",
+            "做饭，还",
+            "不如说",
+            "他",
+            "是",
+            "在",
+            "玩",
+            "。"
+          ],
+          "chinese": "与其说他是在做饭，还不如说他是在玩。",
+          "pinyin": "yǔqíshuō tā shì zài zuòfàn，huán bùrúshuō tā shì zài wán 。",
+          "translation": "Nói cậu ta đang chơi thì đúng hơn là đang nấu ăn."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "与其说",
+            "它",
+            "是",
+            "一",
+            "部",
+            "爱情",
+            "电影，不如说",
+            "它",
+            "是",
+            "一",
+            "部",
+            "动作",
+            "电影",
+            "。"
+          ],
+          "chinese": "与其说它是一部爱情电影，不如说它是一部动作电影。",
+          "pinyin": "yǔqíshuō tā shì yī bù àiqíng diànyǐng，bùrúshuō tā shì yī bù dòngzuò diànyǐng 。",
+          "translation": "Nói đây là một bộ phim tình cảm thì không bằng nói đây là một bộ phim hành động."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "与其说",
+            "他",
+            "是",
+            "在",
+            "鼓励",
+            "我，不如说",
+            "是",
+            "在",
+            "批评",
+            "我",
+            "。"
+          ],
+          "chinese": "与其说他是在鼓励我，不如说是在批评我。",
+          "pinyin": "yǔqíshuō tā shì zài gǔlì wǒ，bùrúshuō shì zài pīpíng wǒ 。",
+          "translation": "Thay vì nói anh ấy đang khuyến khích tôi, thì thực ra anh ấy đang chỉ trích tôi."
+        }
+      ],
+      "titleVi": "Bày tỏ Thích...hơn là với与其...buru"
+    },
+    {
+      "id": "6-ASGA77KW",
+      "title": "Expressing similar to with gen... shide",
+      "structures": [
+        "跟 + Noun/Pronoun/Adjective + 似的"
+      ],
+      "usedFor": [
+        "Thể hiện sự ưu tiên"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGA77KW",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "她们",
+            "俩",
+            "好",
+            "得",
+            "跟",
+            "亲",
+            "姐妹",
+            "似的",
+            "。"
+          ],
+          "chinese": "她们俩好得跟亲姐妹似的。",
+          "pinyin": "tāmen liǎ hǎo dé gēn qīn jiěmèi sìde 。",
+          "translation": "Họ cũng giỏi như chị em của họ vậy."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "最近",
+            "天气",
+            "热",
+            "得",
+            "跟",
+            "在",
+            "蒸笼",
+            "里",
+            "似的",
+            "。"
+          ],
+          "chinese": "最近天气热得跟在蒸笼里似的。",
+          "pinyin": "zùijìn tiānqì rè dé gēn zài zhēnglóng lǐ sìde 。",
+          "translation": "Thời tiết dạo này nóng như cái lò hấp vậy."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "别",
+            "跟",
+            "他",
+            "似的",
+            "一天到晚",
+            "好吃",
+            "懒做",
+            "。"
+          ],
+          "chinese": "别跟他似的一天到晚好吃懒做。",
+          "pinyin": "bié gēn tā sìde yītiāndàowǎn hǎochī lǎnzuò 。",
+          "translation": "Đừng có lười biếng suốt cả ngày như cậu ta nữa."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "他",
+            "做",
+            "这",
+            "个",
+            "最",
+            "拿手",
+            "了，",
+            "跟",
+            "很轻松似的",
+            "就",
+            "做",
+            "好",
+            "了",
+            "。"
+          ],
+          "chinese": "他做这个最拿手了，跟很轻松似的就做好了。",
+          "pinyin": "tā zuò zhè gè zùi náshǒu le， gēn hěnqīngsōngsìde jìu zuò hǎo le 。",
+          "translation": "Anh ấy làm việc này giỏi nhất, cứ như thể làm việc đó dễ dàng lắm vậy."
+        }
+      ],
+      "titleVi": "Biểu hiện tương tự như với跟... shide"
+    },
+    {
+      "id": "6-ASGMCX2H",
+      "title": "Expressing to be worthy of with bukuishi",
+      "structures": [
+        "Subject + 不愧是（不愧为）+ reputation"
+      ],
+      "usedFor": [
+        "Thể hiện sự ưu tiên"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGMCX2H",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "他",
+            "不愧是",
+            "一名",
+            "光荣的",
+            "人民",
+            "教师",
+            "。"
+          ],
+          "chinese": "他不愧是一名光荣的人民教师。",
+          "pinyin": "tā bùkùishì yīmíng guāngróngde rénmín jiàoshī 。",
+          "translation": "Anh ấy xứng đáng là một người giáo viên nhân dân vẻ vang."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "危难",
+            "关头，他",
+            "挺身而出，不愧是一名",
+            "优秀的",
+            "人民解放军",
+            "战士",
+            "。"
+          ],
+          "chinese": "危难关头，他挺身而出，不愧是一名优秀的人民解放军战士。",
+          "pinyin": "wēinán guāntóu，tā tǐngshēnérchū，bùkùishìyīmíng yōuxìude rénmínjiěfàngjūn zhànshì 。",
+          "translation": "Vào thời khắc quan trọng, anh ấy đã đứng ra, xứng đáng là một người lính PLA xuất sắc."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "她",
+            "在",
+            "这",
+            "部",
+            "电影",
+            "里",
+            "的",
+            "表演",
+            "真",
+            "是",
+            "太",
+            "棒",
+            "了，不愧是",
+            "拿",
+            "过",
+            "奥斯卡",
+            "金奖",
+            "的",
+            "。"
+          ],
+          "chinese": "她在这部电影里的表演真是太棒了，不愧是拿过奥斯卡金奖的。",
+          "pinyin": "tā zài zhè bù diànyǐng lǐ de biǎoyǎn zhēn shì tài bàng le，bùkùishì ná guò àosīqiǎ jīnjiǎng de 。",
+          "translation": "Diễn xuất của cô ấy trong bộ phim này thực sự rất tuyệt vời. Cô ấy xứng đáng giành giải Oscar."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "儿子，干得好！不愧是",
+            "我们",
+            "老王",
+            "家",
+            "的",
+            "人！"
+          ],
+          "chinese": "儿子，干得好！不愧是我们老王家的人！",
+          "pinyin": "érzǐ，gāndéhǎo！bùkùishì wǒmen lǎowáng jiā de rén！",
+          "translation": "Làm tốt lắm, con trai! Xứng danh là dòng dõi hoàng gia của chúng ta!"
+        }
+      ],
+      "titleVi": "Thể hiện sự xứng đáng với bukuishi"
+    },
+    {
+      "id": "6-ASGU98B7",
+      "title": "Expressing who is in charge with you... zuozhu",
+      "structures": [
+        "Area of responsibility + 由 + Person(s) + 做主"
+      ],
+      "usedFor": [
+        "Diễn đạt sự tương đồng"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGU98B7",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我们",
+            "家",
+            "由",
+            "我",
+            "妈妈",
+            "做主，她",
+            "说",
+            "什么",
+            "我",
+            "和",
+            "爸爸",
+            "就",
+            "做",
+            "什么",
+            "。"
+          ],
+          "chinese": "我们家由我妈妈做主，她说什么我和爸爸就做什么。",
+          "pinyin": "wǒmen jiā yóu wǒ māmā zuòzhǔ，tā shuō shíyāo wǒ hé bàbà jìu zuò shíyāo 。",
+          "translation": "Gia đình chúng tôi do mẹ tôi làm chủ, bà ấy nói gì thì tôi và mẹ đều sẽ làm theo."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "作为",
+            "商店",
+            "经理，所有",
+            "的",
+            "事情",
+            "都",
+            "由",
+            "你",
+            "做主，出",
+            "了",
+            "事情",
+            "也",
+            "由",
+            "你",
+            "负责",
+            "。"
+          ],
+          "chinese": "作为商店经理，所有的事情都由你做主，出了事情也由你负责。",
+          "pinyin": "zuòwèi shāngdiàn jīnglǐ，suǒyǒu de shìqíng dū yóu nǐ zuòzhǔ，chū le shìqíng yě yóu nǐ fùzé 。",
+          "translation": "Là một quản lý cửa hàng, bạn nắm quyền quyết định mọi việc, và bạn cũng phải chịu trách nhiệm cho những gì xảy ra."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "极权",
+            "主义",
+            "政府",
+            "通常",
+            "是",
+            "由",
+            "一",
+            "人",
+            "或",
+            "一",
+            "党",
+            "做主，而",
+            "民主",
+            "社会",
+            "通常",
+            "是",
+            "由",
+            "全民",
+            "做主",
+            "。"
+          ],
+          "chinese": "极权主义政府通常是由一人或一党做主，而民主社会通常是由全民做主。",
+          "pinyin": "jíquán zhǔyì zhèngfǔ tōngcháng shì yóu yī rén huò yī dǎng zuòzhǔ，ér mínzhǔ shèhùi tōngcháng shì yóu quánmín zuòzhǔ 。",
+          "translation": "Chính phủ độc tài thường do một người hoặc một đảng phái nắm quyền, trong khi xã hội dân chủ thường do toàn dân làm chủ."
+        }
+      ],
+      "titleVi": "Thể hiện người phụ trách有... zuozhu"
+    },
+    {
+      "id": "6-ASGK4CGK",
+      "title": "Stating two or more reasons with yilai...erlai",
+      "structures": [
+        "一来 + Reason 1 ，二来 + Reason 2"
+      ],
+      "usedFor": [
+        "Diễn đạt sự tương đồng"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGK4CGK",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "你",
+            "不",
+            "要",
+            "去",
+            "那个",
+            "地方",
+            "旅游，一来",
+            "是那边",
+            "的",
+            "宾馆",
+            "很",
+            "贵，二来",
+            "也那边",
+            "没有",
+            "什么",
+            "好看",
+            "的",
+            "风景",
+            "。"
+          ],
+          "chinese": "你不要去那个地方旅游，一来是那边的宾馆很贵，二来也那边没有什么好看的风景。",
+          "pinyin": "nǐ bù yào qù nàgè dìfāng lv̌yóu，yīlái shìnàbiān de bīnguǎn hěn gùi，èrlái yěnàbiān méiyǒu shíyāo hǎokàn de fēngjǐng 。",
+          "translation": "Bạn không muốn đi du lịch đến nơi đó đâu. Thứ nhất, khách sạn ở đó đắt đỏ, thứ hai, ở đó chẳng có phong cảnh gì đẹp cả."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "这",
+            "次",
+            "来",
+            "中国，一来",
+            "是",
+            "提高",
+            "中文",
+            "水平，二来",
+            "是",
+            "更",
+            "深度",
+            "的",
+            "了解",
+            "中国",
+            "文化",
+            "。"
+          ],
+          "chinese": "这次来中国，一来是提高中文水平，二来是更深度的了解中国文化。",
+          "pinyin": "zhè cì lái zhōngguó，yīlái shì tígāo zhōngwén shǔipíng，èrlái shì gèng shēndù de lejiě zhōngguó wénhuà 。",
+          "translation": "Tôi đến Trung Quốc lần này là để nâng cao trình độ tiếng Trung và thứ hai là để hiểu sâu sắc hơn về văn hóa Trung Quốc."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "三十",
+            "年",
+            "前，邓小",
+            "平之所以",
+            "推动",
+            "改革",
+            "开放，一来",
+            "是",
+            "为了",
+            "提高",
+            "人民",
+            "的",
+            "生活",
+            "水平，二来",
+            "是",
+            "为了",
+            "让",
+            "中国",
+            "经济",
+            "从",
+            "计划经济",
+            "转变",
+            "到",
+            "市场经济",
+            "。"
+          ],
+          "chinese": "三十年前，邓小平之所以推动改革开放，一来是为了提高人民的生活水平，二来是为了让中国经济从计划经济转变到市场经济。",
+          "pinyin": "sānshí nián qián，dèngxiǎo píngzhīsuǒyǐ tūidòng gǎigé kāifàng，yīlái shì wèile tígāo rénmín de shēnghuó shǔipíng，èrlái shì wèile ràng zhōngguó jīngjì cóng jìhuájīngjì zhuǎnbiàn dào shìchángjīngjì 。",
+          "translation": "Ba mươi năm trước, lý do Đặng Tiểu Bình thúc đẩy cải cách mở cửa là để cải thiện mức sống của người dân và chuyển đổi nền kinh tế Trung Quốc từ kinh tế kế hoạch sang kinh tế thị trường."
+        }
+      ],
+      "titleVi": "Nêu từ hai lý do trở lên với 一来…二来"
+    },
+    {
+      "id": "6-ASGOR3M4",
+      "title": "Expressing I bet using liang",
+      "structures": [
+        "谅 + Subject + verb phrase"
+      ],
+      "usedFor": [
+        "Nhấn mạnh"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGOR3M4",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "谅",
+            "他",
+            "也",
+            "不敢！"
+          ],
+          "chinese": "谅他也不敢！",
+          "pinyin": "liàng tā yě bùgǎn！",
+          "translation": "Hãy tha thứ cho anh ấy!"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "我",
+            "谅",
+            "你",
+            "也",
+            "不",
+            "敢",
+            "跟",
+            "那个",
+            "女的",
+            "讲话！"
+          ],
+          "chinese": "我谅你也不敢跟那个女的讲话！",
+          "pinyin": "wǒ liàng nǐ yě bù gǎn gēn nàgè nv̌de jiǎnghuà！",
+          "translation": "Tôi tha thứ cho bạn vì đã không nói chuyện với người phụ nữ đó!"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "我",
+            "谅",
+            "他",
+            "也",
+            "没",
+            "胆量",
+            "做",
+            "出",
+            "这样",
+            "的",
+            "事情",
+            "来",
+            "。"
+          ],
+          "chinese": "我谅他也没胆量做出这样的事情来。",
+          "pinyin": "wǒ liàng tā yě méi dǎnliàng zuò chū zhèyáng de shìqíng lái 。",
+          "translation": "Tôi tha thứ cho anh ta vì đã không có gan làm chuyện như vậy."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "他",
+            "是",
+            "谅",
+            "你",
+            "不",
+            "敢",
+            "去",
+            "投诉",
+            "才",
+            "这么",
+            "说",
+            "的，你",
+            "可",
+            "不",
+            "能",
+            "就",
+            "这么",
+            "算了！"
+          ],
+          "chinese": "他是谅你不敢去投诉才这么说的，你可不能就这么算了！",
+          "pinyin": "tā shì liàng nǐ bù gǎn qù tóusù cái zhèyāo shuō de，nǐ kě bù néng jìu zhèyāo suànle！",
+          "translation": "Anh ấy nói rằng anh ấy tha thứ cho bạn vì đã dám khiếu nại, nhưng bạn không thể cứ thế mà quên đi được!"
+        }
+      ],
+      "titleVi": "Thể hiện I bet bằng cách sử dụng liang"
+    },
+    {
+      "id": "6-ASGE2U25",
+      "title": "Expressing something is not worth doing with buxie",
+      "structures": [
+        "Subject + 不屑(于) + verb/verb phrase"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGE2U25",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "的",
+            "同事",
+            "是",
+            "一个",
+            "很",
+            "诚实",
+            "的",
+            "人",
+            "，他",
+            "不屑",
+            "说谎",
+            "。"
+          ],
+          "chinese": "我的同事是一个很诚实的人，他不屑说谎。",
+          "pinyin": "wǒ de tóngshì shì yīgè hěn chéngshí de rén ，tā bùxiè shuōhuǎng 。",
+          "translation": "Đồng nghiệp của tôi là một người rất trung thực, anh ấy khinh thường việc nói dối."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "人家",
+            "都",
+            "不屑",
+            "跟",
+            "你说话，你",
+            "就",
+            "不",
+            "要",
+            "热脸贴在冷屁股上",
+            "了",
+            "。"
+          ],
+          "chinese": "人家都不屑跟你说话，你就不要热脸贴在冷屁股上了。",
+          "pinyin": "rénjiā dū bùxiè gēn nǐshuōhuà，nǐ jìu bù yào rèliǎntiēzàilěngpìgǔshàng le 。",
+          "translation": "Người ta không buồn nói chuyện với bạn, nên bạn đừng có lấy mặt nóng dán vào mông lạnh."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "要是",
+            "你",
+            "想要",
+            "向",
+            "雷锋",
+            "同志",
+            "学习",
+            "，你",
+            "应该",
+            "不屑于",
+            "说",
+            "别人",
+            "的",
+            "坏话",
+            "。"
+          ],
+          "chinese": "要是你想要向雷锋同志学习，你应该不屑于说别人的坏话。",
+          "pinyin": "yàoshì nǐ xiǎngyào xiàng léifēng tóngzhì xuéxí ，nǐ yìnggāi bùxièyú shuō biérén de huàihuà 。",
+          "translation": "Nếu muốn học tập đồng chí Lôi Phong (雷锋), bạn không nên bận tâm nói xấu người khác."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "有些",
+            "官员",
+            "表面",
+            "上",
+            "不屑于",
+            "收受",
+            "贿赂，其实",
+            "暗地里",
+            "他们",
+            "比",
+            "谁",
+            "收",
+            "的",
+            "都多",
+            "。"
+          ],
+          "chinese": "有些官员表面上不屑于收受贿赂，其实暗地里他们比谁收的都多。",
+          "pinyin": "yǒuxiē guānyuán biǎomiàn shàng bùxièyú shōushòu hùilù，qíshí àndìlǐ tāmen bǐ shúi shōu de dūduō 。",
+          "translation": "Một số quan chức có vẻ khinh thường việc nhận hối lộ, nhưng thực tế họ lại lén lút nhận nhiều hơn bất cứ ai."
+        }
+      ],
+      "titleVi": "Thể hiện điều gì đó không đáng để làm với buxie"
+    },
+    {
+      "id": "6-ASG73H8K",
+      "title": "Comparing budebu and zhihao",
+      "structures": [
+        "不得不 / 只好 + Verb"
+      ],
+      "usedFor": [
+        "Diễn đạt sự chắc chắn"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG73H8K",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "出门",
+            "没有",
+            "带",
+            "钱，不得不",
+            "向",
+            "朋友",
+            "借",
+            "。"
+          ],
+          "chinese": "出门没有带钱，不得不向朋友借。",
+          "pinyin": "chūmén méiyǒu dài qián，bùdébù xiàng péngyǒu jiè 。",
+          "translation": "Tôi ra ngoài mà không mang theo tiền, nên đành phải mượn bạn bè."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "很",
+            "喜欢",
+            "那件",
+            "衣服，可是",
+            "没",
+            "带",
+            "够",
+            "钱，只好",
+            "不",
+            "买",
+            "了",
+            "。"
+          ],
+          "chinese": "很喜欢那件衣服，可是没带够钱，只好不买了。",
+          "pinyin": "hěn xǐhuān nàjiàn yīfú，kěshì méi dài gòu qián，zhǐhǎo bù mǎi le 。",
+          "translation": "Tôi rất thích chiếc váy đó, nhưng vì không mang đủ tiền nên đành phải mua nó."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "刚",
+            "下",
+            "飞机，还",
+            "没",
+            "找到",
+            "宾馆，行李",
+            "不得不",
+            "寄存",
+            "在",
+            "朋友",
+            "那",
+            "。"
+          ],
+          "chinese": "刚下飞机，还没找到宾馆，行李不得不寄存在朋友那。",
+          "pinyin": "gāng xià fēijī，huán méi zhǎodào bīnguǎn，xínglǐ bùdébù jìcún zài péngyǒu nà 。",
+          "translation": "Vừa xuống máy bay, tôi vẫn chưa tìm được khách sạn, nên đành phải gửi hành lý ở chỗ bạn."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "刚",
+            "下",
+            "飞机，还",
+            "没",
+            "找到",
+            "宾馆，行李",
+            "只好",
+            "寄存",
+            "在",
+            "朋友",
+            "那",
+            "。"
+          ],
+          "chinese": "刚下飞机，还没找到宾馆，行李只好寄存在朋友那。",
+          "pinyin": "gāng xià fēijī，huán méi zhǎodào bīnguǎn，xínglǐ zhǐhǎo jìcún zài péngyǒu nà 。",
+          "translation": "Tôi vừa xuống máy bay và vẫn chưa tìm được khách sạn, nên đành phải để lại hành lý ở chỗ bạn."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "迫于",
+            "生计，他",
+            "不得不",
+            "到",
+            "大城市",
+            "去",
+            "打工",
+            "。"
+          ],
+          "chinese": "迫于生计，他不得不到大城市去打工。",
+          "pinyin": "pòyú shēngjì，tā bùdébù dào dàchéngshì qù dǎgōng 。",
+          "translation": "Vì mưu sinh, anh ấy đành phải làm việc ở một thành phố lớn."
+        },
+        {
+          "id": "ex-6",
+          "tokens": [
+            "没有",
+            "他的",
+            "帮忙，我",
+            "只好",
+            "靠",
+            "自己",
+            "了",
+            "。"
+          ],
+          "chinese": "没有他的帮忙，我只好靠自己了。",
+          "pinyin": "méiyǒu tāde bāngmáng，wǒ zhǐhǎo kào zìjǐ le 。",
+          "translation": "Không có sự giúp đỡ của anh ấy, tôi đành phải tự dựa vào chính mình."
+        },
+        {
+          "id": "ex-7",
+          "tokens": [
+            "外面",
+            "下",
+            "大雨",
+            "了，我",
+            "只好",
+            "不",
+            "出去",
+            "了",
+            "。"
+          ],
+          "chinese": "外面下大雨了，我只好不出去了。",
+          "pinyin": "wàimiàn xià dàyǔ le，wǒ zhǐhǎo bù chūqù le 。",
+          "translation": "Bên ngoài trời đang mưa to, nhưng tôi đành phải ra ngoài."
+        },
+        {
+          "id": "ex-8",
+          "tokens": [
+            "不得不",
+            "承认"
+          ],
+          "chinese": "不得不承认",
+          "pinyin": "bùdébù chéngrèn",
+          "translation": "Đành phải thừa nhận"
+        },
+        {
+          "id": "ex-9",
+          "tokens": [
+            "不得不",
+            "放弃"
+          ],
+          "chinese": "不得不放弃",
+          "pinyin": "bùdébù fàngqì",
+          "translation": "Đành phải từ bỏ"
+        },
+        {
+          "id": "ex-10",
+          "tokens": [
+            "不得不",
+            "离开"
+          ],
+          "chinese": "不得不离开",
+          "pinyin": "bùdébù líkāi",
+          "translation": "Đành phải rời đi"
+        },
+        {
+          "id": "ex-11",
+          "tokens": [
+            "不得不",
+            "接受"
+          ],
+          "chinese": "不得不接受",
+          "pinyin": "bùdébù jiēshòu",
+          "translation": "Đành phải chấp nhận"
+        },
+        {
+          "id": "ex-12",
+          "tokens": [
+            "不得不",
+            "忍受"
+          ],
+          "chinese": "不得不忍受",
+          "pinyin": "bùdébù rěnshòu",
+          "translation": "Đành phải chịu đựng"
+        }
+      ],
+      "titleVi": "So sánh budebu và zhihao"
+    },
+    {
+      "id": "6-ASG0K25S",
+      "title": "Comparing fan'er and “que",
+      "structures": [
+        "(Subj. + 反而 ) / (反而 + Subj. )",
+        "Subj. + 却",
+        "反而 + Sentence",
+        "却 + Verb",
+        "反而 and 却",
+        "不但没⋯⋯，反而⋯⋯",
+        "不但不⋯⋯，反而⋯⋯",
+        "⋯⋯，反而却/却反而⋯⋯",
+        "⋯⋯， 却偏（偏）⋯⋯",
+        "虽然⋯⋯却⋯⋯",
+        "⋯⋯， 但（是）却⋯⋯"
+      ],
+      "usedFor": [
+        "Miêu tả sự vật",
+        "Bày tỏ thái độ"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG0K25S",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "你",
+            "这么",
+            "做，效果",
+            "反而",
+            "不",
+            "好",
+            "。"
+          ],
+          "chinese": "你这么做，效果反而不好。",
+          "pinyin": "nǐ zhèyāo zuò，xiàoguǒ fǎnér bù hǎo 。",
+          "translation": "Nếu bạn làm thế này, hiệu quả sẽ không tốt."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "这么",
+            "做，反而效果",
+            "不",
+            "好",
+            "。"
+          ],
+          "chinese": "你这么做，反而效果不好。",
+          "pinyin": "nǐ zhèyāo zuò，fǎnérxiàoguǒ bù hǎo 。",
+          "translation": "Nếu bạn làm thế này, nó sẽ không mang lại kết quả tốt."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "外面",
+            "下雨，我",
+            "却",
+            "没",
+            "带",
+            "伞",
+            "。"
+          ],
+          "chinese": "外面下雨，我却没带伞。",
+          "pinyin": "wàimiàn xiàyǔ，wǒ què méi dài sǎn 。",
+          "translation": "Bên ngoài trời đang mưa, nhưng tôi lại không mang theo ô."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "Chicago",
+            "Bulls",
+            "没",
+            "赢",
+            "最后",
+            "一",
+            "场",
+            "比赛，反而",
+            "是",
+            "Knicks",
+            "。"
+          ],
+          "chinese": "ChicagoBulls没赢最后一场比赛，反而是Knicks。",
+          "pinyin": "Chicago Bulls méi yíng zùihòu yī cháng bǐsài，fǎnér shì Knicks 。",
+          "translation": "Chicago Bulls không thắng trận đấu cuối cùng, mà là Knicks."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "他们",
+            "都",
+            "觉得",
+            "Knicks",
+            "会",
+            "输",
+            "掉",
+            "最后",
+            "一",
+            "场",
+            "比赛，结果",
+            "他们",
+            "反而",
+            "赢",
+            "了",
+            "。"
+          ],
+          "chinese": "他们都觉得Knicks会输掉最后一场比赛，结果他们反而赢了。",
+          "pinyin": "tāmen dū juédé Knicks hùi shū diào zùihòu yī cháng bǐsài，jiéguǒ tāmen fǎnér yíng le 。",
+          "translation": "Họ đều nghĩ rằng Knicks sẽ thua trận cuối, nhưng ngược lại họ đã thắng."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "我",
+            "以为",
+            "Knicks",
+            "会",
+            "赢",
+            "第",
+            "一",
+            "场",
+            "比赛，结果",
+            "反而",
+            "是",
+            "最后",
+            "一",
+            "场",
+            "。"
+          ],
+          "chinese": "我以为Knicks会赢第一场比赛，结果反而是最后一场。",
+          "pinyin": "wǒ yǐwèi Knicks hùi yíng dì yī cháng bǐsài，jiéguǒ fǎnér shì zùihòu yī cháng 。",
+          "translation": "Tôi đã nghĩ Knicks sẽ thắng trận đầu tiên, nhưng kết quả lại là trận cuối."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "Chicago",
+            "Bulls",
+            "没",
+            "赢",
+            "最后",
+            "一",
+            "场",
+            "比赛，Knicks",
+            "却",
+            "赢",
+            "了",
+            "。"
+          ],
+          "chinese": "ChicagoBulls没赢最后一场比赛，Knicks却赢了。",
+          "pinyin": "Chicago Bulls méi yíng zùihòu yī cháng bǐsài，Knicks què yíng le 。",
+          "translation": "Chicago Bulls không thắng trận đấu cuối cùng, mà Knicks đã thắng."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "他们",
+            "都",
+            "觉得",
+            "Knicks",
+            "会",
+            "输",
+            "掉",
+            "最后",
+            "一",
+            "场",
+            "比赛，他们",
+            "却",
+            "赢",
+            "了",
+            "。"
+          ],
+          "chinese": "他们都觉得Knicks会输掉最后一场比赛，他们却赢了。",
+          "pinyin": "tāmen dū juédé Knicks hùi shū diào zùihòu yī cháng bǐsài，tāmen què yíng le 。",
+          "translation": "Họ đều nghĩ rằng Knicks sẽ thua trận cuối, nhưng họ đã thắng."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "我",
+            "以为",
+            "Knicks",
+            "会",
+            "赢",
+            "第",
+            "一",
+            "场",
+            "比赛，他们",
+            "却",
+            "输",
+            "了",
+            "。"
+          ],
+          "chinese": "我以为Knicks会赢第一场比赛，他们却输了。",
+          "pinyin": "wǒ yǐwèi Knicks hùi yíng dì yī cháng bǐsài，tāmen què shū le 。",
+          "translation": "Tôi đã nghĩ Knicks sẽ thắng trận đầu tiên, nhưng họ đã thua."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "帮",
+            "了",
+            "他，他",
+            "却",
+            "不",
+            "高兴",
+            "了",
+            "。"
+          ],
+          "chinese": "我帮了他，他却不高兴了。",
+          "pinyin": "wǒ bāng le tā，tā què bù gāoxīng le 。",
+          "translation": "Tôi đã giúp anh ấy, nhưng anh ấy lại không vui."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "我",
+            "帮",
+            "了",
+            "他，他",
+            "反而",
+            "不",
+            "高兴",
+            "了",
+            "。"
+          ],
+          "chinese": "我帮了他，他反而不高兴了。",
+          "pinyin": "wǒ bāng le tā，tā fǎnér bù gāoxīng le 。",
+          "translation": "Tôi đã giúp anh ấy, nhưng anh ấy lại không vui."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "帮",
+            "了",
+            "他",
+            "那么",
+            "多，他",
+            "不但",
+            "没",
+            "谢谢",
+            "我，反而",
+            "有",
+            "点",
+            "不",
+            "高兴",
+            "。"
+          ],
+          "chinese": "我帮了他那么多，他不但没谢谢我，反而有点不高兴。",
+          "pinyin": "wǒ bāng le tā nàyāo duō，tā bùdàn méi xièxiè wǒ，fǎnér yǒu diǎn bù gāoxīng 。",
+          "translation": "Tôi đã giúp anh ấy rất nhiều. Anh ấy không những không cảm ơn tôi, mà còn hơi không vui."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "他",
+            "借",
+            "钱",
+            "不但",
+            "不",
+            "还，反而",
+            "还",
+            "不",
+            "承认",
+            "。"
+          ],
+          "chinese": "他借钱不但不还，反而还不承认。",
+          "pinyin": "tā jiè qián bùdàn bù huán，fǎnér huán bù chéngrèn 。",
+          "translation": "Anh ta không những không trả nợ, mà còn không thừa nhận khoản vay đó."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "他",
+            "离",
+            "这里",
+            "最",
+            "远，反而",
+            "却",
+            "第",
+            "一",
+            "个",
+            "到",
+            "。"
+          ],
+          "chinese": "他离这里最远，反而却第一个到。",
+          "pinyin": "tā lí zhèlǐ zùi yuǎn，fǎnér què dì yī gè dào 。",
+          "translation": "Anh ấy ở xa đây nhất, nhưng lại đến đầu tiên."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "他",
+            "离",
+            "这里",
+            "最",
+            "远，却",
+            "反而",
+            "第",
+            "一",
+            "个",
+            "到",
+            "。"
+          ],
+          "chinese": "他离这里最远，却反而第一个到。",
+          "pinyin": "tā lí zhèlǐ zùi yuǎn，què fǎnér dì yī gè dào 。",
+          "translation": "Anh ấy ở xa đây nhất, nhưng lại đến đầu tiên."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "告诉",
+            "他",
+            "要",
+            "下雨，他",
+            "却",
+            "偏",
+            "不",
+            "带",
+            "伞",
+            "。"
+          ],
+          "chinese": "我告诉他要下雨，他却偏不带伞。",
+          "pinyin": "wǒ gàosù tā yào xiàyǔ，tā què piān bù dài sǎn 。",
+          "translation": "Tôi đã bảo anh ấy là trời sắp mưa, nhưng anh ấy không mang theo ô."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "我",
+            "告诉",
+            "他",
+            "要",
+            "下雨，他",
+            "却",
+            "偏",
+            "偏",
+            "不",
+            "带",
+            "伞",
+            "。"
+          ],
+          "chinese": "我告诉他要下雨，他却偏偏不带伞。",
+          "pinyin": "wǒ gàosù tā yào xiàyǔ，tā què piān piān bù dài sǎn 。",
+          "translation": "Tôi đã bảo anh ấy là trời sắp mưa, nhưng anh ấy không mang theo ô."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "虽然",
+            "我们",
+            "不",
+            "是",
+            "朋友，我",
+            "却",
+            "不",
+            "能",
+            "不",
+            "告诉",
+            "你",
+            "。"
+          ],
+          "chinese": "虽然我们不是朋友，我却不能不告诉你。",
+          "pinyin": "sūirán wǒmen bù shì péngyǒu，wǒ què bù néng bù gàosù nǐ 。",
+          "translation": "Mặc dù chúng ta không phải bạn bè, nhưng tôi không thể không nói với bạn."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "她",
+            "喜欢",
+            "吃",
+            "甜食，但是",
+            "却",
+            "从",
+            "不",
+            "吃",
+            "巧克力",
+            "。"
+          ],
+          "chinese": "她喜欢吃甜食，但是却从不吃巧克力。",
+          "pinyin": "tā xǐhuān chī tiánshí，dànshì què cóng bù chī qiǎokèlì 。",
+          "translation": "Cô ấy thích đồ ngọt, nhưng cô ấy không bao giờ ăn sô-cô-la."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "她",
+            "喜欢",
+            "吃",
+            "甜食，但",
+            "却",
+            "从",
+            "不",
+            "吃",
+            "巧克力",
+            "。"
+          ],
+          "chinese": "她喜欢吃甜食，但却从不吃巧克力。",
+          "pinyin": "tā xǐhuān chī tiánshí，dàn què cóng bù chī qiǎokèlì 。",
+          "translation": "Cô ấy thích đồ ngọt, nhưng cô ấy không bao giờ ăn sô-cô-la."
+        }
+      ],
+      "titleVi": "So sánh 反'er và “que"
+    },
+    {
+      "id": "6-ASG9JK0B",
+      "title": "Comparing genben and daodi",
+      "structures": [
+        "Use of 根本",
+        "Use of 到底"
+      ],
+      "usedFor": [
+        "Miêu tả sự vật",
+        "Bày tỏ thái độ"
+      ],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASG9JK0B",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "根本",
+            "不",
+            "知道",
+            "如何",
+            "有效",
+            "地",
+            "管理",
+            "。"
+          ],
+          "chinese": "我根本不知道如何有效地管理。",
+          "pinyin": "wǒ gēnběn bù zhīdào rúhé yǒuxiào dì guǎnlǐ 。",
+          "translation": "Tôi thực sự không biết làm thế nào để quản lý nó một cách hiệu quả."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "为什么",
+            "说",
+            "昨天",
+            "在",
+            "街上",
+            "看到",
+            "我",
+            "了",
+            "？"
+          ],
+          "chinese": "你为什么说昨天在街上看到我了？",
+          "pinyin": "nǐ wèishíyāo shuō zuótiān zài jiēshàng kàndào wǒ le ？",
+          "translation": "Tại sao bạn lại nói rằng bạn thấy tôi trên phố ngày hôm qua?"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "他",
+            "只",
+            "是",
+            "一",
+            "个",
+            "小",
+            "孩子，根本",
+            "没",
+            "见",
+            "过",
+            "这么",
+            "吓人",
+            "的",
+            "事情",
+            "。"
+          ],
+          "chinese": "他只是一个小孩子，根本没见过这么吓人的事情。",
+          "pinyin": "tā zhǐ shì yī gè xiǎo háizǐ，gēnběn méi jiàn guò zhèyāo xiàrén de shìqíng 。",
+          "translation": "Nó chỉ là một đứa trẻ, và nó chưa bao giờ thấy thứ gì đáng sợ như vậy."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "我",
+            "根本",
+            "不知道",
+            "为什么",
+            "我",
+            "女朋友",
+            "很",
+            "生气",
+            "。"
+          ],
+          "chinese": "我根本不知道为什么我女朋友很生气。",
+          "pinyin": "wǒ gēnběn bùzhīdào wèishíyāo wǒ nv̌péngyǒu hěn shēngqì 。",
+          "translation": "Tôi không biết tại sao bạn gái tôi lại giận."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "他",
+            "根本",
+            "没有",
+            "听",
+            "我",
+            "的",
+            "话",
+            "。"
+          ],
+          "chinese": "他根本没有听我的话。",
+          "pinyin": "tā gēnběn méiyǒu tīng wǒ de huà 。",
+          "translation": "Anh ấy hoàn toàn không nghe tôi nói gì cả."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "今天",
+            "新",
+            "同事",
+            "又",
+            "迟到",
+            "了，他",
+            "到底",
+            "想",
+            "不",
+            "想",
+            "在",
+            "这里",
+            "做",
+            "了",
+            "？"
+          ],
+          "chinese": "今天新同事又迟到了，他到底想不想在这里做了？",
+          "pinyin": "jīntiān xīn tóngshì yòu chídào le，tā dàodǐ xiǎng bù xiǎng zài zhèlǐ zuò le ？",
+          "translation": "Hôm nay đồng nghiệp mới lại đến muộn, anh ta có muốn làm ở đây nữa không vậy?"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "你",
+            "的",
+            "包",
+            "这么",
+            "重！你",
+            "到底",
+            "带了",
+            "多少",
+            "东西",
+            "？"
+          ],
+          "chinese": "你的包这么重！你到底带了多少东西？",
+          "pinyin": "nǐ de bāo zhèyāo zhòng！nǐ dàodǐ dàile duōshǎo dōngxī ？",
+          "translation": "Túi của bạn nặng quá! Bạn đã mang theo bao nhiêu thứ vậy?"
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "会议",
+            "已经",
+            "开",
+            "了",
+            "两个小时",
+            "了，我们",
+            "到底",
+            "什么时候",
+            "结束",
+            "？"
+          ],
+          "chinese": "会议已经开了两个小时了，我们到底什么时候结束？",
+          "pinyin": "hùiyì yǐjīng kāi le liǎnggèxiǎoshí le，wǒmen dàodǐ shíyāoshíhòu jiéshù ？",
+          "translation": "Cuộc họp đã diễn ra được hai tiếng rồi. Rốt cuộc khi nào chúng ta mới kết thúc?"
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "老板",
+            "还",
+            "没有",
+            "透露",
+            "我们",
+            "到底",
+            "能",
+            "发",
+            "多少",
+            "奖金."
+          ],
+          "chinese": "老板还没有透露我们到底能发多少奖金.",
+          "pinyin": "lǎobǎn huán méiyǒu tòulù wǒmen dàodǐ néng fā duōshǎo jiǎngjīn.",
+          "translation": "Sếp vẫn chưa tiết lộ chúng ta có thể được trả bao nhiêu tiền thưởng."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "那么，你们",
+            "到底",
+            "为什么",
+            "不",
+            "喝酒",
+            "呢",
+            "？"
+          ],
+          "chinese": "那么，你们到底为什么不喝酒呢？",
+          "pinyin": "nàyāo，nǐmen dàodǐ wèishíyāo bù hējǐu ní ？",
+          "translation": "Vậy tại sao bạn không uống?"
+        }
+      ],
+      "titleVi": "So sánh genben và 到底"
+    },
+    {
+      "id": "6-ASGXJYJD",
+      "title": "Comparing genju and ju",
+      "structures": [
+        "Monosyllabic nouns with 据",
+        "Pairings with 据",
+        "Referring to people using 据"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGXJYJD",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "据",
+            "实",
+            "报道"
+          ],
+          "chinese": "据实报道",
+          "pinyin": "jù shí bàodào",
+          "translation": "Theo các báo cáo thực tế"
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "根据",
+            "事实",
+            "报道"
+          ],
+          "chinese": "根据事实报道",
+          "pinyin": "gēnjù shìshí bàodào",
+          "translation": "Theo các báo cáo sự thật"
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "据说",
+            "他",
+            "去",
+            "上海",
+            "了",
+            "。"
+          ],
+          "chinese": "据说他去上海了。",
+          "pinyin": "jùshuō tā qù shànghǎi le 。",
+          "translation": "Nghe nói anh ấy đã đi Thượng Hải."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "据传",
+            "首相",
+            "将要",
+            "辞职",
+            "。"
+          ],
+          "chinese": "据传首相将要辞职。",
+          "pinyin": "jùchuán shǒuxiāng jiāngyào cízhí 。",
+          "translation": "Có tin đồn rằng Thủ tướng sắp từ chức."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "据",
+            "他",
+            "说，灾情",
+            "并",
+            "不是",
+            "很",
+            "严重",
+            "。"
+          ],
+          "chinese": "据他说，灾情并不是很严重。",
+          "pinyin": "jù tā shuō，zāiqíng bìng bùshì hěn yánzhòng 。",
+          "translation": "Theo anh ấy, thảm họa không nghiêm trọng lắm."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "根据",
+            "他的",
+            "说法，灾情",
+            "并",
+            "不是",
+            "很",
+            "严重",
+            "。"
+          ],
+          "chinese": "根据他的说法，灾情并不是很严重。",
+          "pinyin": "gēnjù tāde shuōfǎ，zāiqíng bìng bùshì hěn yánzhòng 。",
+          "translation": "Theo anh ấy, thảm họa không nghiêm trọng lắm."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "据",
+            "我",
+            "看来，他",
+            "是",
+            "个",
+            "很",
+            "负",
+            "责任",
+            "的",
+            "人",
+            "。"
+          ],
+          "chinese": "据我看来，他是个很负责任的人。",
+          "pinyin": "jù wǒ kànlái，tā shì gè hěn fù zérèn de rén 。",
+          "translation": "Theo ý kiến của tôi, anh ấy là một người rất có trách nhiệm."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "根据我的",
+            "看法，他",
+            "是",
+            "个",
+            "很",
+            "负",
+            "责任",
+            "的",
+            "人",
+            "。"
+          ],
+          "chinese": "根据我的看法，他是个很负责任的人。",
+          "pinyin": "gēnjùwǒde kànfǎ，tā shì gè hěn fù zérèn de rén 。",
+          "translation": "Theo quan điểm của tôi, anh ấy là một người rất có trách nhiệm."
+        }
+      ],
+      "titleVi": "So sánh genju và 据"
+    },
+    {
+      "id": "6-ASGGXSIR",
+      "title": "Comparing huifu and huanyuan",
+      "structures": [
+        "还原 + Noun/Nominal Phrase",
+        "Noun/Noun Phrase + 恢复了"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGGXSIR",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "恢复",
+            "体力",
+            "。"
+          ],
+          "chinese": "恢复体力。",
+          "pinyin": "hūifù tǐlì 。",
+          "translation": "Phục hồi thể chất."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "中国",
+            "1977年",
+            "恢复",
+            "了",
+            "高考",
+            "。"
+          ],
+          "chinese": "中国1977年恢复了高考。",
+          "pinyin": "zhōngguó 1977nián hūifù le gāokǎo 。",
+          "translation": "Trung Quốc đã khôi phục kỳ thi tuyển sinh đại học vào năm 1977."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "地铁",
+            "恢复",
+            "了",
+            "正常",
+            "运行",
+            "。"
+          ],
+          "chinese": "地铁恢复了正常运行。",
+          "pinyin": "dìtiě hūifù le zhèngcháng yùnxíng 。",
+          "translation": "Tàu điện ngầm đã hoạt động trở lại bình thường."
+        },
+        {
+          "id": "ex-4",
+          "tokens": [
+            "还原",
+            "历史",
+            "的",
+            "真相",
+            "。"
+          ],
+          "chinese": "还原历史的真相。",
+          "pinyin": "huányuán lìshǐ de zhēnxiāng 。",
+          "translation": "Khôi phục sự thật của lịch sử."
+        },
+        {
+          "id": "ex-5",
+          "tokens": [
+            "他",
+            "想",
+            "把",
+            "这个",
+            "应用程序",
+            "还原",
+            "成",
+            "代码",
+            "。"
+          ],
+          "chinese": "他想把这个应用程序还原成代码。",
+          "pinyin": "tā xiǎng bǎ zhègè yìngyòngchéngxù huányuán chéng dàimǎ 。",
+          "translation": "Anh ấy muốn khôi phục ứng dụng này về mã nguồn."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "他",
+            "的",
+            "身体",
+            "恢复",
+            "了",
+            "。"
+          ],
+          "chinese": "他的身体恢复了。",
+          "pinyin": "tā de shēntǐ hūifù le 。",
+          "translation": "Cơ thể anh ấy đã hồi phục."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "社会",
+            "秩序",
+            "恢复",
+            "了",
+            "。"
+          ],
+          "chinese": "社会秩序恢复了。",
+          "pinyin": "shèhùi zhìxù hūifù le 。",
+          "translation": "Trật tự xã hội đã được khôi phục."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "他",
+            "的",
+            "职位",
+            "恢复",
+            "了",
+            "。"
+          ],
+          "chinese": "他的职位恢复了。",
+          "pinyin": "tā de zhíwèi hūifù le 。",
+          "translation": "Chức vụ của anh ấy đã được khôi phục."
+        }
+      ],
+      "titleVi": "So sánh huifu và huanyuan"
+    },
+    {
+      "id": "6-ASGCZ37R",
+      "title": "Comparing juran and fan'er",
+      "structures": [
+        "Clause 1, 反而 / 居然 + unexpected opposite outcome",
+        "Clause 1, 不仅没有（不但没有）/ 不仅不 (不但不)......反而......"
+      ],
+      "usedFor": [],
+      "url": "https://resources.allsetlearning.com/chinese/grammar/ASGCZ37R",
+      "examples": [
+        {
+          "id": "ex-1",
+          "tokens": [
+            "我",
+            "打",
+            "他，他",
+            "居然",
+            "没",
+            "哭",
+            "。"
+          ],
+          "chinese": "我打他，他居然没哭。",
+          "pinyin": "wǒ dǎ tā，tā jūrán méi kū 。",
+          "translation": "Tôi đánh nó, nó không khóc."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "我",
+            "帮",
+            "他，他",
+            "反而",
+            "生气",
+            "了",
+            "。"
+          ],
+          "chinese": "我帮他，他反而生气了。",
+          "pinyin": "wǒ bāng tā，tā fǎnér shēngqì le 。",
+          "translation": "Tôi đã giúp anh ấy, nhưng anh ấy lại tức giận."
+        },
+        {
+          "id": "ex-1",
+          "tokens": [
+            "经过",
+            "治疗，他",
+            "的",
+            "病情",
+            "不仅",
+            "没有",
+            "好转，反而",
+            "恶化",
+            "了",
+            "。"
+          ],
+          "chinese": "经过治疗，他的病情不仅没有好转，反而恶化了。",
+          "pinyin": "jīngguò zhìliáo，tā de bìngqíng bùjǐn méiyǒu hǎozhuǎn，fǎnér èhuà le 。",
+          "translation": "Sau khi điều trị, tình trạng của anh ấy không những không cải thiện mà còn trở nên tồi tệ hơn."
+        },
+        {
+          "id": "ex-2",
+          "tokens": [
+            "吃了",
+            "这些",
+            "减肥药，不但",
+            "没有",
+            "瘦，反而",
+            "更",
+            "胖",
+            "了",
+            "。"
+          ],
+          "chinese": "吃了这些减肥药，不但没有瘦，反而更胖了。",
+          "pinyin": "chīle zhèxiē jiǎnféiyào，bùdàn méiyǒu shòu，fǎnér gèng pàng le 。",
+          "translation": "Sau khi uống những loại thuốc giảm cân này, họ không những không giảm cân mà còn béo lên."
+        },
+        {
+          "id": "ex-3",
+          "tokens": [
+            "雨",
+            "不仅",
+            "没",
+            "停，反而",
+            "越",
+            "下",
+            "越",
+            "大",
+            "了",
+            "。"
+          ],
+          "chinese": "雨不仅没停，反而越下越大了。",
+          "pinyin": "yǔ bùjǐn méi tíng，fǎnér yuè xià yuè dà le 。",
+          "translation": "Mưa không những không tạnh mà còn ngày càng lớn hơn."
+        }
+      ],
+      "titleVi": "So sánh giữa luật gia và 反'er"
+    }
+  ]
+}

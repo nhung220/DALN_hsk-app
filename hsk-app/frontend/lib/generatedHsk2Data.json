@@ -1,0 +1,3516 @@
+{
+  "topics": [
+    {
+      "id": "city-services",
+      "title": "Dịch vụ trong thành phố",
+      "icon": "🏙️",
+      "description": "Tìm hiểu về các dịch vụ tiện ích và hoạt động thường ngày trong thành phố.",
+      "level": 2,
+      "words": [
+        {
+          "hanzi": "银行",
+          "pinyin": "yínháng",
+          "meaning": "ngân hàng",
+          "example": "我今天要去银行取钱。",
+          "exampleVi": "Hôm nay tôi phải đến ngân hàng rút tiền."
+        },
+        {
+          "hanzi": "服务",
+          "pinyin": "fúwù",
+          "meaning": "dịch vụ",
+          "example": "这家店的服务很好。",
+          "exampleVi": "Dịch vụ của cửa hàng này rất tốt."
+        },
+        {
+          "hanzi": "中心",
+          "pinyin": "zhōngxīn",
+          "meaning": "trung tâm",
+          "example": "市中心有很多商店。",
+          "exampleVi": "Trung tâm thành phố có rất nhiều cửa hàng."
+        },
+        {
+          "hanzi": "检查",
+          "pinyin": "jiǎnchá",
+          "meaning": "kiểm tra",
+          "example": "医生在检查我的身体。",
+          "exampleVi": "Bác sĩ đang kiểm tra sức khỏe cho tôi."
+        },
+        {
+          "hanzi": "帮助",
+          "pinyin": "bāngzhù",
+          "meaning": "giúp đỡ",
+          "example": "谢谢你的帮助。",
+          "exampleVi": "Cảm ơn sự giúp đỡ của bạn."
+        },
+        {
+          "hanzi": "活动",
+          "pinyin": "huódòng",
+          "meaning": "hoạt động",
+          "example": "周末有很多有趣的活动。",
+          "exampleVi": "Cuối tuần có rất nhiều hoạt động thú vị."
+        },
+        {
+          "hanzi": "办",
+          "pinyin": "bàn",
+          "meaning": "làm, giải quyết",
+          "example": "我明天去办卡。",
+          "exampleVi": "Ngày mai tôi đi làm thẻ."
+        },
+        {
+          "hanzi": "街",
+          "pinyin": "jiē",
+          "meaning": "phố, đường phố",
+          "example": "这条街上有很多饭店。",
+          "exampleVi": "Trên con phố này có rất nhiều nhà hàng."
+        },
+        {
+          "hanzi": "广告",
+          "pinyin": "guǎnggào",
+          "meaning": "quảng cáo",
+          "example": "我在电视上看到了这个广告。",
+          "exampleVi": "Tôi đã thấy quảng cáo này trên tivi."
+        },
+        {
+          "hanzi": "通知",
+          "pinyin": "tōngzhī",
+          "meaning": "thông báo",
+          "example": "我收到了公司的通知。",
+          "exampleVi": "Tôi đã nhận được thông báo của công ty."
+        }
+      ]
+    },
+    {
+      "id": "office",
+      "title": "Văn phòng",
+      "icon": "💼",
+      "description": "Các từ vựng cơ bản về môi trường làm việc và hoạt động tại văn phòng.",
+      "level": 2,
+      "words": [
+        {
+          "hanzi": "公司",
+          "pinyin": "gōngsī",
+          "meaning": "công ty",
+          "example": "我的公司很大。",
+          "exampleVi": "Công ty của tôi rất lớn."
+        },
+        {
+          "hanzi": "办公室",
+          "pinyin": "bàngōngshì",
+          "meaning": "văn phòng",
+          "example": "他在办公室工作。",
+          "exampleVi": "Anh ấy đang làm việc ở văn phòng."
+        },
+        {
+          "hanzi": "工作",
+          "pinyin": "gōngzuò",
+          "meaning": "công việc",
+          "example": "你今天工作忙吗？",
+          "exampleVi": "Hôm nay công việc của bạn có bận không?"
+        },
+        {
+          "hanzi": "问题",
+          "pinyin": "wèntí",
+          "meaning": "vấn đề/câu hỏi",
+          "example": "我有一个问题。",
+          "exampleVi": "Tôi có một câu hỏi."
+        },
+        {
+          "hanzi": "计划",
+          "pinyin": "jìhuà",
+          "meaning": "kế hoạch",
+          "example": "我们明天有计划。",
+          "exampleVi": "Ngày mai chúng tôi có kế hoạch."
+        },
+        {
+          "hanzi": "完成",
+          "pinyin": "wánchéng",
+          "meaning": "hoàn thành",
+          "example": "我完成了工作。",
+          "exampleVi": "Tôi đã hoàn thành công việc."
+        },
+        {
+          "hanzi": "要求",
+          "pinyin": "yāo qiú",
+          "meaning": "yêu cầu",
+          "example": "老板对我们有新的要求。",
+          "exampleVi": "Ông chủ có yêu cầu mới đối với chúng tôi.",
+          "slot": 0
+        },
+        {
+          "hanzi": "讨论",
+          "pinyin": "tǎolùn",
+          "meaning": "thảo luận",
+          "example": "大家在讨论问题。",
+          "exampleVi": "Mọi người đang thảo luận vấn đề."
+        },
+        {
+          "hanzi": "办法",
+          "pinyin": "bàn fǎ",
+          "meaning": "biện pháp, cách làm",
+          "example": "你有什么好办法吗？",
+          "exampleVi": "Bạn có cách nào hay không?",
+          "slot": 1
+        },
+        {
+          "hanzi": "时间",
+          "pinyin": "shíjiān",
+          "meaning": "thời gian",
+          "example": "我没有时间。",
+          "exampleVi": "Tôi không có thời gian."
+        }
+      ]
+    },
+    {
+      "id": "shopping-money",
+      "title": "Mua sắm và tiền bạc",
+      "icon": "🛍️",
+      "description": "Học cách sử dụng các từ vựng cơ bản để giao tiếp về việc mua sắm, giá cả và các hoạt động chi tiêu hàng ngày.",
+      "level": 2,
+      "words": [
+        {
+          "hanzi": "店",
+          "pinyin": "diàn",
+          "meaning": "cửa hàng",
+          "example": "这家店的东西很便宜。",
+          "exampleVi": "Đồ ở cửa hàng này rất rẻ."
+        },
+        {
+          "hanzi": "卖",
+          "pinyin": "mài",
+          "meaning": "bán",
+          "example": "他们卖很多漂亮的衣服。",
+          "exampleVi": "Họ bán rất nhiều quần áo đẹp."
+        },
+        {
+          "hanzi": "件",
+          "pinyin": "jiàn",
+          "meaning": "cái/chiếc (lượng từ cho quần áo)",
+          "example": "我买了一件红色的衣服。",
+          "exampleVi": "Tôi đã mua một chiếc áo màu đỏ."
+        },
+        {
+          "hanzi": "换",
+          "pinyin": "huàn",
+          "meaning": "đổi",
+          "example": "我可以换一件吗？",
+          "exampleVi": "Tôi có thể đổi một cái khác không?"
+        },
+        {
+          "hanzi": "卡",
+          "pinyin": "kǎ",
+          "meaning": "thẻ",
+          "example": "我可以用卡买东西吗？",
+          "exampleVi": "Tôi có thể dùng thẻ để mua đồ không?"
+        },
+        {
+          "hanzi": "市",
+          "pinyin": "shì",
+          "meaning": "thành phố",
+          "example": "这个市很大。",
+          "exampleVi": "Thành phố này rất lớn.",
+          "slot": 2
+        },
+        {
+          "hanzi": "取",
+          "pinyin": "qǔ",
+          "meaning": "lấy/rút",
+          "example": "请帮我取一些钱。",
+          "exampleVi": "Làm ơn giúp tôi rút một ít tiền."
+        },
+        {
+          "hanzi": "不错",
+          "pinyin": "búcuò",
+          "meaning": "không tệ/được",
+          "example": "这双鞋的样子不错。",
+          "exampleVi": "Kiểu dáng đôi giày này không tệ."
+        },
+        {
+          "hanzi": "特别",
+          "pinyin": "tè bié",
+          "meaning": "đặc biệt",
+          "example": "这件衣服特别好看。",
+          "exampleVi": "Bộ quần áo này đặc biệt đẹp.",
+          "slot": 3
+        },
+        {
+          "hanzi": "收",
+          "pinyin": "shōu",
+          "meaning": "nhận/thu",
+          "example": "你们收不收人民币？",
+          "exampleVi": "Các bạn có nhận nhân dân tệ không?"
+        }
+      ]
+    },
+    {
+      "id": "health-habits",
+      "title": "Sức khỏe và thói quen",
+      "icon": "🏃",
+      "description": "Học cách nói về thói quen sinh hoạt và giữ gìn sức khỏe bằng tiếng Trung cơ bản.",
+      "level": 2,
+      "words": [
+        {
+          "hanzi": "健康",
+          "pinyin": "jiànkāng",
+          "meaning": "sức khỏe",
+          "example": "多运动对身体健康很好。",
+          "exampleVi": "Tập thể dục nhiều rất tốt cho sức khỏe cơ thể."
+        },
+        {
+          "hanzi": "习惯",
+          "pinyin": "xíguàn",
+          "meaning": "thói quen",
+          "example": "我有很多好习惯。",
+          "exampleVi": "Tôi có rất nhiều thói quen tốt."
+        },
+        {
+          "hanzi": "运动",
+          "pinyin": "yùndòng",
+          "meaning": "vận động, thể thao",
+          "example": "你喜欢什么运动？",
+          "exampleVi": "Bạn thích môn thể thao nào?"
+        },
+        {
+          "hanzi": "药",
+          "pinyin": "yào",
+          "meaning": "thuốc",
+          "example": "生病了要吃药。",
+          "exampleVi": "Bị ốm thì phải uống thuốc."
+        },
+        {
+          "hanzi": "查",
+          "pinyin": "chá",
+          "meaning": "tra, kiểm tra",
+          "example": "请帮我查一下时间。",
+          "exampleVi": "Xin hãy giúp tôi kiểm tra thời gian.",
+          "slot": 4
+        },
+        {
+          "hanzi": "生活",
+          "pinyin": "shēnghuó",
+          "meaning": "cuộc sống",
+          "example": "我的生活很开心。",
+          "exampleVi": "Cuộc sống của tôi rất vui vẻ."
+        },
+        {
+          "hanzi": "越来越",
+          "pinyin": "yuè lái yuè",
+          "meaning": "ngày càng",
+          "example": "身体越来越好了。",
+          "exampleVi": "Cơ thể ngày càng tốt hơn rồi."
+        },
+        {
+          "hanzi": "经常",
+          "pinyin": "jīngcháng",
+          "meaning": "thường xuyên",
+          "example": "我经常去跑步。",
+          "exampleVi": "Tôi thường xuyên đi chạy bộ."
+        },
+        {
+          "hanzi": "心情",
+          "pinyin": "xīnqíng",
+          "meaning": "tâm trạng",
+          "example": "运动以后心情很好。",
+          "exampleVi": "Sau khi vận động tâm trạng rất tốt."
+        },
+        {
+          "hanzi": "加油",
+          "pinyin": "jiāyóu",
+          "meaning": "cố lên",
+          "example": "为了健康，加油！",
+          "exampleVi": "Vì sức khỏe, cố lên!"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "title": "Thể thao",
+      "icon": "⚽",
+      "description": "Học từ vựng về các hoạt động thể thao và rèn luyện sức khỏe.",
+      "level": 2,
+      "words": [
+        {
+          "hanzi": "行动",
+          "pinyin": "xíng dòng",
+          "meaning": "hành động",
+          "example": "我们现在就开始行动吧。",
+          "exampleVi": "Chúng ta bắt đầu hành động ngay bây giờ đi.",
+          "slot": 5
+        },
+        {
+          "hanzi": "参加",
+          "pinyin": "cānjiā",
+          "meaning": "tham gia",
+          "example": "明天我们去参加运动会。",
+          "exampleVi": "Ngày mai chúng ta đi tham gia đại hội thể thao."
+        },
+        {
+          "hanzi": "队",
+          "pinyin": "duì",
+          "meaning": "đội, nhóm",
+          "example": "这是我们的足球队。",
+          "exampleVi": "Đây là đội bóng đá của chúng tôi."
+        },
+        {
+          "hanzi": "安全",
+          "pinyin": "ān quán",
+          "meaning": "an toàn",
+          "example": "过马路要注意安全。",
+          "exampleVi": "Qua đường phải chú ý an toàn.",
+          "slot": 6
+        },
+        {
+          "hanzi": "加",
+          "pinyin": "jiā",
+          "meaning": "thêm",
+          "example": "请帮我加一点儿水。",
+          "exampleVi": "Xin hãy giúp tôi thêm một chút nước.",
+          "slot": 7
+        },
+        {
+          "hanzi": "长",
+          "pinyin": "cháng",
+          "meaning": "dài",
+          "example": "这条路很长。",
+          "exampleVi": "Con đường này rất dài."
+        },
+        {
+          "hanzi": "进行",
+          "pinyin": "jìn xíng",
+          "meaning": "tiến hành",
+          "example": "会议正在进行中。",
+          "exampleVi": "Cuộc họp đang được tiến hành.",
+          "slot": 8
+        },
+        {
+          "hanzi": "身体",
+          "pinyin": "shēntǐ",
+          "meaning": "cơ thể, sức khỏe",
+          "example": "我的身体很好。",
+          "exampleVi": "Sức khỏe của tôi rất tốt."
+        },
+        {
+          "hanzi": "场",
+          "pinyin": "chǎng",
+          "meaning": "sân, bãi (đơn vị)",
+          "example": "那场球赛很有意思。",
+          "exampleVi": "Trận bóng đó rất thú vị.",
+          "slot": 9
+        },
+        {
+          "hanzi": "离开",
+          "pinyin": "lí kāi",
+          "meaning": "rời khỏi",
+          "example": "他已经离开学校了。",
+          "exampleVi": "Anh ấy đã rời khỏi trường học rồi.",
+          "slot": 10
+        }
+      ]
+    },
+    {
+      "id": "feelings",
+      "title": "Cảm xúc và tính cách",
+      "icon": "😊",
+      "description": "Học cách diễn đạt cảm xúc và mô tả tính cách cơ bản trong cuộc sống hàng ngày.",
+      "level": 2,
+      "words": [
+        {
+          "hanzi": "快乐",
+          "pinyin": "kuàilè",
+          "meaning": "vui vẻ",
+          "example": "今天我非常快乐。",
+          "exampleVi": "Hôm nay tôi rất vui vẻ."
+        },
+        {
+          "hanzi": "开心",
+          "pinyin": "kāixīn",
+          "meaning": "vui lòng, hạnh phúc",
+          "example": "见到你我很开心。",
+          "exampleVi": "Gặp được bạn tôi rất vui."
+        },
+        {
+          "hanzi": "可爱",
+          "pinyin": "kě'ài",
+          "meaning": "đáng yêu",
+          "example": "这只猫很可爱。",
+          "exampleVi": "Con mèo này rất đáng yêu."
+        },
+        {
+          "hanzi": "漂亮",
+          "pinyin": "piàoliang",
+          "meaning": "đẹp",
+          "example": "她是一个漂亮的女孩。",
+          "exampleVi": "Cô ấy là một cô gái xinh đẹp."
+        },
+        {
+          "hanzi": "怕",
+          "pinyin": "pà",
+          "meaning": "sợ",
+          "example": "我怕小狗。",
+          "exampleVi": "Tôi sợ chó nhỏ."
+        },
+        {
+          "hanzi": "心里",
+          "pinyin": "xīn li",
+          "meaning": "trong lòng",
+          "example": "我心里很高兴。",
+          "exampleVi": "Trong lòng tôi rất vui.",
+          "slot": 11
+        },
+        {
+          "hanzi": "感觉",
+          "pinyin": "gǎnjué",
+          "meaning": "cảm giác",
+          "example": "我感觉不太好。",
+          "exampleVi": "Tôi cảm thấy không được tốt lắm."
+        },
+        {
+          "hanzi": "关心",
+          "pinyin": "guānxīn",
+          "meaning": "quan tâm",
+          "example": "谢谢你的关心。",
+          "exampleVi": "Cảm ơn sự quan tâm của bạn."
+        },
+        {
+          "hanzi": "懂",
+          "pinyin": "dǒng",
+          "meaning": "hiểu",
+          "example": "我懂你的意思。",
+          "exampleVi": "Tôi hiểu ý của bạn."
+        },
+        {
+          "hanzi": "相信",
+          "pinyin": "xiāngxìn",
+          "meaning": "tin tưởng",
+          "example": "我相信你。",
+          "exampleVi": "Tôi tin bạn."
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "title": "Thiên nhiên",
+      "icon": "🌳",
+      "description": "Khám phá thế giới tự nhiên xung quanh chúng ta thông qua các từ vựng cơ bản.",
+      "level": 2,
+      "words": [
+        {
+          "hanzi": "海",
+          "pinyin": "hǎi",
+          "meaning": "biển",
+          "example": "我喜欢去海边。",
+          "exampleVi": "Tôi thích đi ra bờ biển."
+        },
+        {
+          "hanzi": "鱼",
+          "pinyin": "yú",
+          "meaning": "cá",
+          "example": "海里有很多鱼。",
+          "exampleVi": "Trong biển có rất nhiều cá."
+        },
+        {
+          "hanzi": "猫",
+          "pinyin": "māo",
+          "meaning": "mèo",
+          "example": "这只猫很可爱。",
+          "exampleVi": "Con mèo này rất đáng yêu."
+        },
+        {
+          "hanzi": "狗",
+          "pinyin": "gǒu",
+          "meaning": "chó",
+          "example": "我家里有一只狗。",
+          "exampleVi": "Nhà tôi có một con chó."
+        },
+        {
+          "hanzi": "它",
+          "pinyin": "tā",
+          "meaning": "nó (dùng cho vật/động vật)",
+          "example": "它是一只小猫。",
+          "exampleVi": "Nó là một con mèo nhỏ."
+        },
+        {
+          "hanzi": "短",
+          "pinyin": "duǎn",
+          "meaning": "ngắn",
+          "example": "这件衣服太短了。",
+          "exampleVi": "Bộ quần áo này quá ngắn rồi.",
+          "slot": 12
+        },
+        {
+          "hanzi": "黑",
+          "pinyin": "hēi",
+          "meaning": "đen",
+          "example": "天黑了，我们回家吧。",
+          "exampleVi": "Trời tối rồi, chúng ta về nhà thôi."
+        },
+        {
+          "hanzi": "红",
+          "pinyin": "hóng",
+          "meaning": "đỏ",
+          "example": "那朵花是红色的。",
+          "exampleVi": "Đóa hoa đó có màu đỏ."
+        },
+        {
+          "hanzi": "养",
+          "pinyin": "yǎng",
+          "meaning": "nuôi",
+          "example": "我不想养小动物。",
+          "exampleVi": "Tôi không muốn nuôi động vật nhỏ."
+        },
+        {
+          "hanzi": "气",
+          "pinyin": "qì",
+          "meaning": "khí (thời tiết/không khí)",
+          "example": "今天天气很好。",
+          "exampleVi": "Thời tiết hôm nay rất tốt."
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "Công nghệ và liên lạc",
+      "icon": "📱",
+      "description": "Tìm hiểu về cách sử dụng các thiết bị công nghệ và phương thức liên lạc trong cuộc sống hàng ngày.",
+      "level": 2,
+      "words": [
+        {
+          "hanzi": "手机",
+          "pinyin": "shǒujī",
+          "meaning": "điện thoại di động",
+          "example": "我每天都用手机看新闻。",
+          "exampleVi": "Tôi mỗi ngày đều dùng điện thoại xem tin tức."
+        },
+        {
+          "hanzi": "发",
+          "pinyin": "fā",
+          "meaning": "gửi (tin nhắn, email)",
+          "example": "请给我发一个信息。",
+          "exampleVi": "Hãy gửi cho tôi một tin nhắn."
+        },
+        {
+          "hanzi": "信息",
+          "pinyin": "xìnxī",
+          "meaning": "thông tin, tin nhắn",
+          "example": "我收到了你的信息。",
+          "exampleVi": "Tôi đã nhận được tin nhắn của bạn."
+        },
+        {
+          "hanzi": "使用",
+          "pinyin": "shǐyòng",
+          "meaning": "sử dụng",
+          "example": "这个电脑怎么使用？",
+          "exampleVi": "Cái máy tính này sử dụng như thế nào?"
+        },
+        {
+          "hanzi": "照片",
+          "pinyin": "zhàopiàn",
+          "meaning": "ảnh, hình chụp",
+          "example": "我用手机拍了很多照片。",
+          "exampleVi": "Tôi dùng điện thoại chụp rất nhiều ảnh."
+        },
+        {
+          "hanzi": "电脑",
+          "pinyin": "diànnǎo",
+          "meaning": "máy tính",
+          "example": "我的电脑坏了。",
+          "exampleVi": "Máy tính của tôi hỏng rồi."
+        },
+        {
+          "hanzi": "新闻",
+          "pinyin": "xīnwén",
+          "meaning": "tin tức",
+          "example": "他在网上看新闻。",
+          "exampleVi": "Anh ấy đang xem tin tức trên mạng."
+        },
+        {
+          "hanzi": "信",
+          "pinyin": "xìn",
+          "meaning": "thư",
+          "example": "我写了一封信。",
+          "exampleVi": "Tôi đã viết một bức thư.",
+          "slot": 13
+        },
+        {
+          "hanzi": "节目",
+          "pinyin": "jiémù",
+          "meaning": "chương trình",
+          "example": "这个电视节目很有意思。",
+          "exampleVi": "Chương trình tivi này rất thú vị."
+        },
+        {
+          "hanzi": "说明",
+          "pinyin": "shuō míng",
+          "meaning": "giải thích, thuyết minh",
+          "example": "请说明一下原因。",
+          "exampleVi": "Xin hãy giải thích nguyên nhân.",
+          "slot": 14
+        }
+      ]
+    },
+    {
+      "id": "social-events",
+      "title": "Gặp gỡ và hoạt động xã hội",
+      "icon": "🎉",
+      "description": "Các từ vựng thông dụng để giao tiếp và tham gia các hoạt động xã hội trong đời sống hàng ngày.",
+      "level": 2,
+      "words": [
+        {
+          "hanzi": "接受",
+          "pinyin": "jiē shòu",
+          "meaning": "tiếp nhận, chấp nhận",
+          "example": "我接受你的邀请。",
+          "exampleVi": "Tôi chấp nhận lời mời của bạn.",
+          "slot": 15
+        },
+        {
+          "hanzi": "大家",
+          "pinyin": "dàjiā",
+          "meaning": "mọi người",
+          "example": "大家都在这里。",
+          "exampleVi": "Mọi người đều ở đây."
+        },
+        {
+          "hanzi": "经过",
+          "pinyin": "jīng guò",
+          "meaning": "trải qua, đi qua",
+          "example": "我经过你的公司。",
+          "exampleVi": "Tôi đi ngang qua công ty của bạn.",
+          "slot": 16
+        },
+        {
+          "hanzi": "见到",
+          "pinyin": "jiàndào",
+          "meaning": "gặp được",
+          "example": "很高兴见到你。",
+          "exampleVi": "Rất vui được gặp bạn."
+        },
+        {
+          "hanzi": "欢迎",
+          "pinyin": "huānyíng",
+          "meaning": "hoan nghênh",
+          "example": "欢迎你来我家。",
+          "exampleVi": "Hoan nghênh bạn đến nhà tôi."
+        },
+        {
+          "hanzi": "感到",
+          "pinyin": "gǎn dào",
+          "meaning": "cảm thấy",
+          "example": "我感到很累。",
+          "exampleVi": "Tôi cảm thấy rất mệt.",
+          "slot": 17
+        },
+        {
+          "hanzi": "音乐",
+          "pinyin": "yīnyuè",
+          "meaning": "âm nhạc",
+          "example": "我们一起听音乐吧。",
+          "exampleVi": "Chúng ta cùng nghe nhạc đi."
+        },
+        {
+          "hanzi": "周末",
+          "pinyin": "zhōumò",
+          "meaning": "cuối tuần",
+          "example": "周末你有时间吗？",
+          "exampleVi": "Cuối tuần bạn có thời gian không?"
+        },
+        {
+          "hanzi": "感谢",
+          "pinyin": "gǎn xiè",
+          "meaning": "cảm ơn",
+          "example": "非常感谢你的帮助。",
+          "exampleVi": "Vô cùng cảm ơn sự giúp đỡ của bạn.",
+          "slot": 18
+        },
+        {
+          "hanzi": "机会",
+          "pinyin": "jīhuì",
+          "meaning": "cơ hội",
+          "example": "这是一个很好的机会。",
+          "exampleVi": "Đây là một cơ hội rất tốt."
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "id": "hsk2-reading-01",
+      "level": 2,
+      "title": "Chuyển nhà",
+      "passage": "我下个星期要搬家。新家离公司很近，走路只要十分钟。我有很多书和衣服，所以需要很多纸箱。朋友明天来帮我一起收拾东西。搬完家以后，我想请大家去饭店吃饭。我很喜欢我的新家。",
+      "pinyin": "Wǒ xià gè xīngqī yào bānjiā. Xīnjiā lí gōngsī hěn jìn, zǒulù zhǐyào shí fēnzhōng. Wǒ yǒu hěnduō shū hé yīfu, suǒyǐ xūyào hěnduō zhǐxiāng. Péngyǒu míngtiān lái bāng wǒ yīqǐ shōushí dōngxi. Bān wán jiā yǐhòu, wǒ xiǎng qǐng dàjiā qù fàndiàn chīfàn. Wǒ hěn xǐhuān wǒ de xīnjiā.",
+      "translation": "Tuần sau tôi phải chuyển nhà. Nhà mới rất gần công ty, đi bộ chỉ mất mười phút. Tôi có rất nhiều sách và quần áo, nên cần nhiều thùng giấy. Ngày mai bạn bè sẽ đến giúp tôi thu dọn đồ đạc. Sau khi chuyển nhà xong, tôi muốn mời mọi người đi nhà hàng ăn cơm. Tôi rất thích nhà mới của mình.",
+      "vocabulary": [
+        {
+          "hanzi": "搬家",
+          "pinyin": "bānjiā",
+          "meaning": "chuyển nhà"
+        },
+        {
+          "hanzi": "离",
+          "pinyin": "lí",
+          "meaning": "cách"
+        },
+        {
+          "hanzi": "纸箱",
+          "pinyin": "zhǐxiāng",
+          "meaning": "thùng giấy"
+        },
+        {
+          "hanzi": "收拾",
+          "pinyin": "shōushí",
+          "meaning": "thu dọn"
+        }
+      ],
+      "questions": [
+        {
+          "question": "从家到公司走路要多久？",
+          "options": [
+            "十分钟",
+            "二十分钟",
+            "半个小时",
+            "一个小时"
+          ],
+          "answer": 0,
+          "explanation": "Bài viết đề cập \"走路只要十分钟\" (đi bộ chỉ mất 10 phút)."
+        },
+        {
+          "question": "谁明天来帮我？",
+          "options": [
+            "老师",
+            "同事",
+            "朋友",
+            "家人"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"朋友明天来帮我一起收拾东西\" (ngày mai bạn đến giúp tôi dọn dẹp đồ đạc)."
+        },
+        {
+          "question": "搬家后我想做什么？",
+          "options": [
+            "买新衣服",
+            "去旅游",
+            "请大家吃饭",
+            "看书"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"搬完家以后，我想请大家去饭店吃饭\" (sau khi chuyển nhà xong, tôi muốn mời mọi người đi ăn nhà hàng)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-02",
+      "level": 2,
+      "title": "Một ngày bận rộn",
+      "passage": "今天我非常忙。早上七点我就起床了，喝了一杯咖啡。八点半开始工作，一直忙到下午五点。中午我只吃了一个苹果，因为没有时间去食堂。下班后，我还要去超市买菜。晚上回家太累了，我想早点休息。",
+      "pinyin": "Jīntiān wǒ fēicháng máng. Zǎoshang qī diǎn wǒ jiù qǐchuáng le, hē le yī bēi kāfēi. Bā diǎn bàn kāishǐ gōngzuò, yīzhí máng dào xiàwǔ wǔ diǎn. Zhōngwǔ wǒ zhǐ chī le yī gè píngguǒ, yīnwèi méiyǒu shíjiān qù shítáng. Xiàbān hòu, wǒ hái yào qù chāoshì mǎi cài. Wǎnshàng huí jiā tài lèi le, wǒ xiǎng zǎodiǎn xiūxi.",
+      "translation": "Hôm nay tôi vô cùng bận rộn. Bảy giờ sáng tôi đã thức dậy, uống một cốc cà phê. Tám giờ rưỡi bắt đầu làm việc, bận rộn mãi đến năm giờ chiều. Buổi trưa tôi chỉ ăn một quả táo vì không có thời gian đến nhà ăn. Sau khi tan làm, tôi còn phải đi siêu thị mua thức ăn. Tối về nhà mệt quá, tôi muốn nghỉ ngơi sớm.",
+      "vocabulary": [
+        {
+          "hanzi": "忙",
+          "pinyin": "máng",
+          "meaning": "bận"
+        },
+        {
+          "hanzi": "一直",
+          "pinyin": "yīzhí",
+          "meaning": "luôn, mãi"
+        },
+        {
+          "hanzi": "食堂",
+          "pinyin": "shítáng",
+          "meaning": "nhà ăn"
+        },
+        {
+          "hanzi": "休息",
+          "pinyin": "xiūxi",
+          "meaning": "nghỉ ngơi"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我中午吃了什么？",
+          "options": [
+            "米饭",
+            "面条",
+            "一个苹果",
+            "什么都没吃"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"中午我只吃了一个苹果\" (buổi trưa tôi chỉ ăn một quả táo)."
+        },
+        {
+          "question": "我工作到几点？",
+          "options": [
+            "七点",
+            "八点半",
+            "五点",
+            "六点"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"一直忙到下午五点\" (bận rộn liên tục đến 5 giờ chiều)."
+        },
+        {
+          "question": "下班后我还要做什么？",
+          "options": [
+            "去超市",
+            "去学校",
+            "去医院",
+            "去运动"
+          ],
+          "answer": 0,
+          "explanation": "Bài viết đề cập \"下班后，我还要去超市买菜\" (sau khi tan làm, tôi còn phải đi siêu thị mua thức ăn)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-03",
+      "level": 2,
+      "title": "Món quà sinh nhật",
+      "passage": "明天是妈妈的生日，我想送她一份礼物。我去了很多商店，看了手表和衣服，但是都太贵了。后来，我看到一家花店，买了一束漂亮的红花。妈妈很喜欢花，她一定会很高兴。我还要亲手做一个蛋糕。",
+      "pinyin": "Míngtiān shì māma de shēngrì, wǒ xiǎng sòng tā yī fèn lǐwù. Wǒ qù le hěnduō shāngdiàn, kàn le shǒubiǎo hé yīfu, dànshì dōu tài guì le. Hòulái, wǒ kàndào yī jiā huādiàn, mǎi le yī shù piàoliang de hóng huā. Māma hěn xǐhuān huā, tā yīdìng huì hěn gāoxìng. Wǒ hái yào qīnshǒu zuò yī gè dàngāo.",
+      "translation": "Ngày mai là sinh nhật mẹ, tôi muốn tặng bà một món quà. Tôi đã đi nhiều cửa hàng, xem đồng hồ và quần áo, nhưng đều quá đắt. Sau đó, tôi thấy một tiệm hoa, mua một bó hoa đỏ xinh đẹp. Mẹ rất thích hoa, bà chắc chắn sẽ rất vui. Tôi còn muốn tự tay làm một chiếc bánh kem.",
+      "vocabulary": [
+        {
+          "hanzi": "礼物",
+          "pinyin": "lǐwù",
+          "meaning": "quà tặng"
+        },
+        {
+          "hanzi": "贵",
+          "pinyin": "guì",
+          "meaning": "đắt"
+        },
+        {
+          "hanzi": "花",
+          "pinyin": "huā",
+          "meaning": "hoa"
+        },
+        {
+          "hanzi": "高兴",
+          "pinyin": "gāoxìng",
+          "meaning": "vui vẻ"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我为什么去商店？",
+          "options": [
+            "买衣服",
+            "买礼物",
+            "买手表",
+            "买蛋糕"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"明天是妈妈的生日，我想送她一份礼物\" (ngày mai là sinh nhật mẹ, tôi muốn tặng bà một món quà)."
+        },
+        {
+          "question": "我最后买了什么？",
+          "options": [
+            "手表",
+            "衣服",
+            "红花",
+            "蛋糕"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"买了一束漂亮的红花\" (đã mua một bó hoa đỏ xinh đẹp)."
+        },
+        {
+          "question": "妈妈喜欢什么？",
+          "options": [
+            "手表",
+            "衣服",
+            "花",
+            "蛋糕"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"妈妈很喜欢花\" (mẹ rất thích hoa)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-04",
+      "level": 2,
+      "title": "Học nấu ăn",
+      "passage": "我以前不会做饭，每天都在外面吃。现在我想自己做饭，因为这样更健康。我买了一本菜谱，上面有很多好吃的菜。今天我试着做了一个西红柿炒鸡蛋。虽然味道一般，但是我觉得很有意思。",
+      "pinyin": "Wǒ yǐqián bù huì zuòfàn, měitiān dōu zài wàimiàn chī. Xiànzài wǒ xiǎng zìjǐ zuòfàn, yīnwèi zhèyàng gèng jiànkāng. Wǒ mǎi le yī běn càipǔ, shàngmiàn yǒu hěnduō hǎochī de cài. Jīntiān wǒ shìzhe zuò le yī gè xīhóngshì chǎo jīdàn. Suīrán wèidào yībān, dànshì wǒ juéde hěn yǒu yìsi.",
+      "translation": "Trước đây tôi không biết nấu ăn, ngày nào cũng ăn ở ngoài. Bây giờ tôi muốn tự nấu ăn vì như vậy tốt cho sức khỏe hơn. Tôi đã mua một cuốn sách dạy nấu ăn, trên đó có rất nhiều món ngon. Hôm nay tôi thử làm món trứng xào cà chua. Tuy hương vị bình thường, nhưng tôi cảm thấy rất thú vị.",
+      "vocabulary": [
+        {
+          "hanzi": "做饭",
+          "pinyin": "zuòfàn",
+          "meaning": "nấu cơm"
+        },
+        {
+          "hanzi": "健康",
+          "pinyin": "jiànkāng",
+          "meaning": "sức khỏe"
+        },
+        {
+          "hanzi": "菜谱",
+          "pinyin": "càipǔ",
+          "meaning": "sách dạy nấu ăn"
+        },
+        {
+          "hanzi": "味道",
+          "pinyin": "wèidào",
+          "meaning": "hương vị"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我以前在哪里吃饭？",
+          "options": [
+            "家里",
+            "食堂",
+            "外面",
+            "学校"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"以前不会做饭，每天都在外面吃\" (trước đây không biết nấu ăn, ngày nào cũng ăn ngoài)."
+        },
+        {
+          "question": "我为什么要自己做饭？",
+          "options": [
+            "为了省钱",
+            "为了健康",
+            "为了好玩",
+            "为了朋友"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"现在我想自己做饭，因为这样更健康\" (bây giờ tôi muốn tự nấu ăn vì như vậy tốt cho sức khỏe hơn)."
+        },
+        {
+          "question": "今天我做了什么菜？",
+          "options": [
+            "米饭",
+            "面条",
+            "西红柿炒鸡蛋",
+            "炒肉"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"今天我试着做了一个西红柿炒鸡蛋\" (hôm nay tôi thử làm món cà chua xào trứng)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-05",
+      "level": 2,
+      "title": "Chuyến tàu cuối tuần",
+      "passage": "这个周末，我想去北京旅游。我提前在网上买好了火车票。星期六早上八点，我准时到了火车站。火车上人很多，但是很干净。坐了三个小时，我终于到了北京。北京的天气很好，我很开心。",
+      "pinyin": "Zhège zhōumò, wǒ xiǎng qù Běijīng lǚyóu. Wǒ tíqián zài wǎngshàng mǎi hǎo le huǒchēpiào. Xīngqīliù zǎoshang bā diǎn, wǒ zhǔnshí dào le huǒchēzhàn. Huǒchē shàng rén hěnduō, dànshì hěn gānjìng. Zuò le sān gè xiǎoshí, wǒ zhōngyú dào le Běijīng. Běijīng de tiānqì hěn hǎo, wǒ hěn kāixīn.",
+      "translation": "Cuối tuần này, tôi muốn đi Bắc Kinh du lịch. Tôi đã mua vé tàu trên mạng từ trước. Sáng thứ Bảy tám giờ, tôi đến ga tàu đúng giờ. Trên tàu rất đông người, nhưng rất sạch sẽ. Ngồi ba tiếng đồng hồ, cuối cùng tôi đã đến Bắc Kinh. Thời tiết Bắc Kinh rất đẹp, tôi rất vui.",
+      "vocabulary": [
+        {
+          "hanzi": "周末",
+          "pinyin": "zhōumò",
+          "meaning": "cuối tuần"
+        },
+        {
+          "hanzi": "提前",
+          "pinyin": "tíqián",
+          "meaning": "trước"
+        },
+        {
+          "hanzi": "火车站",
+          "pinyin": "huǒchēzhàn",
+          "meaning": "ga tàu"
+        },
+        {
+          "hanzi": "终于",
+          "pinyin": "zhōngyú",
+          "meaning": "cuối cùng"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我是怎么买票的？",
+          "options": [
+            "去车站买",
+            "在网上买",
+            "请朋友买",
+            "打电话买"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"我提前在网上买好了火车票\" (tôi đã mua vé tàu trên mạng từ trước)."
+        },
+        {
+          "question": "坐火车用了多长时间？",
+          "options": [
+            "一小时",
+            "两小时",
+            "三小时",
+            "四小时"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"坐了三个小时\" (đã ngồi tàu 3 tiếng đồng hồ)."
+        },
+        {
+          "question": "我对火车的感觉是什么？",
+          "options": [
+            "很脏",
+            "很干净",
+            "很慢",
+            "很贵"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"火车上人很多，但是很干净\" (trên tàu rất đông người nhưng lại rất sạch sẽ)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-06",
+      "level": 2,
+      "title": "Tìm điện thoại",
+      "passage": "我的手机不见了！我找了房间的每一个角落，但是没找到。我问了我的室友，他说没看见。我非常着急，因为手机里有很多重要的照片。后来，我发现手机在沙发下面。原来是我昨天看电视时掉在那儿了。",
+      "pinyin": "Wǒ de shǒujī bùjiàn le! Wǒ zhǎo le fángjiān de měi yī gè jiǎoluò, dànshì méi zhǎodào. Wǒ wèn le wǒ de shìyǒu, tā shuō méi kànjiàn. Wǒ fēicháng zhāojí, yīnwèi shǒujī lǐ yǒu hěnduō zhòngyào de zhàopiàn. Hòulái, wǒ fāxiàn shǒujī zài shāfā xiàmiàn. Yuánlái shì wǒ zuótiān kàn diànshì shí diào zài nàr le.",
+      "translation": "Điện thoại của tôi biến mất rồi! Tôi đã tìm mọi ngóc ngách trong phòng nhưng không thấy. Tôi hỏi bạn cùng phòng, cậu ấy nói không thấy. Tôi vô cùng lo lắng vì trong điện thoại có nhiều ảnh quan trọng. Sau đó, tôi phát hiện điện thoại ở dưới ghế sofa. Hóa ra là hôm qua lúc xem tivi tôi đã làm rơi ở đó.",
+      "vocabulary": [
+        {
+          "hanzi": "手机",
+          "pinyin": "shǒujī",
+          "meaning": "điện thoại"
+        },
+        {
+          "hanzi": "不见",
+          "pinyin": "bùjiàn",
+          "meaning": "biến mất"
+        },
+        {
+          "hanzi": "着急",
+          "pinyin": "zhāojí",
+          "meaning": "lo lắng"
+        },
+        {
+          "hanzi": "发现",
+          "pinyin": "fāxiàn",
+          "meaning": "phát hiện"
+        }
+      ],
+      "questions": [
+        {
+          "question": "为什么我很着急？",
+          "options": [
+            "因为手机坏了",
+            "因为手机丢了",
+            "因为手机里有重要照片",
+            "因为室友不见了"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"我非常着急，因为手机里有很多重要的照片\" (tôi rất lo lắng vì trong điện thoại có nhiều ảnh quan trọng)."
+        },
+        {
+          "question": "手机最后在哪里找到的？",
+          "options": [
+            "桌子上",
+            "床上",
+            "沙发下面",
+            "书包里"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"我发现手机在沙发下面\" (tôi phát hiện điện thoại ở dưới ghế sofa)."
+        },
+        {
+          "question": "手机是怎么掉的？",
+          "options": [
+            "昨天看电视时掉的",
+            "今天早上掉的",
+            "刚才掉的",
+            "不知道"
+          ],
+          "answer": 0,
+          "explanation": "Bài viết đề cập \"原来是我昨天看电视时掉在那儿了\" (hóa ra là hôm qua lúc xem tivi tôi đã làm rơi ở đó)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-07",
+      "level": 2,
+      "title": "Buổi phỏng vấn",
+      "passage": "今天我去一家大公司面试。我穿了一件白色的衬衫，看起来很精神。面试的时候，经理问了我很多问题，比如我的工作经验和爱好。虽然我有点儿紧张，但是回答得还可以。希望下个星期能收到他们的好消息。",
+      "pinyin": "Jīntiān wǒ qù yī jiā dà gōngsī miànshì. Wǒ chuān le yī jiàn báisè de chènshān, kàn qǐlái hěn jīngshén. Miànshì de shíhòu, jīnglǐ wèn le wǒ hěnduō wèntí, bǐrú wǒ de gōngzuò jīngyàn hé àihào. Suīrán wǒ yǒudiǎnr jǐnzhāng, dànshì huídá de hái kěyǐ. Xīwàng xià gè xīngqī néng shōudào tāmen de hǎo xiāoxi.",
+      "translation": "Hôm nay tôi đi phỏng vấn ở một công ty lớn. Tôi mặc một chiếc áo sơ mi trắng, trông rất có tinh thần. Lúc phỏng vấn, giám đốc hỏi tôi rất nhiều câu hỏi, ví dụ như kinh nghiệm làm việc và sở thích của tôi. Tuy tôi hơi căng thẳng, nhưng trả lời cũng tạm được. Hy vọng tuần sau có thể nhận được tin tốt từ họ.",
+      "vocabulary": [
+        {
+          "hanzi": "面试",
+          "pinyin": "miànshì",
+          "meaning": "phỏng vấn"
+        },
+        {
+          "hanzi": "衬衫",
+          "pinyin": "chènshān",
+          "meaning": "áo sơ mi"
+        },
+        {
+          "hanzi": "经理",
+          "pinyin": "jīnglǐ",
+          "meaning": "giám đốc"
+        },
+        {
+          "hanzi": "紧张",
+          "pinyin": "jǐnzhāng",
+          "meaning": "căng thẳng"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我面试时穿了什么？",
+          "options": [
+            "黑色的衣服",
+            "白色的衬衫",
+            "红色的裙子",
+            "运动服"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"我穿了一件白色的衬衫\" (tôi mặc một chiếc áo sơ mi trắng)."
+        },
+        {
+          "question": "面试时我感觉怎么样？",
+          "options": [
+            "很高兴",
+            "很累",
+            "有点儿紧张",
+            "很生气"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"虽然我有点儿紧张\" (mặc dù tôi có chút căng thẳng)."
+        },
+        {
+          "question": "我希望什么时候收到消息？",
+          "options": [
+            "今天",
+            "明天",
+            "下个星期",
+            "下个月"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"希望下个星期能收到他们的好消息\" (hy vọng tuần sau có thể nhận được tin tốt từ họ)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-08",
+      "level": 2,
+      "title": "Thói quen tập thể dục",
+      "passage": "医生说我应该多运动，所以我决定每天跑步。早上六点，公园里有很多老人和孩子。我跑了二十分钟，觉得身体舒服多了。运动不仅能让我更健康，还能让我心情变好。我打算坚持下去。",
+      "pinyin": "Yīshēng shuō wǒ yīnggāi duō yùndòng, suǒyǐ wǒ juédìng měitiān pǎobù. Zǎoshang liù diǎn, gōngyuán lǐ yǒu hěnduō lǎorén hé háizi. Wǒ pǎo le èrshí fēnzhōng, juéde shēntǐ shūfu duō le. Yùndòng bùjǐn néng ràng wǒ gèng jiànkāng, hái néng ràng wǒ xīnqíng biàn hǎo. Wǒ dǎsuàn jiānchí xiàqù.",
+      "translation": "Bác sĩ nói tôi nên vận động nhiều hơn, vì vậy tôi quyết định chạy bộ mỗi ngày. Sáu giờ sáng, trong công viên có rất nhiều người già và trẻ em. Tôi chạy hai mươi phút, cảm thấy cơ thể thoải mái hơn nhiều. Vận động không chỉ giúp tôi khỏe mạnh hơn, còn giúp tâm trạng tôi tốt lên. Tôi dự định sẽ kiên trì tiếp tục.",
+      "vocabulary": [
+        {
+          "hanzi": "运动",
+          "pinyin": "yùndòng",
+          "meaning": "vận động"
+        },
+        {
+          "hanzi": "跑步",
+          "pinyin": "pǎobù",
+          "meaning": "chạy bộ"
+        },
+        {
+          "hanzi": "身体",
+          "pinyin": "shēntǐ",
+          "meaning": "cơ thể"
+        },
+        {
+          "hanzi": "坚持",
+          "pinyin": "jiānchí",
+          "meaning": "kiên trì"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我为什么要跑步？",
+          "options": [
+            "因为医生建议",
+            "因为朋友喜欢",
+            "因为想减肥",
+            "因为想去公园"
+          ],
+          "answer": 0,
+          "explanation": "Bài viết đề cập \"医生说我应该多运动，所以我决定每天跑步\" (bác sĩ bảo tôi nên vận động nhiều hơn nên tôi quyết định chạy bộ mỗi ngày)."
+        },
+        {
+          "question": "我跑了多长时间？",
+          "options": [
+            "十分钟",
+            "二十分钟",
+            "半个小时",
+            "一小时"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"我跑了二十分钟\" (tôi đã chạy được 20 phút)."
+        },
+        {
+          "question": "运动有什么好处？",
+          "options": [
+            "更健康",
+            "心情变好",
+            "以上都是",
+            "以上都不是"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"运动不仅能让我更健康，还能让我心情变好\" (vận động không chỉ giúp tôi khỏe mạnh hơn mà còn giúp tâm trạng tốt hơn)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-09",
+      "level": 2,
+      "title": "Người hàng xóm mới",
+      "passage": "昨天，我隔壁搬来了一位新邻居。他是一个年轻的老师，看起来很友好。今天下午，他送给我一些水果，还问我附近哪里有超市。我告诉他超市就在路口。我们聊得很开心，希望以后能成为好朋友。",
+      "pinyin": "Zuótiān, wǒ gébì bān lái le yī wèi xīn línjū. Tā shì yī gè niánqīng de lǎoshī, kàn qǐlái hěn yǒuhǎo. Jīntiān xiàwǔ, tā sòng gěi wǒ yīxiē shuǐguǒ, hái wèn wǒ fùjìn nǎlǐ yǒu chāoshì. Wǒ gàosù tā chāoshì jiù zài lùkǒu. Wǒmen liáo de hěn kāixīn, xīwàng yǐhòu néng chéngwéi hǎo péngyǒu.",
+      "translation": "Hôm qua, nhà bên cạnh tôi chuyển đến một người hàng xóm mới. Anh ấy là một giáo viên trẻ, trông rất thân thiện. Chiều nay, anh ấy tặng tôi một ít trái cây, còn hỏi tôi gần đây chỗ nào có siêu thị. Tôi bảo anh ấy siêu thị ngay ở ngã tư. Chúng tôi trò chuyện rất vui vẻ, hy vọng sau này có thể trở thành bạn tốt.",
+      "vocabulary": [
+        {
+          "hanzi": "邻居",
+          "pinyin": "línjū",
+          "meaning": "hàng xóm"
+        },
+        {
+          "hanzi": "年轻",
+          "pinyin": "niánqīng",
+          "meaning": "trẻ"
+        },
+        {
+          "hanzi": "友好",
+          "pinyin": "yǒuhǎo",
+          "meaning": "thân thiện"
+        },
+        {
+          "hanzi": "聊天",
+          "pinyin": "liáotiān",
+          "meaning": "trò chuyện"
+        }
+      ],
+      "questions": [
+        {
+          "question": "新邻居是做什么的？",
+          "options": [
+            "医生",
+            "老师",
+            "学生",
+            "经理"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"他是一个年轻的老师\" (anh ấy là một giáo viên trẻ)."
+        },
+        {
+          "question": "新邻居送给我什么？",
+          "options": [
+            "书",
+            "衣服",
+            "水果",
+            "花"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"他送给我一些水果\" (anh ấy tặng tôi một ít trái cây)."
+        },
+        {
+          "question": "超市在哪里？",
+          "options": [
+            "在学校旁边",
+            "在路口",
+            "在公园里",
+            "在家里"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"我告诉他超市就在路口\" (tôi bảo anh ấy siêu thị ngay ở đầu đường)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-10",
+      "level": 2,
+      "title": "Mua hàng trên mạng",
+      "passage": "现在很多人喜欢在网上买东西。我也一样，因为网上买东西很方便，而且比商店便宜。上个星期，我买了一双运动鞋，今天就收到了。鞋子很合适，颜色我也很喜欢。以后我还会继续在网上买东西。",
+      "pinyin": "Xiànzài hěnduō rén xǐhuān zài wǎngshàng mǎi dōngxi. Wǒ yě yīyàng, yīnwèi wǎngshàng mǎi dōngxi hěn fāngbiàn, érqiě bǐ shāngdiàn piányi. Shàng gè xīngqī, wǒ mǎi le yī shuāng yùndòngxié, jīntiān jiù shōudào le. Xiézi hěn héshì, yánsè wǒ yě hěn xǐhuān. Yǐhòu wǒ hái huì jìxù zài wǎngshàng mǎi dōngxi.",
+      "translation": "Hiện nay nhiều người thích mua đồ trên mạng. Tôi cũng vậy, vì mua đồ trên mạng rất tiện lợi, hơn nữa còn rẻ hơn cửa hàng. Tuần trước, tôi mua một đôi giày thể thao, hôm nay đã nhận được rồi. Giày rất vừa vặn, màu sắc tôi cũng rất thích. Sau này tôi vẫn sẽ tiếp tục mua đồ trên mạng.",
+      "vocabulary": [
+        {
+          "hanzi": "方便",
+          "pinyin": "fāngbiàn",
+          "meaning": "tiện lợi"
+        },
+        {
+          "hanzi": "便宜",
+          "pinyin": "piányi",
+          "meaning": "rẻ"
+        },
+        {
+          "hanzi": "运动鞋",
+          "pinyin": "yùndòngxié",
+          "meaning": "giày thể thao"
+        },
+        {
+          "hanzi": "合适",
+          "pinyin": "héshì",
+          "meaning": "phù hợp, vừa vặn"
+        }
+      ],
+      "questions": [
+        {
+          "question": "为什么喜欢在网上买东西？",
+          "options": [
+            "因为很方便",
+            "因为很便宜",
+            "以上都是",
+            "以上都不是"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"因为网上买东西很方便，而且比商店便宜\" (vì mua sắm online rất tiện lợi và rẻ hơn ở cửa hàng)."
+        },
+        {
+          "question": "我买了什么？",
+          "options": [
+            "衣服",
+            "运动鞋",
+            "书",
+            "手机"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"我买了一双运动鞋\" (tôi đã mua một đôi giày thể thao)."
+        },
+        {
+          "question": "我对买到的鞋子满意吗？",
+          "options": [
+            "很满意",
+            "不满意",
+            "太大了",
+            "颜色不好看"
+          ],
+          "answer": 0,
+          "explanation": "Bài viết đề cập \"鞋子很合适，颜色我也很喜欢\" (giày rất vừa vặn, màu sắc tôi cũng rất thích)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-11",
+      "level": 2,
+      "title": "Kế hoạch nghỉ hè",
+      "passage": "暑假快到了，我有很多计划。我想先回老家看望爷爷奶奶，陪他们住几天。然后，我想去海边旅游，因为我特别喜欢大海。我已经查好了机票，准备下个月出发。希望这个假期能过得愉快。",
+      "pinyin": "Shǔjià kuài dào le, wǒ yǒu hěnduō jìhuà. Wǒ xiǎng xiān huí lǎojiā kànwàng yéye nǎinai, péi tāmen zhù jǐ tiān. Ránhòu, wǒ xiǎng qù hǎibiān lǚyóu, yīnwèi wǒ tèbié xǐhuān dàhǎi. Wǒ yǐjīng chá hǎo le jīpiào, zhǔnbèi xià gè yuè chūfā. Xīwàng zhège jiàqī néng guò de yúkuài.",
+      "translation": "Nghỉ hè sắp đến rồi, tôi có rất nhiều kế hoạch. Tôi muốn về quê thăm ông bà trước, ở cùng họ vài ngày. Sau đó, tôi muốn đi du lịch biển, vì tôi đặc biệt thích biển. Tôi đã tra xong vé máy bay, chuẩn bị tháng sau xuất phát. Hy vọng kỳ nghỉ này có thể trôi qua vui vẻ.",
+      "vocabulary": [
+        {
+          "hanzi": "暑假",
+          "pinyin": "shǔjià",
+          "meaning": "nghỉ hè"
+        },
+        {
+          "hanzi": "计划",
+          "pinyin": "jìhuà",
+          "meaning": "kế hoạch"
+        },
+        {
+          "hanzi": "老家",
+          "pinyin": "lǎojiā",
+          "meaning": "quê nhà"
+        },
+        {
+          "hanzi": "大海",
+          "pinyin": "dàhǎi",
+          "meaning": "biển lớn"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我暑假第一件事想做什么？",
+          "options": [
+            "去海边",
+            "回老家",
+            "去工作",
+            "去学习"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"我想先回老家看望爷爷奶奶\" (tôi muốn về quê thăm ông bà trước)."
+        },
+        {
+          "question": "我为什么想去海边？",
+          "options": [
+            "因为那里很凉快",
+            "因为那里很便宜",
+            "因为我特别喜欢大海",
+            "因为朋友在那里"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"因为我特别喜欢大海\" (vì tôi đặc biệt thích biển)."
+        },
+        {
+          "question": "我打算什么时候出发？",
+          "options": [
+            "这个月",
+            "下个月",
+            "明天",
+            "下个星期"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"准备下个月出发\" (chuẩn bị xuất phát vào tháng sau)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-12",
+      "level": 2,
+      "title": "Một lần đến bệnh viện",
+      "passage": "昨天晚上我发烧了，头很疼，所以今天没去上班。早上，我一个人去了医院。医生给我检查了身体，说我感冒了。他让我多喝水，多休息，还给我开了药。吃完药以后，我觉得好多了。",
+      "pinyin": "Zuótiān wǎnshàng wǒ fāshāo le, tóu hěn téng, suǒyǐ jīntiān méi qù shàngbān. Zǎoshang, wǒ yī gè rén qù le yīyuàn. Yīshēng gěi wǒ jiǎnchá le shēntǐ, shuō wǒ gǎnmào le. Tā ràng wǒ duō hē shuǐ, duō xiūxi, hái gěi wǒ kāi le yào. Chī wán yào yǐhòu, wǒ juéde hǎo duō le.",
+      "translation": "Tối qua tôi bị sốt, đầu rất đau, nên hôm nay không đi làm. Buổi sáng, tôi một mình đến bệnh viện. Bác sĩ kiểm tra cơ thể cho tôi, nói tôi bị cảm rồi. Ông ấy bảo tôi uống nhiều nước, nghỉ ngơi nhiều, còn kê đơn thuốc cho tôi. Sau khi uống thuốc xong, tôi cảm thấy đỡ hơn nhiều.",
+      "vocabulary": [
+        {
+          "hanzi": "发烧",
+          "pinyin": "fāshāo",
+          "meaning": "sốt"
+        },
+        {
+          "hanzi": "医院",
+          "pinyin": "yīyuàn",
+          "meaning": "bệnh viện"
+        },
+        {
+          "hanzi": "感冒",
+          "pinyin": "gǎnmào",
+          "meaning": "cảm cúm"
+        },
+        {
+          "hanzi": "药",
+          "pinyin": "yào",
+          "meaning": "thuốc"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我为什么没去上班？",
+          "options": [
+            "因为太忙",
+            "因为发烧了",
+            "因为要去旅游",
+            "因为要搬家"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"昨天晚上我发烧了……所以今天没去上班\" (tối qua tôi bị sốt nên hôm nay không đi làm)."
+        },
+        {
+          "question": "医生让我做什么？",
+          "options": [
+            "多喝水",
+            "多休息",
+            "吃药",
+            "以上都是"
+          ],
+          "answer": 3,
+          "explanation": "Bài viết đề cập \"他让我多喝水，多休息，还给我开了药\" (bác sĩ bảo tôi uống nhiều nước, nghỉ ngơi nhiều và kê đơn thuốc cho tôi)."
+        },
+        {
+          "question": "现在我的身体怎么样？",
+          "options": [
+            "好多了",
+            "更疼了",
+            "没变化",
+            "很严重"
+          ],
+          "answer": 0,
+          "explanation": "Bài viết đề cập \"吃完药以后，我觉得好多了\" (sau khi uống thuốc, tôi cảm thấy đỡ hơn nhiều)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-13",
+      "level": 2,
+      "title": "Câu lạc bộ tiếng Trung",
+      "passage": "为了提高汉语水平，我参加了一个中文俱乐部。每周三晚上，我们都会聚在一起练习说话。大家都很热情，互相帮助。虽然我的发音还不太好，但是我不怕犯错。我相信只要努力，一定能学好汉语。",
+      "pinyin": "Wèile tígāo hànyǔ shuǐpíng, wǒ cānjiā le yī gè zhōngwén jùlèbù. Měi zhōu sān wǎnshàng, wǒmen dōu huì jù zài yīqǐ liànxí shuōhuà. Dàjiā dōu hěn rèqíng, hùxiāng bāngzhù. Suīrán wǒ de fāyīn hái bù tài hǎo, dànshì wǒ bù pà fàncuò. Wǒ xiāngxìn zhǐyào nǔlì, yīdìng néng xué hǎo hànyǔ.",
+      "translation": "Để nâng cao trình độ tiếng Trung, tôi đã tham gia một câu lạc bộ tiếng Trung. Tối thứ Tư hàng tuần, chúng tôi đều tụ tập cùng nhau luyện nói. Mọi người đều rất nhiệt tình, giúp đỡ lẫn nhau. Tuy phát âm của tôi vẫn chưa tốt lắm, nhưng tôi không sợ mắc lỗi. Tôi tin rằng chỉ cần nỗ lực, nhất định có thể học tốt tiếng Trung.",
+      "vocabulary": [
+        {
+          "hanzi": "提高",
+          "pinyin": "tígāo",
+          "meaning": "nâng cao"
+        },
+        {
+          "hanzi": "参加",
+          "pinyin": "cānjiā",
+          "meaning": "tham gia"
+        },
+        {
+          "hanzi": "练习",
+          "pinyin": "liànxí",
+          "meaning": "luyện tập"
+        },
+        {
+          "hanzi": "努力",
+          "pinyin": "nǔlì",
+          "meaning": "nỗ lực"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我为什么要参加俱乐部？",
+          "options": [
+            "为了交朋友",
+            "为了提高汉语水平",
+            "为了玩游戏",
+            "为了找工作"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"为了提高汉语水平，我参加了一个中文俱乐部\" (để nâng cao trình độ tiếng Trung, tôi đã tham gia một câu lạc bộ tiếng Trung)."
+        },
+        {
+          "question": "我们什么时候聚会？",
+          "options": [
+            "每周一",
+            "每周三",
+            "每周五",
+            "每天"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"每周三晚上，我们都会聚在一起\" (tối thứ Tư hàng tuần, chúng tôi đều tụ tập cùng nhau)."
+        },
+        {
+          "question": "我对学汉语的态度是什么？",
+          "options": [
+            "很害怕",
+            "很担心",
+            "很有信心",
+            "想放弃"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"我相信只要努力，一定能学好汉语\" (tôi tin rằng chỉ cần nỗ lực thì chắc chắn sẽ học tốt tiếng Trung)."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-reading-14",
+      "level": 2,
+      "title": "Bữa tối cùng đồng nghiệp",
+      "passage": "今天下班后，同事们邀请我一起去吃火锅。我们找了一家很有名的饭店，点了牛肉、羊肉和很多蔬菜。大家一边吃一边聊天，谈了很多工作上的事。虽然很晚才回家，但是我觉得非常开心。",
+      "pinyin": "Jīntiān xiàbān hòu, tóngshìmen yāoqǐng wǒ yīqǐ qù chī huǒguō. Wǒmen zhǎo le yī jiā hěn yǒumíng de fàndiàn, diǎn le niúròu, yángròu hé hěnduō shūcài. Dàjiā yībiān chī yībiān liáotiān, tán le hěnduō gōngzuò shàng de shì. Suīrán hěn wǎn cái huí jiā, dànshì wǒ juéde fēicháng kāixīn.",
+      "translation": "Hôm nay sau khi tan làm, đồng nghiệp mời tôi đi ăn lẩu cùng nhau. Chúng tôi tìm một nhà hàng rất nổi tiếng, gọi thịt bò, thịt cừu và nhiều rau. Mọi người vừa ăn vừa trò chuyện, bàn luận nhiều chuyện trong công việc. Tuy về nhà rất muộn, nhưng tôi cảm thấy vô cùng vui vẻ.",
+      "vocabulary": [
+        {
+          "hanzi": "同事",
+          "pinyin": "tóngshì",
+          "meaning": "đồng nghiệp"
+        },
+        {
+          "hanzi": "火锅",
+          "pinyin": "huǒguō",
+          "meaning": "lẩu"
+        },
+        {
+          "hanzi": "有名",
+          "pinyin": "yǒumíng",
+          "meaning": "nổi tiếng"
+        },
+        {
+          "hanzi": "蔬菜",
+          "pinyin": "shūcài",
+          "meaning": "rau xanh"
+        }
+      ],
+      "questions": [
+        {
+          "question": "同事们邀请我做什么？",
+          "options": [
+            "去唱歌",
+            "去吃火锅",
+            "去喝咖啡",
+            "去运动"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"同事们邀请我一起去吃火锅\" (các đồng nghiệp mời tôi đi ăn lẩu cùng)."
+        },
+        {
+          "question": "我们点了什么菜？",
+          "options": [
+            "只有肉",
+            "只有蔬菜",
+            "肉和蔬菜",
+            "什么都没点"
+          ],
+          "answer": 2,
+          "explanation": "Bài viết đề cập \"点了牛肉、羊肉和很多蔬菜\" (đã gọi thịt bò, thịt cừu và nhiều rau)."
+        },
+        {
+          "question": "我对这次聚餐的感觉如何？",
+          "options": [
+            "很累",
+            "很开心",
+            "很无聊",
+            "很生气"
+          ],
+          "answer": 1,
+          "explanation": "Bài viết đề cập \"但是我觉得非常开心\" (nhưng tôi cảm thấy rất vui vẻ)."
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "hsk2-dialogue-01",
+      "level": 2,
+      "title": "Đặt phòng khách sạn",
+      "place": "Khách sạn",
+      "goal": "Đặt phòng đơn cho một đêm",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你好，我想订一个房间。",
+          "pinyin": "Nǐ hǎo, wǒ xiǎng dìng yī gè fángjiān.",
+          "vi": "Xin chào, tôi muốn đặt một phòng."
+        },
+        {
+          "speaker": "B",
+          "zh": "您好，您想订哪天的？",
+          "pinyin": "Nín hǎo, nín xiǎng dìng nǎ tiān de?",
+          "vi": "Xin chào, bạn muốn đặt ngày nào?"
+        },
+        {
+          "speaker": "A",
+          "zh": "明天晚上，住一天。",
+          "pinyin": "Míngtiān wǎnshàng, zhù yī tiān.",
+          "vi": "Tối ngày mai, ở một ngày."
+        },
+        {
+          "speaker": "B",
+          "zh": "好的，单人间可以吗？",
+          "pinyin": "Hǎo de, dānrénjiān kěyǐ ma?",
+          "vi": "Được ạ, phòng đơn được không?"
+        },
+        {
+          "speaker": "A",
+          "zh": "可以，多少钱？",
+          "pinyin": "Kěyǐ, duōshǎo qián?",
+          "vi": "Được, bao nhiêu tiền?"
+        },
+        {
+          "speaker": "B",
+          "zh": "两百块钱。",
+          "pinyin": "Liǎng bǎi kuài qián.",
+          "vi": "Hai trăm tệ."
+        }
+      ],
+      "challenge": {
+        "prompt": "Người khách muốn ở lại khách sạn bao lâu?",
+        "options": [
+          "Một tuần",
+          "Một ngày",
+          "Hai ngày",
+          "Ba ngày"
+        ],
+        "answer": 1,
+        "explanation": "Trong hội thoại, khách nói '住一天' (zhù yī tiān), nghĩa là ở một ngày."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-02",
+      "level": 2,
+      "title": "Đổi vé tàu",
+      "place": "Nhà ga",
+      "goal": "Đổi vé sang giờ muộn hơn",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你好，我想换一下票。",
+          "pinyin": "Nǐ hǎo, wǒ xiǎng huàn yīxià piào.",
+          "vi": "Xin chào, tôi muốn đổi vé một chút."
+        },
+        {
+          "speaker": "B",
+          "zh": "您想换到几点的？",
+          "pinyin": "Nín xiǎng huàn dào jǐ diǎn de?",
+          "vi": "Bạn muốn đổi sang mấy giờ?"
+        },
+        {
+          "speaker": "A",
+          "zh": "下午三点的有吗？",
+          "pinyin": "Xiàwǔ sān diǎn de yǒu ma?",
+          "vi": "Có chuyến 3 giờ chiều không?"
+        },
+        {
+          "speaker": "B",
+          "zh": "有的，请给我您的票。",
+          "pinyin": "Yǒu de, qǐng gěi wǒ nín de piào.",
+          "vi": "Có ạ, vui lòng đưa tôi vé của bạn."
+        },
+        {
+          "speaker": "A",
+          "zh": "好的，给你。",
+          "pinyin": "Hǎo de, gěi nǐ.",
+          "vi": "Được, gửi bạn."
+        },
+        {
+          "speaker": "B",
+          "zh": "换好了，这是您的新票。",
+          "pinyin": "Huàn hǎo le, zhè shì nín de xīn piào.",
+          "vi": "Đổi xong rồi, đây là vé mới của bạn."
+        }
+      ],
+      "challenge": {
+        "prompt": "Người khách muốn đổi vé sang thời gian nào?",
+        "options": [
+          "Sáng sớm",
+          "12 giờ trưa",
+          "3 giờ chiều",
+          "8 giờ tối"
+        ],
+        "answer": 2,
+        "explanation": "Khách hỏi '下午三点的有吗？' (Có chuyến 3 giờ chiều không?)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-03",
+      "level": 2,
+      "title": "Xin nghỉ phép",
+      "place": "Văn phòng",
+      "goal": "Xin nghỉ vì bị ốm",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "经理，我今天不太舒服。",
+          "pinyin": "Jīnglǐ, wǒ jīntiān bù tài shūfu.",
+          "vi": "Giám đốc, hôm nay tôi không khỏe lắm."
+        },
+        {
+          "speaker": "B",
+          "zh": "你怎么了？",
+          "pinyin": "Nǐ zěnme le?",
+          "vi": "Bạn bị sao vậy?"
+        },
+        {
+          "speaker": "A",
+          "zh": "我感冒了，想请假一天。",
+          "pinyin": "Wǒ gǎnmào le, xiǎng qǐngjià yī tiān.",
+          "vi": "Tôi bị cảm rồi, muốn xin nghỉ một ngày."
+        },
+        {
+          "speaker": "B",
+          "zh": "好的，你要多喝水。",
+          "pinyin": "Hǎo de, nǐ yào duō hē shuǐ.",
+          "vi": "Được, bạn phải uống nhiều nước vào."
+        },
+        {
+          "speaker": "A",
+          "zh": "谢谢经理。",
+          "pinyin": "Xièxie jīnglǐ.",
+          "vi": "Cảm ơn giám đốc."
+        }
+      ],
+      "challenge": {
+        "prompt": "Tại sao người này muốn xin nghỉ?",
+        "options": [
+          "Bị ốm",
+          "Đi du lịch",
+          "Nhà có việc",
+          "Đi học"
+        ],
+        "answer": 0,
+        "explanation": "Người này nói '我感冒了' (Tôi bị cảm), thuộc nhóm bị ốm."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-04",
+      "level": 2,
+      "title": "Hẹn đi xem phim",
+      "place": "Điện thoại",
+      "goal": "Mời bạn đi xem phim cuối tuần",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "喂，周末你有空吗？",
+          "pinyin": "Wéi, zhōumò nǐ yǒu kòng ma?",
+          "vi": "Alo, cuối tuần bạn có rảnh không?"
+        },
+        {
+          "speaker": "B",
+          "zh": "有空，怎么了？",
+          "pinyin": "Yǒu kòng, zěnme le?",
+          "vi": "Có rảnh, sao vậy?"
+        },
+        {
+          "speaker": "A",
+          "zh": "我们去看电影吧。",
+          "pinyin": "Wǒmen qù kàn diànyǐng ba.",
+          "vi": "Chúng ta đi xem phim đi."
+        },
+        {
+          "speaker": "B",
+          "zh": "好啊，看什么电影？",
+          "pinyin": "Hǎo a, kàn shénme diànyǐng?",
+          "vi": "Được thôi, xem phim gì?"
+        },
+        {
+          "speaker": "A",
+          "zh": "看那个新的动作片。",
+          "pinyin": "Kàn nàge xīn de dòngzuòpiàn.",
+          "vi": "Xem phim hành động mới đó."
+        },
+        {
+          "speaker": "B",
+          "zh": "没问题，周六见。",
+          "pinyin": "Méi wèntí, zhōuliù jiàn.",
+          "vi": "Không vấn đề gì, thứ Bảy gặp nhé."
+        }
+      ],
+      "challenge": {
+        "prompt": "Họ dự định làm gì vào cuối tuần?",
+        "options": [
+          "Đi ăn",
+          "Đi xem phim",
+          "Đi mua sắm",
+          "Đi bơi"
+        ],
+        "answer": 1,
+        "explanation": "A đề nghị '我们去看电影吧' (Chúng ta đi xem phim đi)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-05",
+      "level": 2,
+      "title": "Gửi bưu phẩm",
+      "place": "Bưu điện",
+      "goal": "Gửi một gói hàng đi Thượng Hải",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你好，我想寄这个包裹。",
+          "pinyin": "Nǐ hǎo, wǒ xiǎng jì zhège bāoguǒ.",
+          "vi": "Xin chào, tôi muốn gửi gói hàng này."
+        },
+        {
+          "speaker": "B",
+          "zh": "你要寄到哪儿？",
+          "pinyin": "Nǐ yào jì dào nǎr?",
+          "vi": "Bạn muốn gửi đi đâu?"
+        },
+        {
+          "speaker": "A",
+          "zh": "寄到上海。",
+          "pinyin": "Jì dào Shànghǎi.",
+          "vi": "Gửi đến Thượng Hải."
+        },
+        {
+          "speaker": "B",
+          "zh": "好的，请填一下这个表。",
+          "pinyin": "Hǎo de, qǐng tián yīxià zhège biǎo.",
+          "vi": "Được, vui lòng điền vào tờ đơn này."
+        },
+        {
+          "speaker": "A",
+          "zh": "填好了，给你。",
+          "pinyin": "Tián hǎo le, gěi nǐ.",
+          "vi": "Điền xong rồi, gửi bạn."
+        },
+        {
+          "speaker": "B",
+          "zh": "谢谢，一共二十块钱。",
+          "pinyin": "Xièxie, yīgòng èrshí kuài qián.",
+          "vi": "Cảm ơn, tổng cộng 20 tệ."
+        }
+      ],
+      "challenge": {
+        "prompt": "Gói hàng được gửi đi đâu?",
+        "options": [
+          "Bắc Kinh",
+          "Thượng Hải",
+          "Quảng Châu",
+          "Tây An"
+        ],
+        "answer": 1,
+        "explanation": "A trả lời '寄到上海' (Gửi đến Thượng Hải)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-06",
+      "level": 2,
+      "title": "Mua thuốc",
+      "place": "Hiệu thuốc",
+      "goal": "Mua thuốc giảm đau đầu",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "医生，我头疼。",
+          "pinyin": "Yīshēng, wǒ tóuténg.",
+          "vi": "Bác sĩ, tôi bị đau đầu."
+        },
+        {
+          "speaker": "B",
+          "zh": "你感冒了吗？",
+          "pinyin": "Nǐ gǎnmào le ma?",
+          "vi": "Bạn bị cảm à?"
+        },
+        {
+          "speaker": "A",
+          "zh": "没有，可能是太累了。",
+          "pinyin": "Méiyǒu, kěnéng shì tài lèi le.",
+          "vi": "Không, có lẽ là do quá mệt."
+        },
+        {
+          "speaker": "B",
+          "zh": "这是药，一天吃两次。",
+          "pinyin": "Zhè shì yào, yī tiān chī liǎng cì.",
+          "vi": "Đây là thuốc, một ngày uống hai lần."
+        },
+        {
+          "speaker": "A",
+          "zh": "饭前还是饭后吃？",
+          "pinyin": "Fàn qián háishì fàn hòu chī?",
+          "vi": "Uống trước hay sau bữa ăn?"
+        },
+        {
+          "speaker": "B",
+          "zh": "饭后吃。",
+          "pinyin": "Fàn hòu chī.",
+          "vi": "Uống sau bữa ăn."
+        }
+      ],
+      "challenge": {
+        "prompt": "Thuốc này uống như thế nào?",
+        "options": [
+          "Ngày 1 lần",
+          "Ngày 2 lần",
+          "Ngày 3 lần",
+          "Không cần uống"
+        ],
+        "answer": 1,
+        "explanation": "B nói '一天吃两次' (Một ngày uống hai lần)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-07",
+      "level": 2,
+      "title": "Sửa điện thoại",
+      "place": "Cửa hàng điện thoại",
+      "goal": "Sửa màn hình điện thoại bị vỡ",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你好，我的手机坏了。",
+          "pinyin": "Nǐ hǎo, wǒ de shǒujī huài le.",
+          "vi": "Xin chào, điện thoại của tôi hỏng rồi."
+        },
+        {
+          "speaker": "B",
+          "zh": "哪儿坏了？",
+          "pinyin": "Nǎr huài le?",
+          "vi": "Hỏng chỗ nào?"
+        },
+        {
+          "speaker": "A",
+          "zh": "屏幕碎了。",
+          "pinyin": "Píngmù suì le.",
+          "vi": "Màn hình vỡ rồi."
+        },
+        {
+          "speaker": "B",
+          "zh": "可以修，要两个小时。",
+          "pinyin": "Kěyǐ xiū, yào liǎng gè xiǎoshí.",
+          "vi": "Có thể sửa, mất hai tiếng."
+        },
+        {
+          "speaker": "A",
+          "zh": "太好了，谢谢。",
+          "pinyin": "Tài hǎo le, xièxie.",
+          "vi": "Tốt quá, cảm ơn."
+        }
+      ],
+      "challenge": {
+        "prompt": "Điện thoại bị làm sao?",
+        "options": [
+          "Không lên nguồn",
+          "Màn hình vỡ",
+          "Không gọi được",
+          "Hết pin"
+        ],
+        "answer": 1,
+        "explanation": "A nói '屏幕碎了' (Màn hình vỡ rồi)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-08",
+      "level": 2,
+      "title": "Gọi món giao tận nơi",
+      "place": "Nhà",
+      "goal": "Đặt cơm chiên và trà sữa",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "喂，我要点外卖。",
+          "pinyin": "Wéi, wǒ yào diǎn wàimài.",
+          "vi": "Alo, tôi muốn gọi đồ ăn mang về."
+        },
+        {
+          "speaker": "B",
+          "zh": "您好，想吃什么？",
+          "pinyin": "Nín hǎo, xiǎng chī shénme?",
+          "vi": "Xin chào, bạn muốn ăn gì?"
+        },
+        {
+          "speaker": "A",
+          "zh": "一份炒饭，一杯奶茶。",
+          "pinyin": "Yī fèn chǎofàn, yī bēi nǎichá.",
+          "vi": "Một phần cơm chiên, một cốc trà sữa."
+        },
+        {
+          "speaker": "B",
+          "zh": "好的，请问地址在哪儿？",
+          "pinyin": "Hǎo de, qǐngwèn dìzhǐ zài nǎr?",
+          "vi": "Được, xin hỏi địa chỉ ở đâu?"
+        },
+        {
+          "speaker": "A",
+          "zh": "在学校门口。",
+          "pinyin": "Zài xuéxiào ménkǒu.",
+          "vi": "Ở cổng trường."
+        },
+        {
+          "speaker": "B",
+          "zh": "好的，半小时后送到。",
+          "pinyin": "Hǎo de, bàn xiǎoshí hòu sòng dào.",
+          "vi": "Được, nửa tiếng sau sẽ giao đến."
+        }
+      ],
+      "challenge": {
+        "prompt": "Người này gọi món gì?",
+        "options": [
+          "Cơm chiên và trà sữa",
+          "Mì và nước ngọt",
+          "Bánh bao và cà phê",
+          "Cơm và canh"
+        ],
+        "answer": 0,
+        "explanation": "A gọi '一份炒饭，一杯奶茶' (Một phần cơm chiên, một cốc trà sữa)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-09",
+      "level": 2,
+      "title": "Tham gia câu lạc bộ",
+      "place": "Trường học",
+      "goal": "Đăng ký vào câu lạc bộ tiếng Trung",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你好，我想参加中文俱乐部。",
+          "pinyin": "Nǐ hǎo, wǒ xiǎng cānjiā Zhōngwén jùlèbù.",
+          "vi": "Xin chào, tôi muốn tham gia câu lạc bộ tiếng Trung."
+        },
+        {
+          "speaker": "B",
+          "zh": "太好了，欢迎你！",
+          "pinyin": "Tài hǎo le, huānyíng nǐ!",
+          "vi": "Tốt quá, chào mừng bạn!"
+        },
+        {
+          "speaker": "A",
+          "zh": "什么时候活动？",
+          "pinyin": "Shénme shíhòu huódòng?",
+          "vi": "Khi nào thì hoạt động?"
+        },
+        {
+          "speaker": "B",
+          "zh": "每周五下午。",
+          "pinyin": "Měi zhōu wǔ xiàwǔ.",
+          "vi": "Mỗi chiều thứ Sáu."
+        },
+        {
+          "speaker": "A",
+          "zh": "在哪儿活动？",
+          "pinyin": "Zài nǎr huódòng?",
+          "vi": "Hoạt động ở đâu?"
+        },
+        {
+          "speaker": "B",
+          "zh": "在图书馆二楼。",
+          "pinyin": "Zài túshūguǎn èr lóu.",
+          "vi": "Ở tầng 2 thư viện."
+        }
+      ],
+      "challenge": {
+        "prompt": "Câu lạc bộ hoạt động vào lúc nào?",
+        "options": [
+          "Thứ Hai",
+          "Thứ Tư",
+          "Thứ Sáu",
+          "Chủ nhật"
+        ],
+        "answer": 2,
+        "explanation": "B nói '每周五下午' (Mỗi chiều thứ Sáu)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-10",
+      "level": 2,
+      "title": "Hỏi thông tin tuyển dụng",
+      "place": "Công ty",
+      "goal": "Hỏi về vị trí công việc",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你好，你们公司招人吗？",
+          "pinyin": "Nǐ hǎo, nǐmen gōngsī zhāo rén ma?",
+          "vi": "Xin chào, công ty các bạn có tuyển người không?"
+        },
+        {
+          "speaker": "B",
+          "zh": "招的，你想做什么工作？",
+          "pinyin": "Zhāo de, nǐ xiǎng zuò shénme gōngzuò?",
+          "vi": "Có, bạn muốn làm công việc gì?"
+        },
+        {
+          "speaker": "A",
+          "zh": "我想做翻译。",
+          "pinyin": "Wǒ xiǎng zuò fānyì.",
+          "vi": "Tôi muốn làm phiên dịch."
+        },
+        {
+          "speaker": "B",
+          "zh": "你会说汉语吗？",
+          "pinyin": "Nǐ huì shuō Hànyǔ ma?",
+          "vi": "Bạn biết nói tiếng Trung không?"
+        },
+        {
+          "speaker": "A",
+          "zh": "我会，我学了两年了。",
+          "pinyin": "Wǒ huì, wǒ xué le liǎng nián le.",
+          "vi": "Tôi biết, tôi học được hai năm rồi."
+        }
+      ],
+      "challenge": {
+        "prompt": "Người này muốn ứng tuyển vị trí gì?",
+        "options": [
+          "Giáo viên",
+          "Phiên dịch",
+          "Kế toán",
+          "Lập trình viên"
+        ],
+        "answer": 1,
+        "explanation": "A nói '我想做翻译' (Tôi muốn làm phiên dịch)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-11",
+      "level": 2,
+      "title": "Đổi sản phẩm",
+      "place": "Cửa hàng",
+      "goal": "Đổi áo vì quá nhỏ",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你好，我想换一下这件衣服。",
+          "pinyin": "Nǐ hǎo, wǒ xiǎng huàn yīxià zhè jiàn yīfu.",
+          "vi": "Xin chào, tôi muốn đổi chiếc áo này."
+        },
+        {
+          "speaker": "B",
+          "zh": "怎么了？不喜欢吗？",
+          "pinyin": "Zěnme le? Bù xǐhuan ma?",
+          "vi": "Sao vậy? Không thích à?"
+        },
+        {
+          "speaker": "A",
+          "zh": "不是，这件太小了。",
+          "pinyin": "Bù shì, zhè jiàn tài xiǎo le.",
+          "vi": "Không phải, cái này quá nhỏ."
+        },
+        {
+          "speaker": "B",
+          "zh": "好的，你要大一点的吗？",
+          "pinyin": "Hǎo de, nǐ yào dà yīdiǎn de ma?",
+          "vi": "Được, bạn muốn cái lớn hơn một chút không?"
+        },
+        {
+          "speaker": "A",
+          "zh": "对，谢谢。",
+          "pinyin": "Duì, xièxie.",
+          "vi": "Đúng, cảm ơn."
+        }
+      ],
+      "challenge": {
+        "prompt": "Tại sao người khách muốn đổi áo?",
+        "options": [
+          "Màu không đẹp",
+          "Quá nhỏ",
+          "Quá đắt",
+          "Bị rách"
+        ],
+        "answer": 1,
+        "explanation": "A nói '这件太小了' (Cái này quá nhỏ)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-12",
+      "level": 2,
+      "title": "Mời dự sinh nhật",
+      "place": "Trường học",
+      "goal": "Mời bạn đến dự tiệc sinh nhật",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "明天是我生日，请你来我家。",
+          "pinyin": "Míngtiān shì wǒ shēngrì, qǐng nǐ lái wǒ jiā.",
+          "vi": "Ngày mai là sinh nhật tôi, mời bạn đến nhà tôi."
+        },
+        {
+          "speaker": "B",
+          "zh": "太好了，几点开始？",
+          "pinyin": "Tài hǎo le, jǐ diǎn kāishǐ?",
+          "vi": "Tốt quá, mấy giờ bắt đầu?"
+        },
+        {
+          "speaker": "A",
+          "zh": "晚上七点。",
+          "pinyin": "Wǎnshàng qī diǎn.",
+          "vi": "7 giờ tối."
+        },
+        {
+          "speaker": "B",
+          "zh": "好的，我一定去。",
+          "pinyin": "Hǎo de, wǒ yīdìng qù.",
+          "vi": "Được, tôi nhất định sẽ đến."
+        },
+        {
+          "speaker": "A",
+          "zh": "谢谢，不见不散。",
+          "pinyin": "Xièxie, bù jiàn bù sàn.",
+          "vi": "Cảm ơn, không gặp không về."
+        }
+      ],
+      "challenge": {
+        "prompt": "Tiệc sinh nhật bắt đầu lúc mấy giờ?",
+        "options": [
+          "5 giờ",
+          "6 giờ",
+          "7 giờ",
+          "8 giờ"
+        ],
+        "answer": 2,
+        "explanation": "A nói '晚上七点' (7 giờ tối)."
+      }
+    },
+    {
+      "id": "hsk2-dialogue-13",
+      "level": 2,
+      "title": "Nhờ hàng xóm giúp đỡ",
+      "place": "Hành lang",
+      "goal": "Nhờ hàng xóm trông giúp con mèo",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你好，我想请你帮个忙。",
+          "pinyin": "Nǐ hǎo, wǒ xiǎng qǐng nǐ bāng gè máng.",
+          "vi": "Xin chào, tôi muốn nhờ bạn giúp một việc."
+        },
+        {
+          "speaker": "B",
+          "zh": "什么事？",
+          "pinyin": "Shénme shì?",
+          "vi": "Việc gì vậy?"
+        },
+        {
+          "speaker": "A",
+          "zh": "我明天要去北京，可以帮我照顾猫吗？",
+          "pinyin": "Wǒ míngtiān yào qù Běijīng, kěyǐ bāng wǒ zhàogù māo ma?",
+          "vi": "Ngày mai tôi phải đi Bắc Kinh, bạn có thể giúp tôi chăm sóc con mèo không?"
+        },
+        {
+          "speaker": "B",
+          "zh": "没问题，放心吧。",
+          "pinyin": "Méi wèntí, fàngxīn ba.",
+          "vi": "Không vấn đề gì, yên tâm đi."
+        },
+        {
+          "speaker": "A",
+          "zh": "太谢谢你了。",
+          "pinyin": "Tài xièxie nǐ le.",
+          "vi": "Cảm ơn bạn nhiều lắm."
+        }
+      ],
+      "challenge": {
+        "prompt": "Người này nhờ hàng xóm làm gì?",
+        "options": [
+          "Dọn nhà",
+          "Chăm sóc mèo",
+          "Mua đồ ăn",
+          "Sửa cửa"
+        ],
+        "answer": 1,
+        "explanation": "A hỏi '可以帮我照顾猫吗？' (Có thể giúp tôi chăm sóc con mèo không?)."
+      }
+    }
+  ],
+  "exams": [
+    {
+      "id": "hsk2-full-1",
+      "level": 2,
+      "title": "Đề HSK 2 số 1",
+      "durationMinutes": 30,
+      "questions": [
+        {
+          "section": "Từ vựng",
+          "prompt": "他每天早上都去公园______。",
+          "options": [
+            "跑步",
+            "睡觉",
+            "洗澡",
+            "看书"
+          ],
+          "answer": 0,
+          "explanation": "Dựa vào ngữ cảnh đi công viên buổi sáng, từ phù hợp nhất là chạy bộ."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "这件衣服太______了，我没有那么多钱。",
+          "options": [
+            "便宜",
+            "贵",
+            "大",
+            "小"
+          ],
+          "answer": 1,
+          "explanation": "Vì không có đủ tiền nên quần áo phải là đắt (贵)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "今天是我的生日，我请朋友们来家里______。",
+          "options": [
+            "工作",
+            "学习",
+            "吃饭",
+            "睡觉"
+          ],
+          "answer": 2,
+          "explanation": "Sinh nhật thường mời bạn bè đến nhà ăn cơm."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "外面下雨了，你带______了吗？",
+          "options": [
+            "手机",
+            "电脑",
+            "杯子",
+            "雨伞"
+          ],
+          "answer": 3,
+          "explanation": "Trời mưa nên cần mang theo ô (雨伞)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "我不太______这个汉字，你能教我吗？",
+          "options": [
+            "认识",
+            "听",
+            "看",
+            "说"
+          ],
+          "answer": 0,
+          "explanation": "Đối với chữ Hán, dùng từ nhận biết (认识)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "医生说，多吃______对身体好。",
+          "options": [
+            "咖啡",
+            "水果",
+            "茶",
+            "酒"
+          ],
+          "answer": 1,
+          "explanation": "Hoa quả là thực phẩm tốt cho sức khỏe theo lời khuyên của bác sĩ."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "请问，去火车站怎么______？",
+          "options": [
+            "坐",
+            "看",
+            "走",
+            "听"
+          ],
+          "answer": 2,
+          "explanation": "Hỏi đường đi đến đâu dùng từ đi (走)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "这儿的咖啡很好喝，我很______。",
+          "options": [
+            "想",
+            "要",
+            "会",
+            "喜欢"
+          ],
+          "answer": 3,
+          "explanation": "Thấy ngon thì biểu thị sự yêu thích (喜欢)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "现在是下午三点，我还要工作两个______。",
+          "options": [
+            "小时",
+            "天",
+            "年",
+            "月"
+          ],
+          "answer": 0,
+          "explanation": "Đơn vị thời gian cho 3 giờ chiều là tiếng đồng hồ (小时)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "他今天穿了一件______色的衬衫，很漂亮。",
+          "options": [
+            "高",
+            "红",
+            "大",
+            "长"
+          ],
+          "answer": 1,
+          "explanation": "Màu sắc phù hợp để mô tả quần áo là màu đỏ (红)."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "他______去学校，而是去医院了。",
+          "options": [
+            "不",
+            "没",
+            "不是",
+            "没去"
+          ],
+          "answer": 2,
+          "explanation": "Cấu trúc 不是... 而是... (không phải... mà là...)."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "这本书我______看了三遍了。",
+          "options": [
+            "都",
+            "再",
+            "还",
+            "已经"
+          ],
+          "answer": 3,
+          "explanation": "Đã làm gì đó nhiều lần dùng 已经."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "这儿的菜______好吃，______便宜。",
+          "options": [
+            "又...又...",
+            "一边...一边...",
+            "因为...所以...",
+            "虽然...但是..."
+          ],
+          "answer": 0,
+          "explanation": "Cấu trúc 又...又... dùng để liệt kê hai tính chất cùng tốt."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "你______帮我一下吗？",
+          "options": [
+            "会",
+            "可以",
+            "想",
+            "要"
+          ],
+          "answer": 1,
+          "explanation": "Dùng 可以 để hỏi về khả năng hoặc sự cho phép giúp đỡ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "昨天晚上我______没看电视。",
+          "options": [
+            "不",
+            "不是",
+            "没",
+            "别"
+          ],
+          "answer": 2,
+          "explanation": "Phủ định hành động trong quá khứ dùng 没."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "弟弟比我______两岁。",
+          "options": [
+            "大",
+            "多",
+            "少",
+            "小"
+          ],
+          "answer": 3,
+          "explanation": "Em trai nhỏ hơn tôi 2 tuổi dùng 小."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "请你______说一遍。",
+          "options": [
+            "再",
+            "又",
+            "还",
+            "也"
+          ],
+          "answer": 0,
+          "explanation": "Yêu cầu làm lại hành động trong tương lai dùng 再."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "桌子上______着一本书。",
+          "options": [
+            "放",
+            "放着",
+            "放了",
+            "放过"
+          ],
+          "answer": 1,
+          "explanation": "Trạng thái tồn tại của đồ vật dùng V+着."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "他唱歌唱得______好听。",
+          "options": [
+            "真",
+            "太",
+            "很",
+            "非常"
+          ],
+          "answer": 2,
+          "explanation": "Bổ ngữ trình độ thường đi kèm với 很."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "我们______去打球吧。",
+          "options": [
+            "一块",
+            "一会",
+            "一直",
+            "一起"
+          ],
+          "answer": 3,
+          "explanation": "Cùng nhau làm gì dùng 一起."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "王先生在一家公司工作。他每天早上八点去公司，下午五点回家。他很喜欢他的工作。",
+          "prompt": "王先生每天几点回家？",
+          "options": [
+            "五点",
+            "八点",
+            "九点",
+            "六点"
+          ],
+          "answer": 0,
+          "explanation": "Đoạn văn nói ông Vương 5 giờ chiều về nhà."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "今天天气很好，不冷也不热。小明想去公园跑步，但是他没有时间。",
+          "prompt": "小明为什么不去公园？",
+          "options": [
+            "天气不好",
+            "没有时间",
+            "太冷了",
+            "太热了"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn nêu rõ vì không có thời gian."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "这是我的新手机，是昨天妈妈送给我的。我很喜欢它，因为它可以上网，也可以看电影。",
+          "prompt": "这个手机是谁送的？",
+          "options": [
+            "爸爸",
+            "朋友",
+            "妈妈",
+            "老师"
+          ],
+          "answer": 2,
+          "explanation": "Đoạn văn nói mẹ tặng điện thoại."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "李老师教我们汉语。他说话声音很大，我们都能听见。他是一个好老师。",
+          "prompt": "李老师教什么？",
+          "options": [
+            "英语",
+            "数学",
+            "音乐",
+            "汉语"
+          ],
+          "answer": 3,
+          "explanation": "Đoạn văn nói thầy Lý dạy tiếng Hán."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "小红买了一件红色的裙子，她穿上非常漂亮。她打算明天去参加朋友的生日聚会。",
+          "prompt": "小红明天要做什么？",
+          "options": [
+            "去聚会",
+            "买衣服",
+            "去工作",
+            "去跑步"
+          ],
+          "answer": 0,
+          "explanation": "Đoạn văn nói cô ấy dự định đi dự tiệc sinh nhật."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "这家饭店的菜很好吃，但是有点儿贵。很多人都喜欢来这儿吃饭。",
+          "prompt": "这家饭店怎么样？",
+          "options": [
+            "很便宜",
+            "很贵",
+            "不好吃",
+            "没人去"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn nói đồ ăn ngon nhưng hơi đắt."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "我有一个好朋友，他叫大卫。他是美国人，他会说一点儿汉语。",
+          "prompt": "大卫是哪国人？",
+          "options": [
+            "中国",
+            "英国",
+            "美国",
+            "日本"
+          ],
+          "answer": 2,
+          "explanation": "Đoạn văn nói Đại Vệ là người Mỹ."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "明天是星期六，我们不用去学校。我想在家看书，休息一下。",
+          "prompt": "明天为什么不用去学校？",
+          "options": [
+            "因为生病了",
+            "因为太累了",
+            "因为有事",
+            "因为是星期六"
+          ],
+          "answer": 3,
+          "explanation": "Đoạn văn nói vì là thứ Bảy nên không cần đến trường."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "桌子上有三个杯子，一个是我的，两个是朋友的。杯子里有茶。",
+          "prompt": "桌子上有几个杯子？",
+          "options": [
+            "三个",
+            "一个",
+            "两个",
+            "四个"
+          ],
+          "answer": 0,
+          "explanation": "Đoạn văn nói trên bàn có 3 cái cốc."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "猫在椅子下面睡觉。它很可爱，我每天都给它吃鱼。",
+          "prompt": "猫在哪里？",
+          "options": [
+            "椅子上",
+            "椅子下",
+            "桌子上",
+            "桌子下"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn nói con mèo ở dưới cái ghế."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-full-2",
+      "level": 2,
+      "title": "Đề HSK 2 số 2",
+      "durationMinutes": 30,
+      "questions": [
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 我很喜欢这件衣服，颜色很______。",
+          "context": "",
+          "options": [
+            "漂亮",
+            "快乐",
+            "远",
+            "忙"
+          ],
+          "answer": 0,
+          "explanation": "漂亮 (piàoliang) nghĩa là đẹp, phù hợp để miêu tả màu sắc hoặc quần áo."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 爸爸每天早上都去公园______。",
+          "context": "",
+          "options": [
+            "睡觉",
+            "跑步",
+            "看书",
+            "写字"
+          ],
+          "answer": 1,
+          "explanation": "跑步 (pǎobù) nghĩa là chạy bộ, là hoạt động thường thấy ở công viên vào buổi sáng."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 今天天气很好，我们去______吧。",
+          "context": "",
+          "options": [
+            "吃饭",
+            "买东西",
+            "踢足球",
+            "睡觉"
+          ],
+          "answer": 2,
+          "explanation": "踢足球 (tī zúqiú) là đá bóng, một hoạt động ngoài trời phù hợp khi thời tiết đẹp."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 医生说多喝水对身体______。",
+          "context": "",
+          "options": [
+            "不好",
+            "没关系",
+            "不客气",
+            "有好处"
+          ],
+          "answer": 3,
+          "explanation": "对身体有好处 (duì shēntǐ yǒu hǎochù) nghĩa là có lợi cho sức khỏe."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 我明天要去北京，已经买好______了。",
+          "context": "",
+          "options": [
+            "机票",
+            "电影票",
+            "书",
+            "衣服"
+          ],
+          "answer": 0,
+          "explanation": "Đi Bắc Kinh cần mua vé máy bay (机票 - jīpiào)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 你的汉语说得真______！",
+          "context": "",
+          "options": [
+            "多",
+            "好",
+            "少",
+            "大"
+          ],
+          "answer": 1,
+          "explanation": "说得好 (shuō de hǎo) nghĩa là nói tốt, khen ngợi khả năng ngôn ngữ."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 我在商店买了一______新电脑。",
+          "context": "",
+          "options": [
+            "个",
+            "本",
+            "台",
+            "张"
+          ],
+          "answer": 2,
+          "explanation": "Lượng từ cho máy móc, máy tính là 台 (tái)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 别担心，他______就回来了。",
+          "context": "",
+          "options": [
+            "以前",
+            "以后",
+            "常常",
+            "马上"
+          ],
+          "answer": 3,
+          "explanation": "马上 (mǎshàng) nghĩa là ngay lập tức, dùng để trấn an."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 我想去图书馆______。",
+          "context": "",
+          "options": [
+            "看书",
+            "看电影",
+            "买菜",
+            "做饭"
+          ],
+          "answer": 0,
+          "explanation": "Thư viện là nơi để đọc sách (看书 - kànshū)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 昨天晚上我______没睡好。",
+          "context": "",
+          "options": [
+            "一些",
+            "一点儿",
+            "一点",
+            "一点儿也"
+          ],
+          "answer": 1,
+          "explanation": "一点儿 (yīdiǎnr) dùng trong câu phủ định để nhấn mạnh mức độ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 他______去学校，______去商店。",
+          "context": "",
+          "options": [
+            "一边...一边",
+            "又...又",
+            "先...再",
+            "因为...所以"
+          ],
+          "answer": 2,
+          "explanation": "先...再 (xiān...zài) biểu thị trình tự hành động: trước tiên... sau đó..."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 这本书我______看完了。",
+          "context": "",
+          "options": [
+            "都",
+            "再",
+            "还",
+            "已经"
+          ],
+          "answer": 3,
+          "explanation": "已经 (yǐjīng) dùng để chỉ hành động đã hoàn thành."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 你______我一起去吃饭，好吗？",
+          "context": "",
+          "options": [
+            "跟",
+            "和",
+            "对",
+            "给"
+          ],
+          "answer": 0,
+          "explanation": "跟 (gēn) dùng để chỉ cùng ai làm gì."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 教室里______很多人。",
+          "context": "",
+          "options": [
+            "在",
+            "有",
+            "是",
+            "会"
+          ],
+          "answer": 1,
+          "explanation": "Cấu trúc 'Nơi chốn + 有 + Danh từ' dùng để chỉ sự tồn tại."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 他跑得______快。",
+          "context": "",
+          "options": [
+            "真",
+            "太",
+            "很",
+            "得"
+          ],
+          "answer": 2,
+          "explanation": "Sau động từ + 得, dùng tính từ để bổ sung ý nghĩa (bổ ngữ trạng thái)."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 你______喝茶还是喝咖啡？",
+          "context": "",
+          "options": [
+            "想",
+            "会",
+            "能",
+            "要"
+          ],
+          "answer": 3,
+          "explanation": "要 (yào) dùng để hỏi về ý muốn hoặc lựa chọn."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 昨天天气______冷，______下雨了。",
+          "context": "",
+          "options": [
+            "又...又",
+            "一边...一边",
+            "因为...所以",
+            "虽然...但是"
+          ],
+          "answer": 0,
+          "explanation": "又...又 (yòu...yòu) dùng để liệt kê hai tính chất cùng tồn tại."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 我______去过中国。",
+          "context": "",
+          "options": [
+            "没",
+            "没有",
+            "不",
+            "别"
+          ],
+          "answer": 1,
+          "explanation": "Phủ định của hành động đã từng xảy ra dùng 没有 (méiyǒu)."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 桌子上______放着一个杯子。",
+          "context": "",
+          "options": [
+            "在",
+            "着",
+            "正",
+            "就"
+          ],
+          "answer": 2,
+          "explanation": "正在/正 (zhèng) biểu thị hành động đang diễn ra hoặc trạng thái đang tồn tại."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn đáp án đúng: 你______我打电话吧。",
+          "context": "",
+          "options": [
+            "对",
+            "向",
+            "往",
+            "给"
+          ],
+          "answer": 3,
+          "explanation": "给 (gěi) + người + động từ: làm gì cho ai."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 小王今天很忙，他早上八点去公司，下午五点才回家。回家后，他还要做饭。",
+          "context": "小王今天忙吗？",
+          "options": [
+            "很忙",
+            "不忙",
+            "很累",
+            "很高兴"
+          ],
+          "answer": 0,
+          "explanation": "Đoạn văn nói '小王今天很忙'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 我有一个好朋友，他叫大卫。他是美国人，汉语说得很好。我们常常一起学习。",
+          "context": "大卫是哪国人？",
+          "options": [
+            "中国人",
+            "美国人",
+            "英国人",
+            "日本人"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn nêu rõ '他是美国人'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 苹果三块钱一斤，香蕉两块钱一斤。妈妈买了三斤苹果，两斤香蕉。",
+          "context": "苹果多少钱一斤？",
+          "options": [
+            "两块",
+            "五块",
+            "三块",
+            "四块"
+          ],
+          "answer": 2,
+          "explanation": "Đoạn văn nói '苹果三块钱一斤'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 明天是星期六，学校没有课。我想去商店买一件新衣服，然后去看电影。",
+          "context": "明天他要做什么？",
+          "options": [
+            "去学校",
+            "去工作",
+            "去睡觉",
+            "去买衣服和看电影"
+          ],
+          "answer": 3,
+          "explanation": "Đoạn văn nói '去商店买一件新衣服，然后去看电影'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 这个饭馆的菜很好吃，但是有点儿贵。很多人喜欢来这里吃饭。",
+          "context": "这个饭馆怎么样？",
+          "options": [
+            "很好吃但贵",
+            "不好吃",
+            "很便宜",
+            "没人去"
+          ],
+          "answer": 0,
+          "explanation": "Đoạn văn nói '菜很好吃，但是有点儿贵'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 我女儿今年五岁了，她很喜欢唱歌和跳舞。她长得很漂亮。",
+          "context": "女儿多大了？",
+          "options": [
+            "三岁",
+            "五岁",
+            "四岁",
+            "六岁"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn nói '女儿今年五岁了'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 老师在教室里教我们汉语。同学们都听得很认真。",
+          "context": "同学们在做什么？",
+          "options": [
+            "在睡觉",
+            "在看书",
+            "在听课",
+            "在唱歌"
+          ],
+          "answer": 2,
+          "explanation": "Đoạn văn nói '老师教我们汉语', '同学们都听得很认真'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 我家离学校很近，走路只要十分钟。所以我每天都走路去学校。",
+          "context": "他怎么去学校？",
+          "options": [
+            "坐车",
+            "骑车",
+            "坐飞机",
+            "走路"
+          ],
+          "answer": 3,
+          "explanation": "Đoạn văn nói '我每天都走路去学校'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 今天天气不太好，阴天，可能会下雨。你出门记得带伞。",
+          "context": "出门应该带什么？",
+          "options": [
+            "伞",
+            "书",
+            "电脑",
+            "衣服"
+          ],
+          "answer": 0,
+          "explanation": "Đoạn văn khuyên '出门记得带伞'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "Đọc đoạn văn và chọn đáp án đúng: 我想学开车，但是我觉得开车有点儿难。我需要多练习。",
+          "context": "他觉得开车怎么样？",
+          "options": [
+            "很简单",
+            "有点儿难",
+            "很有意思",
+            "不难"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn nói '我觉得开车有点儿难'."
+        }
+      ]
+    },
+    {
+      "id": "hsk2-full-3",
+      "level": 2,
+      "title": "Đề HSK 2 số 3",
+      "durationMinutes": 30,
+      "questions": [
+        {
+          "section": "Từ vựng",
+          "prompt": "他每天早上都去公园______。",
+          "context": "",
+          "options": [
+            "跑步",
+            "睡觉",
+            "看书",
+            "吃饭"
+          ],
+          "answer": 0,
+          "explanation": "跑步 (chạy bộ) là hoạt động thường thấy ở công viên vào buổi sáng."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "今天天气很好，我们去______吧。",
+          "context": "",
+          "options": [
+            "睡觉",
+            "买东西",
+            "洗澡",
+            "看病"
+          ],
+          "answer": 1,
+          "explanation": "Thời tiết đẹp thích hợp để đi mua sắm (买东西)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "这件衣服太______了，我没有那么多钱。",
+          "context": "",
+          "options": [
+            "便宜",
+            "大",
+            "贵",
+            "小"
+          ],
+          "answer": 2,
+          "explanation": "Vì không có nhiều tiền nên quần áo phải đắt (贵)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "请问，去火车站怎么______？",
+          "context": "",
+          "options": [
+            "吃",
+            "看",
+            "听",
+            "走"
+          ],
+          "answer": 3,
+          "explanation": "Hỏi đường đi đến đâu dùng cấu trúc 怎么走 (đi như thế nào)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "我非常______我的汉语老师，她教得很好。",
+          "context": "",
+          "options": [
+            "喜欢",
+            "认识",
+            "学习",
+            "工作"
+          ],
+          "answer": 0,
+          "explanation": "Diễn tả tình cảm yêu thích (喜欢) đối với giáo viên."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "现在是下午三点，我有点儿______，想喝杯咖啡。",
+          "context": "",
+          "options": [
+            "高兴",
+            "累",
+            "忙",
+            "冷"
+          ],
+          "answer": 1,
+          "explanation": "Cảm thấy mệt (累) nên muốn uống cà phê để tỉnh táo."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "明天是星期六，我们不用去______。",
+          "context": "",
+          "options": [
+            "饭店",
+            "电影院",
+            "学校",
+            "商店"
+          ],
+          "answer": 2,
+          "explanation": "Thứ Bảy không cần đến trường (学校)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "这儿的菜很好吃，______也很便宜。",
+          "context": "",
+          "options": [
+            "时间",
+            "颜色",
+            "身体",
+            "价格"
+          ],
+          "answer": 3,
+          "explanation": "Giá cả (价格) rẻ phù hợp với ngữ cảnh khen đồ ăn."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "他有一个大______，里面有很多书。",
+          "context": "",
+          "options": [
+            "书包",
+            "手机",
+            "电脑",
+            "杯子"
+          ],
+          "answer": 0,
+          "explanation": "Cặp sách (书包) là vật dụng đựng sách."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "请把门______，外面很冷。",
+          "context": "",
+          "options": [
+            "打开",
+            "关上",
+            "看",
+            "写"
+          ],
+          "answer": 1,
+          "explanation": "Vì bên ngoài lạnh nên cần đóng cửa (关上)."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "他______我大三岁。",
+          "context": "",
+          "options": [
+            "很",
+            "太",
+            "比",
+            "最"
+          ],
+          "answer": 2,
+          "explanation": "Cấu trúc so sánh hơn: A 比 B + tính từ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "桌子上______着一本书。",
+          "context": "",
+          "options": [
+            "在",
+            "去",
+            "看",
+            "放"
+          ],
+          "answer": 3,
+          "explanation": "Cấu trúc V+着 biểu thị trạng thái tồn tại."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "你______去过北京吗？",
+          "context": "",
+          "options": [
+            "曾经",
+            "已经",
+            "正在",
+            "要"
+          ],
+          "answer": 0,
+          "explanation": "曾经 dùng để hỏi về trải nghiệm trong quá khứ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "我______看电影，一边喝茶。",
+          "context": "",
+          "options": [
+            "因为",
+            "一边",
+            "所以",
+            "但是"
+          ],
+          "answer": 1,
+          "explanation": "Cấu trúc 一边...一边... biểu thị hai hành động xảy ra cùng lúc."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "这儿的风景______漂亮了！",
+          "context": "",
+          "options": [
+            "很",
+            "非常",
+            "太",
+            "比较"
+          ],
+          "answer": 2,
+          "explanation": "Cấu trúc 太...了 biểu thị mức độ cao."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "他昨天没去学校，______他生病了。",
+          "context": "",
+          "options": [
+            "所以",
+            "但是",
+            "还是",
+            "因为"
+          ],
+          "answer": 3,
+          "explanation": "Vì (因为) anh ấy ốm nên không đi học."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "你______多喝水，对身体好。",
+          "context": "",
+          "options": [
+            "应该",
+            "可以",
+            "会",
+            "想"
+          ],
+          "answer": 0,
+          "explanation": "应该 (nên) dùng để đưa ra lời khuyên."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "他汉语说得______好。",
+          "context": "",
+          "options": [
+            "一点儿",
+            "很",
+            "一些",
+            "个"
+          ],
+          "answer": 1,
+          "explanation": "Bổ ngữ trình độ: V + 得 + rất/tệ (很/不好)."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "我们______去踢足球吧。",
+          "context": "",
+          "options": [
+            "一直",
+            "已经",
+            "一起",
+            "总是"
+          ],
+          "answer": 2,
+          "explanation": "一起 (cùng nhau) dùng để rủ rê."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "这本书我______看了三遍了。",
+          "context": "",
+          "options": [
+            "正在",
+            "要",
+            "会",
+            "已经"
+          ],
+          "answer": 3,
+          "explanation": "已经 (đã) dùng cho hành động đã hoàn thành."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "小王喜欢运动。他每天早上六点起床，去公园跑步。他觉得跑步对身体很好。",
+          "context": "小王每天早上做什么？",
+          "options": [
+            "跑步",
+            "睡觉",
+            "看书",
+            "工作"
+          ],
+          "answer": 0,
+          "explanation": "Đoạn văn nói rõ anh ấy đi chạy bộ (跑步)."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "今天天气不好，下雨了。我不想出门，就在家看电视。电视里有一个很有意思的电影。",
+          "context": "为什么我不出门？",
+          "options": [
+            "很累",
+            "下雨了",
+            "没钱",
+            "没时间"
+          ],
+          "answer": 1,
+          "explanation": "Vì trời mưa (下雨了) nên không muốn ra ngoài."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "李先生今年四十岁，他在一家大公司工作。他每天都很忙，但是他很喜欢他的工作。",
+          "context": "李先生喜欢他的工作吗？",
+          "options": [
+            "不喜欢",
+            "很累",
+            "喜欢",
+            "想换工作"
+          ],
+          "answer": 2,
+          "explanation": "Đoạn văn ghi rõ anh ấy rất thích công việc của mình."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "这件红色的衣服很漂亮，但是太贵了。那件蓝色的衣服比较便宜，我买那件吧。",
+          "context": "我最后买了什么颜色的衣服？",
+          "options": [
+            "红色",
+            "白色",
+            "黑色",
+            "蓝色"
+          ],
+          "answer": 3,
+          "explanation": "Vì màu đỏ đắt nên chọn mua màu xanh (蓝色)."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "明天是星期天，学校没有课。我和朋友打算去电影院看电影，然后再去吃中国菜。",
+          "context": "明天我们打算做什么？",
+          "options": [
+            "看电影",
+            "去学校",
+            "去跑步",
+            "去睡觉"
+          ],
+          "answer": 0,
+          "explanation": "Kế hoạch là đi xem phim (看电影)."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "我有一个好朋友，他叫大卫。他是美国人，汉语说得非常好。我们经常一起练习汉语。",
+          "context": "大卫是哪国人？",
+          "options": [
+            "中国",
+            "美国",
+            "英国",
+            "日本"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn giới thiệu anh ấy là người Mỹ (美国)."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "桌子上放着三个杯子。一个是我的，一个是老师的，还有一个是小明的。",
+          "context": "桌子上有几个杯子？",
+          "options": [
+            "两个",
+            "四个",
+            "三个",
+            "五个"
+          ],
+          "answer": 2,
+          "explanation": "Đoạn văn nói rõ có 3 cái cốc (三个)."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "我女儿今年五岁，她很喜欢唱歌。她唱得很好听，大家都喜欢听她唱歌。",
+          "context": "女儿今年几岁？",
+          "options": [
+            "四岁",
+            "六岁",
+            "七岁",
+            "五岁"
+          ],
+          "answer": 3,
+          "explanation": "Đoạn văn nói con gái năm nay 5 tuổi (五岁)."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "这家饭店的菜很好吃，服务员也很热情。所以很多人都喜欢来这里吃饭。",
+          "context": "为什么很多人来这里吃饭？",
+          "options": [
+            "菜好吃",
+            "很便宜",
+            "离家近",
+            "环境好"
+          ],
+          "answer": 0,
+          "explanation": "Vì đồ ăn ngon (菜很好吃)."
+        },
+        {
+          "section": "Đọc hiểu",
+          "prompt": "我昨天买了一台新电脑，花了五千块钱。虽然有点儿贵，但是很好用。",
+          "context": "这台电脑怎么样？",
+          "options": [
+            "不好用",
+            "很好用",
+            "太旧了",
+            "很便宜"
+          ],
+          "answer": 1,
+          "explanation": "Đoạn văn khẳng định máy tính dùng rất tốt (很好用)."
+        }
+      ]
+    }
+  ]
+}

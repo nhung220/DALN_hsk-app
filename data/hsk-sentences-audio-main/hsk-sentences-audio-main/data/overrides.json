@@ -1,0 +1,15 @@
+{
+  "_comment": "人工审核层。polyphone: 注入 pypinyin 修正多音字读音(同时影响文字拼音)。seg_blocklist: 从最大匹配词表剔除会导致坏切分的伪词,让分词自然切对。segmentation: 兜底的显式拆分。审核标红命中后在此沉淀,一次生效永久复用。",
+  "polyphone": {
+    "东西": [["dōng"], ["xi"]]
+  },
+  "token_pinyin": {
+    "中文": "zhōng wén"
+  },
+  "gloss": {
+    "东西": "thing; stuff"
+  },
+  "segmentation": {
+    "天上飞": ["天上", "飞"]
+  }
+}

@@ -1,0 +1,2907 @@
+{
+  "topics": [
+    {
+      "id": "numbers-time",
+      "title": "Số đếm và thời gian",
+      "icon": "🔢",
+      "description": "Từ vựng cơ bản về số đếm, thời gian và mốc thời gian trong ngày.",
+      "level": 1,
+      "words": [
+        {
+          "hanzi": "现在",
+          "pinyin": "xiànzài",
+          "meaning": "bây giờ",
+          "example": "现在几点了？",
+          "exampleVi": "Bây giờ là mấy giờ rồi?"
+        },
+        {
+          "hanzi": "点",
+          "pinyin": "diǎn",
+          "meaning": "giờ",
+          "example": "现在八点了。",
+          "exampleVi": "Bây giờ là tám giờ rồi."
+        },
+        {
+          "hanzi": "分",
+          "pinyin": "fēn",
+          "meaning": "phút",
+          "example": "八点五分。",
+          "exampleVi": "Tám giờ năm phút."
+        },
+        {
+          "hanzi": "今天",
+          "pinyin": "jīntiān",
+          "meaning": "hôm nay",
+          "example": "今天是五月一号。",
+          "exampleVi": "Hôm nay là ngày mùng 1 tháng 5."
+        },
+        {
+          "hanzi": "明天",
+          "pinyin": "míngtiān",
+          "meaning": "ngày mai",
+          "example": "我明天去学校。",
+          "exampleVi": "Ngày mai tôi đến trường."
+        },
+        {
+          "hanzi": "昨天",
+          "pinyin": "zuótiān",
+          "meaning": "hôm qua",
+          "example": "昨天我很忙。",
+          "exampleVi": "Hôm qua tôi rất bận."
+        },
+        {
+          "hanzi": "早上",
+          "pinyin": "zǎoshang",
+          "meaning": "buổi sáng",
+          "example": "早上好。",
+          "exampleVi": "Buổi sáng tốt lành."
+        },
+        {
+          "hanzi": "下午",
+          "pinyin": "xiàwǔ",
+          "meaning": "buổi chiều",
+          "example": "下午我去看电影。",
+          "exampleVi": "Buổi chiều tôi đi xem phim."
+        },
+        {
+          "hanzi": "时间",
+          "pinyin": "shíjiān",
+          "meaning": "thời gian",
+          "example": "我没有时间。",
+          "exampleVi": "Tôi không có thời gian."
+        },
+        {
+          "hanzi": "两",
+          "pinyin": "liǎng",
+          "meaning": "hai",
+          "example": "我有两个朋友。",
+          "exampleVi": "Tôi có hai người bạn."
+        }
+      ]
+    },
+    {
+      "id": "daily-life",
+      "title": "Sinh hoạt hàng ngày",
+      "icon": "☀️",
+      "description": "Từ vựng HSK 1 về các hoạt động sinh hoạt quen thuộc hàng ngày.",
+      "level": 1,
+      "words": [
+        {
+          "hanzi": "睡觉",
+          "pinyin": "shuì jiào",
+          "meaning": "ngủ",
+          "example": "晚上十点我睡觉。",
+          "exampleVi": "Tôi ngủ lúc 10 giờ tối."
+        },
+        {
+          "hanzi": "吃饭",
+          "pinyin": "chī fàn",
+          "meaning": "ăn cơm",
+          "example": "我们一起吃饭吧。",
+          "exampleVi": "Chúng ta cùng ăn cơm nhé."
+        },
+        {
+          "hanzi": "休息",
+          "pinyin": "xiū xi",
+          "meaning": "nghỉ ngơi",
+          "example": "我累了，想休息。",
+          "exampleVi": "Tôi mệt rồi, muốn nghỉ ngơi."
+        },
+        {
+          "hanzi": "穿",
+          "pinyin": "chuān",
+          "meaning": "mặc",
+          "example": "今天你穿什么？",
+          "exampleVi": "Hôm nay bạn mặc gì?"
+        },
+        {
+          "hanzi": "喝",
+          "pinyin": "hē",
+          "meaning": "uống",
+          "example": "你想喝水吗？",
+          "exampleVi": "Bạn muốn uống nước không?"
+        },
+        {
+          "hanzi": "工作",
+          "pinyin": "gōng zuò",
+          "meaning": "làm việc",
+          "example": "今天我很忙，要工作。",
+          "exampleVi": "Hôm nay tôi rất bận, phải làm việc."
+        },
+        {
+          "hanzi": "洗",
+          "pinyin": "xǐ",
+          "meaning": "rửa, giặt",
+          "example": "你在洗手吗？",
+          "exampleVi": "Bạn đang rửa tay à?"
+        },
+        {
+          "hanzi": "打电话",
+          "pinyin": "dǎ diàn huà",
+          "meaning": "gọi điện thoại",
+          "example": "我给你打电话。",
+          "exampleVi": "Tôi gọi điện thoại cho bạn."
+        },
+        {
+          "hanzi": "准备",
+          "pinyin": "zhǔn bèi",
+          "meaning": "chuẩn bị",
+          "example": "你准备做什么？",
+          "exampleVi": "Bạn chuẩn bị làm gì?"
+        },
+        {
+          "hanzi": "学习",
+          "pinyin": "xué xí",
+          "meaning": "học tập",
+          "example": " thin我们在 acquired一起学习。",
+          "exampleVi": "Chúng tôi cùng nhau học tập."
+        }
+      ]
+    },
+    {
+      "id": "places",
+      "title": "Địa điểm",
+      "icon": "🏙️",
+      "description": "Từ vựng HSK 1 về các địa điểm và vị trí quen thuộc",
+      "level": 1,
+      "words": [
+        {
+          "hanzi": "学校",
+          "pinyin": "xué xiào",
+          "meaning": "trường học",
+          "example": "我在学校学习。",
+          "exampleVi": "Tôi học ở trường."
+        },
+        {
+          "hanzi": "医院",
+          "pinyin": "yī yuàn",
+          "meaning": "bệnh viện",
+          "example": "他在医院工作。",
+          "exampleVi": "Anh ấy làm việc ở bệnh viện."
+        },
+        {
+          "hanzi": "中国",
+          "pinyin": "zhōng guó",
+          "meaning": "Trung Quốc",
+          "example": "我想去中国。",
+          "exampleVi": "Tôi muốn đi Trung Quốc."
+        },
+        {
+          "hanzi": "国家",
+          "pinyin": "guó jiā",
+          "meaning": "quốc gia, đất nước",
+          "example": "这是什么国家？",
+          "exampleVi": "Đây là đất nước gì?"
+        },
+        {
+          "hanzi": "地方",
+          "pinyin": "dì fang",
+          "meaning": "nơi, địa điểm",
+          "example": "这是个好地方。",
+          "exampleVi": "Đây là một nơi tốt."
+        },
+        {
+          "hanzi": "楼",
+          "pinyin": "lóu",
+          "meaning": "tòa nhà, tầng",
+          "example": " laz我在三楼。",
+          "exampleVi": "Tôi ở tầng ba."
+        },
+        {
+          "hanzi": "房间",
+          "pinyin": "fáng jiān",
+          "meaning": "căn phòng",
+          "example": "这个房间很大。",
+          "exampleVi": "Căn phòng này rất lớn."
+        },
+        {
+          "hanzi": "这里",
+          "pinyin": "zhè lǐ",
+          "meaning": "ở đây, chỗ này",
+          "example": "这里很好。",
+          "exampleVi": "Chỗ này rất tốt."
+        },
+        {
+          "hanzi": "那里",
+          "pinyin": "nà li",
+          "meaning": "ở kia, chỗ kia",
+          "example": "他在那里。",
+          "exampleVi": "Anh ấy ở đằng kia."
+        },
+        {
+          "hanzi": "大学",
+          "pinyin": "dà xué",
+          "meaning": "trường đại học",
+          "example": "我在大学学习。",
+          "exampleVi": "Tôi học ở trường đại học."
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "title": "Phương tiện",
+      "icon": "🚌",
+      "description": "Từ vựng cơ bản về phương tiện giao thông và di chuyển.",
+      "level": 1,
+      "words": [
+        {
+          "hanzi": "车",
+          "pinyin": "chē",
+          "meaning": "xe",
+          "example": "这是我的车。",
+          "exampleVi": "Đây là xe của tôi."
+        },
+        {
+          "hanzi": "汽车",
+          "pinyin": "qìchē",
+          "meaning": "xe ô tô",
+          "example": "他想买汽车。",
+          "exampleVi": "Anh ấy muốn mua xe ô tô."
+        },
+        {
+          "hanzi": "飞机",
+          "pinyin": "fēijī",
+          "meaning": "máy bay",
+          "example": "我坐飞机去中国。",
+          "exampleVi": "Tôi đi máy bay đến Trung Quốc."
+        },
+        {
+          "hanzi": "坐",
+          "pinyin": "zuò",
+          "meaning": "đi, ngồi",
+          "example": " chúng tôi坐车去学校。",
+          "exampleVi": "Chúng tôi đi xe đến trường."
+        },
+        {
+          "hanzi": "开",
+          "pinyin": "kāi",
+          "meaning": "lái (xe)",
+          "example": "你会开车吗？",
+          "exampleVi": "Bạn biết lái xe không?"
+        },
+        {
+          "hanzi": "站",
+          "pinyin": "zhàn",
+          "meaning": "trạm, bến",
+          "example": "这里有一个站。",
+          "exampleVi": "Ở đây có một cái trạm."
+        },
+        {
+          "hanzi": "路",
+          "pinyin": "lù",
+          "meaning": "đường",
+          "example": " headquarters我在路上。",
+          "exampleVi": "Tôi đang ở trên đường."
+        },
+        {
+          "hanzi": "走",
+          "pinyin": "zǒu",
+          "meaning": "đi, đi bộ",
+          "example": "我们走吧。",
+          "exampleVi": "Chúng ta đi thôi."
+        },
+        {
+          "hanzi": "飞",
+          "pinyin": "fēi",
+          "meaning": "bay",
+          "example": "飞机在飞。",
+          "exampleVi": "Máy bay đang bay."
+        },
+        {
+          "hanzi": "跑",
+          "pinyin": "pǎo",
+          "meaning": "chạy",
+          "example": "他喜欢跑。",
+          "exampleVi": "Anh ấy thích chạy."
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Thời tiết",
+      "icon": "🌤️",
+      "description": "Từ vựng cơ bản về thời tiết và thời gian trong tiếng Trung",
+      "level": 1,
+      "words": [
+        {
+          "hanzi": "天",
+          "pinyin": "tiān",
+          "meaning": "trời, ngày",
+          "example": "今天天很冷。",
+          "exampleVi": "Hôm nay trời rất lạnh."
+        },
+        {
+          "hanzi": "冷",
+          "pinyin": "lěng",
+          "meaning": "lạnh",
+          "example": "今天不冷。",
+          "exampleVi": "Hôm nay không lạnh."
+        },
+        {
+          "hanzi": "热",
+          "pinyin": "rè",
+          "meaning": "nóng",
+          "example": "今天非常热。",
+          "exampleVi": "Hôm nay rất nóng."
+        },
+        {
+          "hanzi": "风",
+          "pinyin": "fēng",
+          "meaning": "gió",
+          "example": "今天有大风。",
+          "exampleVi": "Hôm nay có gió lớn."
+        },
+        {
+          "hanzi": "下",
+          "pinyin": "xià",
+          "meaning": "rơi; xuống",
+          "example": "今天下雨。",
+          "exampleVi": "Hôm nay trời mưa."
+        },
+        {
+          "hanzi": "有",
+          "pinyin": "yǒu",
+          "meaning": "có",
+          "example": "今天有风。",
+          "exampleVi": "Hôm nay có gió."
+        },
+        {
+          "hanzi": "不",
+          "pinyin": "bù",
+          "meaning": "không",
+          "example": "今天不冷。",
+          "exampleVi": "Hôm nay không lạnh."
+        },
+        {
+          "hanzi": "太",
+          "pinyin": "tài",
+          "meaning": "quá",
+          "example": "太热了！",
+          "exampleVi": "Nóng quá rồi!"
+        },
+        {
+          "hanzi": "常",
+          "pinyin": "cháng",
+          "meaning": "thường",
+          "example": "这里常有风。",
+          "exampleVi": "Ở đây thường có gió."
+        },
+        {
+          "hanzi": "好",
+          "pinyin": "hǎo",
+          "meaning": "tốt, đẹp",
+          "example": "今天天气很好。",
+          "exampleVi": "Hôm nay thời tiết rất đẹp."
+        }
+      ]
+    },
+    {
+      "id": "body-health",
+      "title": "Cơ thể và sức khỏe",
+      "icon": "❤️",
+      "description": "Từ vựng cơ bản về cơ thể người và tình trạng sức khỏe.",
+      "level": 1,
+      "words": [
+        {
+          "hanzi": "身体",
+          "pinyin": "shēntǐ",
+          "meaning": "cơ thể",
+          "example": "我的身体很好。",
+          "exampleVi": "Cơ thể tôi rất tốt."
+        },
+        {
+          "hanzi": "病",
+          "pinyin": "bìng",
+          "meaning": "bệnh",
+          "example": "他生病了。",
+          "exampleVi": "Anh ấy bị bệnh rồi."
+        },
+        {
+          "hanzi": "医生",
+          "pinyin": "yīshēng",
+          "meaning": "bác sĩ",
+          "example": "医生在医院。",
+          "exampleVi": "Bác sĩ đang ở bệnh viện."
+        },
+        {
+          "hanzi": "医院",
+          "pinyin": "yīyuàn",
+          "meaning": "bệnh viện",
+          "example": "我去医院看病。",
+          "exampleVi": "Tôi đi bệnh viện khám bệnh."
+        },
+        {
+          "hanzi": "病人",
+          "pinyin": "bìngrén",
+          "meaning": "bệnh nhân",
+          "example": "他是病人。",
+          "exampleVi": "Anh ấy là bệnh nhân."
+        },
+        {
+          "hanzi": "休息",
+          "pinyin": "xiūxi",
+          "meaning": "nghỉ ngơi",
+          "example": "我想休息。",
+          "exampleVi": "Tôi muốn nghỉ ngơi."
+        },
+        {
+          "hanzi": "睡觉",
+          "pinyin": "shuìjiào",
+          "meaning": "ngủ",
+          "example": "晚上要早睡觉。",
+          "exampleVi": "Buổi tối cần ngủ sớm."
+        },
+        {
+          "hanzi": "累",
+          "pinyin": "lèi",
+          "meaning": "mệt",
+          "example": "我今天很累。",
+          "exampleVi": "Hôm nay tôi rất mệt."
+        },
+        {
+          "hanzi": "手",
+          "pinyin": "shǒu",
+          "meaning": "tay",
+          "example": "我的手很大。",
+          "exampleVi": "Tay của tôi rất to."
+        },
+        {
+          "hanzi": "口",
+          "pinyin": "kǒu",
+          "meaning": "miệng",
+          "example": "张开你的口。",
+          "exampleVi": "Há miệng của bạn ra."
+        }
+      ]
+    },
+    {
+      "id": "clothes-colors",
+      "title": "Trang phục và đồ dùng",
+      "icon": "👕",
+      "description": "Học từ vựng cơ bản về trang phục và màu sắc trong tiếng Trung.",
+      "level": 1,
+      "words": [
+        {
+          "hanzi": "多",
+          "pinyin": "duō",
+          "meaning": "nhiều",
+          "example": "这里的东西很多。",
+          "exampleVi": "Đồ ở đây rất nhiều."
+        },
+        {
+          "hanzi": "包",
+          "pinyin": "bāo",
+          "meaning": "túi, cặp",
+          "example": "这个包是我的。",
+          "exampleVi": "Chiếc túi này là của tôi."
+        },
+        {
+          "hanzi": "白",
+          "pinyin": "bái",
+          "meaning": "màu trắng",
+          "example": "我喜欢白衣服。",
+          "exampleVi": "Tôi thích quần áo màu trắng."
+        },
+        {
+          "hanzi": "买",
+          "pinyin": "mǎi",
+          "meaning": "mua",
+          "example": "我要买衣服。",
+          "exampleVi": "Tôi muốn mua quần áo."
+        },
+        {
+          "hanzi": "大",
+          "pinyin": "dà",
+          "meaning": "to, lớn",
+          "example": "这件衣服太大了。",
+          "exampleVi": "Bộ quần áo này quá lớn."
+        },
+        {
+          "hanzi": "小",
+          "pinyin": "xiǎo",
+          "meaning": "nhỏ",
+          "example": "那件衣服很小。",
+          "exampleVi": "Bộ quần áo kia rất nhỏ."
+        },
+        {
+          "hanzi": "新",
+          "pinyin": "xīn",
+          "meaning": "mới",
+          "example": "这是我的新衣服。",
+          "exampleVi": "Đây là quần áo mới của tôi."
+        },
+        {
+          "hanzi": "身上",
+          "pinyin": "shēnshang",
+          "meaning": "trên người",
+          "example": "他身上有新衣服。",
+          "exampleVi": "Trên người anh ấy có quần áo mới."
+        },
+        {
+          "hanzi": "东西",
+          "pinyin": "dōngxi",
+          "meaning": "đồ đạc",
+          "example": "我买了很多东西。",
+          "exampleVi": "Tôi đã mua rất nhiều đồ."
+        },
+        {
+          "hanzi": "块",
+          "pinyin": "kuài",
+          "meaning": "đơn vị tiền tệ",
+          "example": "这件衣服一百块。",
+          "exampleVi": "Bộ quần áo này một trăm tệ."
+        }
+      ]
+    },
+    {
+      "id": "hobbies",
+      "title": "Sở thích",
+      "icon": "🎨",
+      "description": "Các từ vựng cơ bản về sở thích và hoạt động giải trí trong đời sống hàng ngày.",
+      "level": 1,
+      "words": [
+        {
+          "hanzi": "喜欢",
+          "pinyin": "xǐhuān",
+          "meaning": "thích",
+          "example": "我喜欢看电影。",
+          "exampleVi": "Tôi thích xem phim."
+        },
+        {
+          "hanzi": "看",
+          "pinyin": "kàn",
+          "meaning": "xem",
+          "example": "他看书。",
+          "exampleVi": "Anh ấy đọc sách."
+        },
+        {
+          "hanzi": "电影",
+          "pinyin": "diànyǐng",
+          "meaning": "phim",
+          "example": "这电影很好。",
+          "exampleVi": "Bộ phim này rất hay."
+        },
+        {
+          "hanzi": "听",
+          "pinyin": "tīng",
+          "meaning": "nghe",
+          "example": "我听歌。",
+          "exampleVi": "Tôi nghe nhạc."
+        },
+        {
+          "hanzi": "歌",
+          "pinyin": "gē",
+          "meaning": "bài hát",
+          "example": "这歌真好听。",
+          "exampleVi": "Bài hát này nghe rất hay."
+        },
+        {
+          "hanzi": "唱",
+          "pinyin": "chàng",
+          "meaning": "hát",
+          "example": "我们一起唱。",
+          "exampleVi": "Chúng ta cùng hát đi."
+        },
+        {
+          "hanzi": "打",
+          "pinyin": "dǎ",
+          "meaning": "đánh/chơi (thể thao)",
+          "example": "他打球。",
+          "exampleVi": "Anh ấy chơi bóng."
+        },
+        {
+          "hanzi": "球",
+          "pinyin": "qiú",
+          "meaning": "bóng",
+          "example": "我爱打球。",
+          "exampleVi": "Tôi yêu thích chơi bóng."
+        },
+        {
+          "hanzi": "电视",
+          "pinyin": "diànshì",
+          "meaning": "tivi",
+          "example": "他在看电视。",
+          "exampleVi": "Anh ấy đang xem tivi."
+        },
+        {
+          "hanzi": "一起",
+          "pinyin": "yīqǐ",
+          "meaning": "cùng nhau",
+          "example": "我们一起去。",
+          "exampleVi": "Chúng ta cùng đi nhé."
+        }
+      ]
+    }
+  ],
+  "readings": [
+    {
+      "id": "lesson_01",
+      "level": 1,
+      "title": "Một ngày đi học",
+      "passage": "我早上七点去学校。我在学校学习汉语。中午我和朋友吃饭。下午三点我回家。",
+      "pinyin": "Wǒ zǎoshang qī diǎn qù xuéxiào. Wǒ zài xuéxiào xuéxí Hànyǔ. Zhōngwǔ wǒ hé péngyǒu chīfàn. Xiàwǔ sān diǎn wǒ huí jiā.",
+      "translation": "Tôi đi học lúc bảy giờ sáng. Tôi học tiếng Trung ở trường. Buổi trưa tôi ăn cơm cùng bạn. Ba giờ chiều tôi về nhà.",
+      "vocabulary": [
+        {
+          "hanzi": "学校",
+          "pinyin": "xuéxiào",
+          "meaning": "trường học"
+        },
+        {
+          "hanzi": "学习",
+          "pinyin": "xuéxí",
+          "meaning": "học tập"
+        },
+        {
+          "hanzi": "回家",
+          "pinyin": "huí jiā",
+          "meaning": "về nhà"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我几点去学校？",
+          "options": [
+            "七点",
+            "八点",
+            "三点",
+            "中午"
+          ],
+          "answer": 0,
+          "explanation": "Bài đọc ghi '我早上七点去学校' (Tôi đi học lúc 7 giờ)."
+        },
+        {
+          "question": "中午我和谁吃饭？",
+          "options": [
+            "老师",
+            "妈妈",
+            "朋友",
+            "爸爸"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '中午我和朋友吃饭' (Buổi trưa tôi ăn cơm cùng bạn)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_02",
+      "level": 1,
+      "title": "Bữa sáng",
+      "passage": "早上我喝牛奶。我吃一个面包。妈妈也吃面包。我们都很喜欢吃。",
+      "pinyin": "Zǎoshang wǒ hē niúnǎi. Wǒ chī yī gè miànbāo. Māma yě chī miànbāo. Wǒmen dōu hěn xǐhuān chī.",
+      "translation": "Buổi sáng tôi uống sữa. Tôi ăn một cái bánh mì. Mẹ cũng ăn bánh mì. Chúng tôi đều rất thích ăn.",
+      "vocabulary": [
+        {
+          "hanzi": "牛奶",
+          "pinyin": "niúnǎi",
+          "meaning": "sữa bò"
+        },
+        {
+          "hanzi": "面包",
+          "pinyin": "miànbāo",
+          "meaning": "bánh mì"
+        },
+        {
+          "hanzi": "喜欢",
+          "pinyin": "xǐhuān",
+          "meaning": "thích"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我早上喝什么？",
+          "options": [
+            "水",
+            "茶",
+            "牛奶",
+            "咖啡"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '早上我喝牛奶' (Buổi sáng tôi uống sữa)."
+        },
+        {
+          "question": "谁也吃面包？",
+          "options": [
+            "爸爸",
+            "妈妈",
+            "朋友",
+            "老师"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '妈妈也吃面包' (Mẹ cũng ăn bánh mì)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_03",
+      "level": 1,
+      "title": "Bạn mới",
+      "passage": "这是我的新同学。他叫大卫。他是美国人。他会说一点儿汉语。",
+      "pinyin": "Zhè shì wǒ de xīn tóngxué. Tā jiào Dàwèi. Tā shì Měiguó rén. Tā huì shuō yīdiǎnr Hànyǔ.",
+      "translation": "Đây là bạn học mới của tôi. Cậu ấy tên là David. Cậu ấy là người Mỹ. Cậu ấy biết nói một chút tiếng Trung.",
+      "vocabulary": [
+        {
+          "hanzi": "同学",
+          "pinyin": "tóngxué",
+          "meaning": "bạn học"
+        },
+        {
+          "hanzi": "美国人",
+          "pinyin": "Měiguó rén",
+          "meaning": "người Mỹ"
+        },
+        {
+          "hanzi": "汉语",
+          "pinyin": "Hànyǔ",
+          "meaning": "tiếng Trung"
+        }
+      ],
+      "questions": [
+        {
+          "question": "大卫是哪国人？",
+          "options": [
+            "中国",
+            "美国",
+            "日本",
+            "越南"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '他是美国人' (Cậu ấy là người Mỹ)."
+        },
+        {
+          "question": "大卫会说什么？",
+          "options": [
+            "汉语",
+            "英语",
+            "法语",
+            "德语"
+          ],
+          "answer": 0,
+          "explanation": "Bài đọc ghi '他会说一点儿汉语' (Cậu ấy biết nói một chút tiếng Trung)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_04",
+      "level": 1,
+      "title": "Sinh nhật",
+      "passage": "今天是我的生日。妈妈给我买了一个蛋糕。我很开心。我们一起吃蛋糕。",
+      "pinyin": "Jīntiān shì wǒ de shēngrì. Māma gěi wǒ mǎi le yī gè dàngāo. Wǒ hěn kāixīn. Wǒmen yīqǐ chī dàngāo.",
+      "translation": "Hôm nay là sinh nhật tôi. Mẹ mua cho tôi một cái bánh kem. Tôi rất vui. Chúng tôi cùng nhau ăn bánh kem.",
+      "vocabulary": [
+        {
+          "hanzi": "生日",
+          "pinyin": "shēngrì",
+          "meaning": "sinh nhật"
+        },
+        {
+          "hanzi": "蛋糕",
+          "pinyin": "dàngāo",
+          "meaning": "bánh kem"
+        },
+        {
+          "hanzi": "开心",
+          "pinyin": "kāixīn",
+          "meaning": "vui vẻ"
+        }
+      ],
+      "questions": [
+        {
+          "question": "今天是什么日子？",
+          "options": [
+            "生日",
+            "新年",
+            "周末",
+            "节日"
+          ],
+          "answer": 0,
+          "explanation": "Bài đọc ghi '今天是我的生日' (Hôm nay là sinh nhật tôi)."
+        },
+        {
+          "question": "谁买了蛋糕？",
+          "options": [
+            "爸爸",
+            "朋友",
+            "老师",
+            "妈妈"
+          ],
+          "answer": 3,
+          "explanation": "Bài đọc ghi '妈妈给我买了一个蛋糕' (Mẹ mua cho tôi một cái bánh kem)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_05",
+      "level": 1,
+      "title": "Cuối tuần",
+      "passage": "周末我没有课。我想去公园看花。天气很好。我和家人一起去。",
+      "pinyin": "Zhōumò wǒ méiyǒu kè. Wǒ xiǎng qù gōngyuán kàn huā. Tiānqì hěn hǎo. Wǒ hé jiārén yīqǐ qù.",
+      "translation": "Cuối tuần tôi không có tiết học. Tôi muốn đi công viên ngắm hoa. Thời tiết rất đẹp. Tôi đi cùng gia đình.",
+      "vocabulary": [
+        {
+          "hanzi": "周末",
+          "pinyin": "zhōumò",
+          "meaning": "cuối tuần"
+        },
+        {
+          "hanzi": "公园",
+          "pinyin": "gōngyuán",
+          "meaning": "công viên"
+        },
+        {
+          "hanzi": "天气",
+          "pinyin": "tiānqì",
+          "meaning": "thời tiết"
+        }
+      ],
+      "questions": [
+        {
+          "question": "周末我做什么？",
+          "options": [
+            "学习",
+            "去公园",
+            "睡觉",
+            "工作"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '我想去公园看花' (Tôi muốn đi công viên ngắm hoa)."
+        },
+        {
+          "question": "我和谁去公园？",
+          "options": [
+            "老师",
+            "同学",
+            "家人",
+            "朋友"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '我和家人一起去' (Tôi đi cùng gia đình)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_06",
+      "level": 1,
+      "title": "Đi siêu thị",
+      "passage": "超市很大。里面有很多水果。苹果三块钱一斤。我买了一些苹果。",
+      "pinyin": "Chāoshì hěn dà. Lǐmiàn yǒu hěnduō shuǐguǒ. Píngguǒ sān kuài qián yī jīn. Wǒ mǎi le yīxiē píngguǒ.",
+      "translation": "Siêu thị rất lớn. Bên trong có rất nhiều trái cây. Táo ba đồng một cân. Tôi đã mua một ít táo.",
+      "vocabulary": [
+        {
+          "hanzi": "超市",
+          "pinyin": "chāoshì",
+          "meaning": "siêu thị"
+        },
+        {
+          "hanzi": "水果",
+          "pinyin": "shuǐguǒ",
+          "meaning": "trái cây"
+        },
+        {
+          "hanzi": "苹果",
+          "pinyin": "píngguǒ",
+          "meaning": "táo"
+        }
+      ],
+      "questions": [
+        {
+          "question": "超市里有什么？",
+          "options": [
+            "衣服",
+            "水果",
+            "书",
+            "车"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '里面有很多水果' (Bên trong có rất nhiều trái cây)."
+        },
+        {
+          "question": "苹果多少钱？",
+          "options": [
+            "一块",
+            "两块",
+            "三块",
+            "四块"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '苹果三块钱一斤' (Táo ba đồng một cân)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_07",
+      "level": 1,
+      "title": "Ở thư viện",
+      "passage": "我在图书馆看书。这里很安静。我喜欢看中文书。书很好看。",
+      "pinyin": "Wǒ zài túshūguǎn kàn shū. Zhèlǐ hěn ānjìng. Wǒ xǐhuān kàn Zhōngwén shū. Shū hěn hǎokàn.",
+      "translation": "Tôi đang đọc sách ở thư viện. Ở đây rất yên tĩnh. Tôi thích đọc sách tiếng Trung. Sách rất hay.",
+      "vocabulary": [
+        {
+          "hanzi": "图书馆",
+          "pinyin": "túshūguǎn",
+          "meaning": "thư viện"
+        },
+        {
+          "hanzi": "看书",
+          "pinyin": "kàn shū",
+          "meaning": "đọc sách"
+        },
+        {
+          "hanzi": "安静",
+          "pinyin": "ānjìng",
+          "meaning": "yên tĩnh"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我在哪里看书？",
+          "options": [
+            "学校",
+            "家里",
+            "图书馆",
+            "公园"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '我在图书馆看书' (Tôi đang đọc sách ở thư viện)."
+        },
+        {
+          "question": "我喜欢看什么书？",
+          "options": [
+            "英文书",
+            "中文书",
+            "日文书",
+            "法文书"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '我喜欢看中文书' (Tôi thích đọc sách tiếng Trung)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_08",
+      "level": 1,
+      "title": "Nuôi mèo",
+      "passage": "我有一只小猫。它是白色的。它很可爱。我每天给它吃鱼。",
+      "pinyin": "Wǒ yǒu yī zhī xiǎomāo. Tā shì báisè de. Tā hěn kě'ài. Wǒ měitiān gěi tā chī yú.",
+      "translation": "Tôi có một con mèo nhỏ. Nó màu trắng. Nó rất đáng yêu. Mỗi ngày tôi cho nó ăn cá.",
+      "vocabulary": [
+        {
+          "hanzi": "小猫",
+          "pinyin": "xiǎomāo",
+          "meaning": "mèo nhỏ"
+        },
+        {
+          "hanzi": "白色",
+          "pinyin": "báisè",
+          "meaning": "màu trắng"
+        },
+        {
+          "hanzi": "可爱",
+          "pinyin": "kě'ài",
+          "meaning": "đáng yêu"
+        }
+      ],
+      "questions": [
+        {
+          "question": "小猫是什么颜色的？",
+          "options": [
+            "黑色",
+            "白色",
+            "红色",
+            "黄色"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '它是白色的' (Nó màu trắng)."
+        },
+        {
+          "question": "我每天给它吃什么？",
+          "options": [
+            "肉",
+            "米饭",
+            "鱼",
+            "面包"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '我每天给它吃鱼' (Mỗi ngày tôi cho nó ăn cá)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_09",
+      "level": 1,
+      "title": "Mùa yêu thích",
+      "passage": "我最喜欢秋天。秋天不冷也不热。天气很舒服。我们可以去爬山。",
+      "pinyin": "Wǒ zuì xǐhuān qiūtiān. Qiūtiān bù lěng yě bù rè. Tiānqì hěn shūfu. Wǒmen kěyǐ qù páshān.",
+      "translation": "Tôi thích nhất là mùa thu. Mùa thu không lạnh cũng không nóng. Thời tiết rất dễ chịu. Chúng tôi có thể đi leo núi.",
+      "vocabulary": [
+        {
+          "hanzi": "秋天",
+          "pinyin": "qiūtiān",
+          "meaning": "mùa thu"
+        },
+        {
+          "hanzi": "舒服",
+          "pinyin": "shūfu",
+          "meaning": "dễ chịu"
+        },
+        {
+          "hanzi": "爬山",
+          "pinyin": "páshān",
+          "meaning": "leo núi"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我最喜欢什么季节？",
+          "options": [
+            "春天",
+            "夏天",
+            "秋天",
+            "冬天"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '我最喜欢秋天' (Tôi thích nhất là mùa thu)."
+        },
+        {
+          "question": "秋天的天气怎么样？",
+          "options": [
+            "很冷",
+            "很热",
+            "很舒服",
+            "下雨"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '天气很舒服' (Thời tiết rất dễ chịu)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_10",
+      "level": 1,
+      "title": "Gọi điện cho mẹ",
+      "passage": "现在是晚上八点。我给妈妈打电话。我们聊了很久。我很想她。",
+      "pinyin": "Xiànzài shì wǎnshàng bā diǎn. Wǒ gěi māma dǎ diànhuà. Wǒmen liáo le hěnjiǔ. Wǒ hěn xiǎng tā.",
+      "translation": "Bây giờ là tám giờ tối. Tôi gọi điện cho mẹ. Chúng tôi trò chuyện rất lâu. Tôi rất nhớ bà ấy.",
+      "vocabulary": [
+        {
+          "hanzi": "晚上",
+          "pinyin": "wǎnshàng",
+          "meaning": "buổi tối"
+        },
+        {
+          "hanzi": "打电话",
+          "pinyin": "dǎ diànhuà",
+          "meaning": "gọi điện thoại"
+        },
+        {
+          "hanzi": "想",
+          "pinyin": "xiǎng",
+          "meaning": "nhớ"
+        }
+      ],
+      "questions": [
+        {
+          "question": "现在几点了？",
+          "options": [
+            "七点",
+            "八点",
+            "九点",
+            "十点"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '现在是晚上八点' (Bây giờ là tám giờ tối)."
+        },
+        {
+          "question": "我给谁打电话？",
+          "options": [
+            "爸爸",
+            "朋友",
+            "老师",
+            "妈妈"
+          ],
+          "answer": 3,
+          "explanation": "Bài đọc ghi '我给妈妈打电话' (Tôi gọi điện cho mẹ)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_11",
+      "level": 1,
+      "title": "Lớp tiếng Trung",
+      "passage": "汉语课很有意思。老师教我们写汉字。我写得不太好。我要多练习。",
+      "pinyin": "Hànyǔ kè hěn yǒu yìsi. Lǎoshī jiāo wǒmen xiě Hànzì. Wǒ xiě de bù tài hǎo. Wǒ yào duō liànxí.",
+      "translation": "Lớp tiếng Trung rất thú vị. Thầy cô dạy chúng tôi viết chữ Hán. Tôi viết không tốt lắm. Tôi cần luyện tập nhiều hơn.",
+      "vocabulary": [
+        {
+          "hanzi": "汉语课",
+          "pinyin": "Hànyǔ kè",
+          "meaning": "lớp tiếng Trung"
+        },
+        {
+          "hanzi": "汉字",
+          "pinyin": "Hànzì",
+          "meaning": "chữ Hán"
+        },
+        {
+          "hanzi": "练习",
+          "pinyin": "liànxí",
+          "meaning": "luyện tập"
+        }
+      ],
+      "questions": [
+        {
+          "question": "老师教什么？",
+          "options": [
+            "画画",
+            "写汉字",
+            "唱歌",
+            "跳舞"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '老师教我们写汉字' (Thầy cô dạy chúng tôi viết chữ Hán)."
+        },
+        {
+          "question": "我应该怎么做？",
+          "options": [
+            "多练习",
+            "多睡觉",
+            "多吃饭",
+            "多看书"
+          ],
+          "answer": 0,
+          "explanation": "Bài đọc ghi '我要多练习' (Tôi cần luyện tập nhiều hơn)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_12",
+      "level": 1,
+      "title": "Đi xe buýt",
+      "passage": "我坐公共汽车去公司。车上人很多。我没有座位。我站着。",
+      "pinyin": "Wǒ zuò gōnggòng qìchē qù gōngsī. Chē shàng rén hěnduō. Wǒ méiyǒu zuòwèi. Wǒ zhànzhe.",
+      "translation": "Tôi đi xe buýt đến công ty. Trên xe rất đông người. Tôi không có chỗ ngồi. Tôi đứng.",
+      "vocabulary": [
+        {
+          "hanzi": "公共汽车",
+          "pinyin": "gōnggòng qìchē",
+          "meaning": "xe buýt"
+        },
+        {
+          "hanzi": "公司",
+          "pinyin": "gōngsī",
+          "meaning": "công ty"
+        },
+        {
+          "hanzi": "座位",
+          "pinyin": "zuòwèi",
+          "meaning": "chỗ ngồi"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我坐什么去公司？",
+          "options": [
+            "出租车",
+            "地铁",
+            "公共汽车",
+            "自行车"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '我坐公共汽车去公司' (Tôi đi xe buýt đến công ty)."
+        },
+        {
+          "question": "我为什么站着？",
+          "options": [
+            "因为人多",
+            "因为没有座位",
+            "因为喜欢",
+            "因为累了"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '我没有座位' (Tôi không có chỗ ngồi)."
+        }
+      ]
+    },
+    {
+      "id": "lesson_13",
+      "level": 1,
+      "title": "Buổi tối ở nhà",
+      "passage": "晚上我在家看电视。电视节目很好看。十点我睡觉。明天还要工作。",
+      "pinyin": "Wǎnshàng wǒ zài jiā kàn diànshì. Diànshì jiémù hěn hǎokàn. Shí diǎn wǒ shuìjiào. Míngtiān hái yào gōngzuò.",
+      "translation": "Buổi tối tôi ở nhà xem tivi. Chương trình tivi rất hay. Mười giờ tôi đi ngủ. Ngày mai còn phải làm việc.",
+      "vocabulary": [
+        {
+          "hanzi": "电视",
+          "pinyin": "diànshì",
+          "meaning": "tivi"
+        },
+        {
+          "hanzi": "睡觉",
+          "pinyin": "shuìjiào",
+          "meaning": "đi ngủ"
+        },
+        {
+          "hanzi": "工作",
+          "pinyin": "gōngzuò",
+          "meaning": "làm việc"
+        }
+      ],
+      "questions": [
+        {
+          "question": "我晚上做什么？",
+          "options": [
+            "看书",
+            "看电视",
+            "听音乐",
+            "做饭"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc ghi '晚上我在家看电视' (Buổi tối tôi ở nhà xem tivi)."
+        },
+        {
+          "question": "我几点睡觉？",
+          "options": [
+            "八点",
+            "九点",
+            "十点",
+            "十一点"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc ghi '十点我睡觉' (Mười giờ tôi đi ngủ)."
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "hsk1_01",
+      "level": 1,
+      "title": "Chào buổi sáng",
+      "place": "Nhà",
+      "goal": "Chào hỏi buổi sáng",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "早上好！",
+          "pinyin": "Zǎoshang hǎo!",
+          "vi": "Chào buổi sáng!"
+        },
+        {
+          "speaker": "B",
+          "zh": "早上好！你身体好吗？",
+          "pinyin": "Zǎoshang hǎo! Nǐ shēntǐ hǎo ma?",
+          "vi": "Chào buổi sáng! Bạn khỏe không?"
+        },
+        {
+          "speaker": "A",
+          "zh": "我很好，谢谢。",
+          "pinyin": "Wǒ hěn hǎo, xièxie.",
+          "vi": "Tôi rất khỏe, cảm ơn."
+        }
+      ],
+      "challenge": {
+        "prompt": "Câu nào dùng để chào buổi sáng?",
+        "options": [
+          "早上好",
+          "再见",
+          "谢谢",
+          "不客气"
+        ],
+        "answer": 0,
+        "explanation": "早上好 nghĩa là chào buổi sáng."
+      }
+    },
+    {
+      "id": "hsk1_02",
+      "level": 1,
+      "title": "Trong lớp học",
+      "place": "Lớp học",
+      "goal": "Hỏi về giáo viên",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "他是谁？",
+          "pinyin": "Tā shì shéi?",
+          "vi": "Ông ấy là ai?"
+        },
+        {
+          "speaker": "B",
+          "zh": "他是我们的老师。",
+          "pinyin": "Tā shì wǒmen de lǎoshī.",
+          "vi": "Ông ấy là giáo viên của chúng tôi."
+        },
+        {
+          "speaker": "A",
+          "zh": "老师好！",
+          "pinyin": "Lǎoshī hǎo!",
+          "vi": "Chào thầy giáo!"
+        }
+      ],
+      "challenge": {
+        "prompt": "Từ nào nghĩa là giáo viên?",
+        "options": [
+          "学生",
+          "老师",
+          "医生",
+          "朋友"
+        ],
+        "answer": 1,
+        "explanation": "老师 (lǎoshī) nghĩa là giáo viên."
+      }
+    },
+    {
+      "id": "hsk1_03",
+      "level": 1,
+      "title": "Hỏi giờ",
+      "place": "Trên đường",
+      "goal": "Hỏi và trả lời về thời gian",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "现在几点？",
+          "pinyin": "Xiànzài jǐ diǎn?",
+          "vi": "Bây giờ là mấy giờ?"
+        },
+        {
+          "speaker": "B",
+          "zh": "现在八点。",
+          "pinyin": "Xiànzài bā diǎn.",
+          "vi": "Bây giờ là tám giờ."
+        },
+        {
+          "speaker": "A",
+          "zh": "谢谢你。",
+          "pinyin": "Xièxie nǐ.",
+          "vi": "Cảm ơn bạn."
+        }
+      ],
+      "challenge": {
+        "prompt": "Câu hỏi giờ là gì?",
+        "options": [
+          "现在几点？",
+          "这是什么？",
+          "你在哪？",
+          "他是谁？"
+        ],
+        "answer": 0,
+        "explanation": "现在几点 dùng để hỏi giờ."
+      }
+    },
+    {
+      "id": "hsk1_04",
+      "level": 1,
+      "title": "Mời đi ăn",
+      "place": "Nhà hàng",
+      "goal": "Mời ai đó ăn cơm",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你想吃饭吗？",
+          "pinyin": "Nǐ xiǎng chīfàn ma?",
+          "vi": "Bạn có muốn ăn cơm không?"
+        },
+        {
+          "speaker": "B",
+          "zh": "我想吃米饭。",
+          "pinyin": "Wǒ xiǎng chī mǐfàn.",
+          "vi": "Tôi muốn ăn cơm trắng."
+        },
+        {
+          "speaker": "A",
+          "zh": "好，我们走吧。",
+          "pinyin": "Hǎo, wǒmen zǒu ba.",
+          "vi": "Được, chúng ta đi thôi."
+        }
+      ],
+      "challenge": {
+        "prompt": "Từ nào nghĩa là cơm/ăn cơm?",
+        "options": [
+          "睡觉",
+          "吃饭",
+          "看书",
+          "喝水"
+        ],
+        "answer": 1,
+        "explanation": "吃饭 (chīfàn) nghĩa là ăn cơm."
+      }
+    },
+    {
+      "id": "hsk1_05",
+      "level": 1,
+      "title": "Mua hoa quả",
+      "place": "Chợ",
+      "goal": "Hỏi giá hoa quả",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "苹果多少钱？",
+          "pinyin": "Píngguǒ duōshǎo qián?",
+          "vi": "Táo bao nhiêu tiền?"
+        },
+        {
+          "speaker": "B",
+          "zh": "五块钱。",
+          "pinyin": "Wǔ kuài qián.",
+          "vi": "Năm tệ."
+        },
+        {
+          "speaker": "A",
+          "zh": "太贵了。",
+          "pinyin": "Tài guì le.",
+          "vi": "Đắt quá."
+        }
+      ],
+      "challenge": {
+        "prompt": "Từ nào nghĩa là táo?",
+        "options": [
+          "香蕉",
+          "苹果",
+          "西瓜",
+          "橘子"
+        ],
+        "answer": 1,
+        "explanation": "苹果 (píngguǒ) là quả táo."
+      }
+    },
+    {
+      "id": "hsk1_06",
+      "level": 1,
+      "title": "Gọi điện",
+      "place": "Nhà",
+      "goal": "Hỏi người nghe là ai",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "喂，你在家吗？",
+          "pinyin": "Wéi, nǐ zài jiā ma?",
+          "vi": "Alo, bạn có ở nhà không?"
+        },
+        {
+          "speaker": "B",
+          "zh": "我在家。你是谁？",
+          "pinyin": "Wǒ zài jiā. Nǐ shì shéi?",
+          "vi": "Tôi ở nhà. Bạn là ai?"
+        },
+        {
+          "speaker": "A",
+          "zh": "我是小王。",
+          "pinyin": "Wǒ shì Xiǎo Wáng.",
+          "vi": "Tôi là Tiểu Vương."
+        }
+      ],
+      "challenge": {
+        "prompt": "Từ nào nghĩa là nhà?",
+        "options": [
+          "学校",
+          "家",
+          "商店",
+          "医院"
+        ],
+        "answer": 1,
+        "explanation": "家 (jiā) nghĩa là nhà."
+      }
+    },
+    {
+      "id": "hsk1_07",
+      "level": 1,
+      "title": "Hỏi tuổi",
+      "place": "Công viên",
+      "goal": "Hỏi tuổi của một người",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "你几岁了？",
+          "pinyin": "Nǐ jǐ suì le?",
+          "vi": "Bạn bao nhiêu tuổi rồi?"
+        },
+        {
+          "speaker": "B",
+          "zh": "我六岁了。",
+          "pinyin": "Wǒ liù suì le.",
+          "vi": "Tôi sáu tuổi rồi."
+        },
+        {
+          "speaker": "A",
+          "zh": "你很可爱。",
+          "pinyin": "Nǐ hěn kě'ài.",
+          "vi": "Bạn rất đáng yêu."
+        }
+      ],
+      "challenge": {
+        "prompt": "Câu nào dùng để hỏi tuổi?",
+        "options": [
+          "你几岁？",
+          "你叫什么？",
+          "你在哪？",
+          "你做什么？"
+        ],
+        "answer": 0,
+        "explanation": "你几岁 (nǐ jǐ suì) dùng để hỏi tuổi."
+      }
+    },
+    {
+      "id": "hsk1_08",
+      "level": 1,
+      "title": "Nói về gia đình",
+      "place": "Nhà",
+      "goal": "Giới thiệu thành viên gia đình",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "这是你妈妈吗？",
+          "pinyin": "Zhè shì nǐ māma ma?",
+          "vi": "Đây là mẹ bạn phải không?"
+        },
+        {
+          "speaker": "B",
+          "zh": "对，这是我妈妈。",
+          "pinyin": "Duì, zhè shì wǒ māma.",
+          "vi": "Đúng, đây là mẹ tôi."
+        },
+        {
+          "speaker": "A",
+          "zh": "她很漂亮。",
+          "pinyin": "Tā hěn piàoliang.",
+          "vi": "Bà ấy rất đẹp."
+        }
+      ],
+      "challenge": {
+        "prompt": "Từ nào nghĩa là mẹ?",
+        "options": [
+          "爸爸",
+          "妈妈",
+          "哥哥",
+          "弟弟"
+        ],
+        "answer": 1,
+        "explanation": "妈妈 (māma) nghĩa là mẹ."
+      }
+    },
+    {
+      "id": "hsk1_09",
+      "level": 1,
+      "title": "Hẹn cuối tuần",
+      "place": "Điện thoại",
+      "goal": "Rủ bạn đi chơi cuối tuần",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "周末你想做什么？",
+          "pinyin": "Zhōumò nǐ xiǎng zuò shénme?",
+          "vi": "Cuối tuần bạn muốn làm gì?"
+        },
+        {
+          "speaker": "B",
+          "zh": "我想去看电影。",
+          "pinyin": "Wǒ xiǎng qù kàn diànyǐng.",
+          "vi": "Tôi muốn đi xem phim."
+        },
+        {
+          "speaker": "A",
+          "zh": "太好了！",
+          "pinyin": "Tài hǎo le!",
+          "vi": "Tuyệt quá!"
+        }
+      ],
+      "challenge": {
+        "prompt": "Từ nào nghĩa là cuối tuần?",
+        "options": [
+          "今天",
+          "明天",
+          "周末",
+          "昨天"
+        ],
+        "answer": 2,
+        "explanation": "周末 (zhōumò) nghĩa là cuối tuần."
+      }
+    },
+    {
+      "id": "hsk1_10",
+      "level": 1,
+      "title": "Đi taxi",
+      "place": "Trên đường",
+      "goal": "Nói về việc đi xe",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "我们要去哪儿？",
+          "pinyin": "Wǒmen yào qù nǎr?",
+          "vi": "Chúng ta muốn đi đâu?"
+        },
+        {
+          "speaker": "B",
+          "zh": "去火车站。",
+          "pinyin": "Qù huǒchēzhàn.",
+          "vi": "Đi nhà ga xe lửa."
+        },
+        {
+          "speaker": "A",
+          "zh": "好，坐出租车去。",
+          "pinyin": "Hǎo, zuò chūzūchē qù.",
+          "vi": "Được, đi bằng taxi."
+        }
+      ],
+      "challenge": {
+        "prompt": "Từ nào nghĩa là taxi?",
+        "options": [
+          "火车",
+          "汽车",
+          "出租车",
+          "飞机"
+        ],
+        "answer": 2,
+        "explanation": "出租车 (chūzūchē) nghĩa là taxi."
+      }
+    },
+    {
+      "id": "hsk1_11",
+      "level": 1,
+      "title": "Tại khách sạn",
+      "place": "Khách sạn",
+      "goal": "Hỏi về số phòng",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "这是我的房间吗？",
+          "pinyin": "Zhè shì wǒ de fángjiān ma?",
+          "vi": "Đây là phòng của tôi phải không?"
+        },
+        {
+          "speaker": "B",
+          "zh": "对，是三零二号。",
+          "pinyin": "Duì, shì sān líng èr hào.",
+          "vi": "Đúng, là phòng 302."
+        },
+        {
+          "speaker": "A",
+          "zh": "谢谢。",
+          "pinyin": "Xièxie.",
+          "vi": "Cảm ơn."
+        }
+      ],
+      "challenge": {
+        "prompt": "Từ nào nghĩa là phòng?",
+        "options": [
+          "房间",
+          "学校",
+          "商店",
+          "医院"
+        ],
+        "answer": 0,
+        "explanation": "房间 (fángjiān) nghĩa là phòng."
+      }
+    },
+    {
+      "id": "hsk1_12",
+      "level": 1,
+      "title": "Hỏi thời tiết",
+      "place": "Ngoài trời",
+      "goal": "Hỏi về thời tiết hôm nay",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "今天天气怎么样？",
+          "pinyin": "Jīntiān tiānqì zěnmeyàng?",
+          "vi": "Thời tiết hôm nay thế nào?"
+        },
+        {
+          "speaker": "B",
+          "zh": "今天天气很好，很热。",
+          "pinyin": "Jīntiān tiānqì hěn hǎo, hěn rè.",
+          "vi": "Thời tiết hôm nay rất tốt, rất nóng."
+        },
+        {
+          "speaker": "A",
+          "zh": "我们去喝水吧。",
+          "pinyin": "Wǒmen qù hē shuǐ ba.",
+          "vi": "Chúng ta đi uống nước đi."
+        }
+      ],
+      "challenge": {
+        "prompt": "Từ nào nghĩa là thời tiết?",
+        "options": [
+          "天气",
+          "名字",
+          "衣服",
+          "水果"
+        ],
+        "answer": 0,
+        "explanation": "天气 (tiānqì) nghĩa là thời tiết."
+      }
+    },
+    {
+      "id": "hsk1_13",
+      "level": 1,
+      "title": "Tạm biệt bạn",
+      "place": "Trường học",
+      "goal": "Chào tạm biệt",
+      "lines": [
+        {
+          "speaker": "A",
+          "zh": "我要回家了。",
+          "pinyin": "Wǒ yào huí jiā le.",
+          "vi": "Tôi phải về nhà rồi."
+        },
+        {
+          "speaker": "B",
+          "zh": "再见！明天见。",
+          "pinyin": "Zàijiàn! Míngtiān jiàn.",
+          "vi": "Tạm biệt! Hẹn gặp lại ngày mai."
+        },
+        {
+          "speaker": "A",
+          "zh": "明天见。",
+          "pinyin": "Míngtiān jiàn.",
+          "vi": "Hẹn gặp lại ngày mai."
+        }
+      ],
+      "challenge": {
+        "prompt": "Câu nào dùng để chào tạm biệt?",
+        "options": [
+          "你好",
+          "再见",
+          "谢谢",
+          "对不起"
+        ],
+        "answer": 1,
+        "explanation": "再见 (zàijiàn) nghĩa là tạm biệt."
+      }
+    }
+  ],
+  "exams": [
+    {
+      "id": "hsk1-full-1",
+      "level": 1,
+      "title": "Đề HSK 1 số 1",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn phiên âm đúng cho từ: 我",
+          "options": [
+            "wǒ",
+            "nǐ",
+            "tā",
+            "tāmen"
+          ],
+          "answer": 0,
+          "explanation": "我 (wǒ) nghĩa là tôi."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn nghĩa đúng của từ: 老师",
+          "options": [
+            "Học sinh",
+            "Giáo viên",
+            "Bác sĩ",
+            "Bạn bè"
+          ],
+          "answer": 1,
+          "explanation": "老师 (lǎoshī) là giáo viên."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Điền từ thích hợp: 你好，你叫什么_____?",
+          "options": [
+            "学校",
+            "医生",
+            "名字",
+            "中国"
+          ],
+          "answer": 2,
+          "explanation": "名字 (míngzi) nghĩa là tên."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ trái nghĩa với: 大",
+          "options": [
+            "多",
+            "好",
+            "高",
+            "小"
+          ],
+          "answer": 3,
+          "explanation": "大 (dà) là to, 小 (xiǎo) là nhỏ."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Số 5 trong tiếng Trung là gì?",
+          "options": [
+            "五",
+            "三",
+            "四",
+            "六"
+          ],
+          "answer": 0,
+          "explanation": "五 (wǔ) là số 5."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ chỉ thời gian:",
+          "options": [
+            "书",
+            "现在",
+            "杯子",
+            "猫"
+          ],
+          "answer": 1,
+          "explanation": "现在 (xiànzài) là bây giờ."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Từ nào sau đây chỉ người?",
+          "options": [
+            "桌子",
+            "椅子",
+            "同学",
+            "电脑"
+          ],
+          "answer": 2,
+          "explanation": "同学 (tóngxué) là bạn học."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ đúng cho hình ảnh một người đang ăn:",
+          "options": [
+            "喝",
+            "看",
+            "听",
+            "吃"
+          ],
+          "answer": 3,
+          "explanation": "吃 (chī) là ăn."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Từ nào dùng để hỏi về số lượng?",
+          "options": [
+            "几",
+            "什么",
+            "吗",
+            "呢"
+          ],
+          "answer": 0,
+          "explanation": "几 (jǐ) dùng để hỏi số lượng nhỏ."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ đúng: 今天是星期_____。",
+          "options": [
+            "点",
+            "一",
+            "岁",
+            "个"
+          ],
+          "answer": 1,
+          "explanation": "星期一 (xīngqī yī) là thứ Hai."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn trật tự câu đúng:",
+          "options": [
+            "吃饭我。",
+            "吃我饭。",
+            "我吃饭。",
+            "饭我吃。"
+          ],
+          "answer": 2,
+          "explanation": "Câu tiếng Trung theo cấu trúc S-V-O."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Điền từ vào chỗ trống: 他_____医生。",
+          "options": [
+            "在",
+            "有",
+            "去",
+            "是"
+          ],
+          "answer": 3,
+          "explanation": "Là (shì) dùng để nối danh từ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu phủ định đúng:",
+          "options": [
+            "我不是学生。",
+            "我不学生。",
+            "我是没学生。",
+            "我学生不是。"
+          ],
+          "answer": 0,
+          "explanation": "Phủ định câu vị ngữ 是 đặt 不 ngay trước 是: 我不是学生。"
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu hỏi đúng:",
+          "options": [
+            "你吃饭呢？",
+            "你吃饭吗？",
+            "你吃饭什么？",
+            "你吃饭几？"
+          ],
+          "answer": 1,
+          "explanation": "吗 dùng cuối câu hỏi Có/Không."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Điền từ: 我_____学校学习。",
+          "options": [
+            "是",
+            "有",
+            "在",
+            "看"
+          ],
+          "answer": 2,
+          "explanation": "在 (zài) chỉ địa điểm hành động."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "我三本有书。",
+            "我有书三本。",
+            "书我有三本。",
+            "我有三本书。"
+          ],
+          "answer": 3,
+          "explanation": "Số từ + lượng từ + danh từ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Điền từ: 这_____我的书。",
+          "options": [
+            "是",
+            "个",
+            "的",
+            "在"
+          ],
+          "answer": 0,
+          "explanation": "Đây là sách của tôi."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "他哪儿去？",
+            "他去哪儿？",
+            "去他哪儿？",
+            "哪儿他去？"
+          ],
+          "answer": 1,
+          "explanation": "哪儿 (nǎr) hỏi về nơi chốn."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Điền từ: 我_____喝茶。",
+          "options": [
+            "个",
+            "吗",
+            "想",
+            "的"
+          ],
+          "answer": 2,
+          "explanation": "想 (xiǎng) là muốn."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "几点现在？",
+            "点几现在？",
+            "现在点几？",
+            "现在几点？"
+          ],
+          "answer": 3,
+          "explanation": "Hỏi giờ dùng 几点."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "A: 你好！ B: 你好！ A: 你叫什么名字？ B: 我叫李明。",
+          "prompt": "B tên là gì?",
+          "options": [
+            "李明",
+            "王明",
+            "张明",
+            "李华"
+          ],
+          "answer": 0,
+          "explanation": "Trong bài đọc B nói: 我叫李明。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "今天星期六，我不去学校。我在家看书。",
+          "prompt": "Hôm nay là thứ mấy?",
+          "options": [
+            "星期五",
+            "星期六",
+            "星期日",
+            "星期一"
+          ],
+          "answer": 1,
+          "explanation": "Câu đầu tiên nói: 今天星期六。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "桌子上有三个杯子。一个是我的，两个是老师的。",
+          "prompt": "Có bao nhiêu cái cốc trên bàn?",
+          "options": [
+            "一个",
+            "两个",
+            "三个",
+            "四个"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc nói: 桌子上有三个杯子。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "我有一个好朋友，他是中国人。他会说汉语。",
+          "prompt": "Bạn của tôi là người nước nào?",
+          "options": [
+            "越南人",
+            "美国人",
+            "日本人",
+            "中国人"
+          ],
+          "answer": 3,
+          "explanation": "Bài đọc nói: 他是中国人。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "现在是十点。我喝一杯茶。",
+          "prompt": "Bây giờ là mấy giờ?",
+          "options": [
+            "十点",
+            "九点",
+            "十一点",
+            "十二点"
+          ],
+          "answer": 0,
+          "explanation": "Bài đọc nói: 现在是十点。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "小猫在椅子下面。它很可爱。",
+          "prompt": "Con mèo ở đâu?",
+          "options": [
+            "椅子上面",
+            "椅子下面",
+            "桌子上面",
+            "桌子下面"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc nói: 小猫在椅子下面。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "我爱吃米饭，不爱吃面条。",
+          "prompt": "Tôi thích ăn gì?",
+          "options": [
+            "面条",
+            "水果",
+            "米饭",
+            "面包"
+          ],
+          "answer": 2,
+          "explanation": "Bài đọc nói: 我爱吃米饭。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "明天天气很好，我们去公园吧。",
+          "prompt": "Ngày mai thời tiết thế nào?",
+          "options": [
+            "不好",
+            "下雨",
+            "很冷",
+            "很好"
+          ],
+          "answer": 3,
+          "explanation": "Bài đọc nói: 明天天气很好。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "这是我的家。我家有四口人。",
+          "prompt": "Nhà tôi có mấy người?",
+          "options": [
+            "四口",
+            "三口",
+            "五口",
+            "六口"
+          ],
+          "answer": 0,
+          "explanation": "Bài đọc nói: 我家有四口人。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "他去商店买衣服。衣服很漂亮。",
+          "prompt": "Anh ấy đi đâu?",
+          "options": [
+            "学校",
+            "商店",
+            "医院",
+            "饭店"
+          ],
+          "answer": 1,
+          "explanation": "Bài đọc nói: 他去商店。"
+        }
+      ]
+    },
+    {
+      "id": "hsk1-full-2",
+      "level": 1,
+      "title": "Đề HSK 1 số 2",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ tương ứng với hình ảnh: 我喜欢喝 ( )。",
+          "options": [
+            "茶",
+            "米饭",
+            "猫",
+            "老师"
+          ],
+          "answer": 0,
+          "explanation": "茶 (trà) là đồ uống, phù hợp với động từ 喝 (uống)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 他是我的 ( )。",
+          "options": [
+            "看",
+            "同学",
+            "去",
+            "吃"
+          ],
+          "answer": 1,
+          "explanation": "同学 (bạn học) là danh từ chỉ người, phù hợp với cấu trúc là ai đó."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ đúng: 爸爸在 ( ) 电视。",
+          "options": [
+            "听",
+            "说",
+            "看",
+            "读"
+          ],
+          "answer": 2,
+          "explanation": "Xem tivi dùng động từ 看 (kàn)."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ chỉ số lượng: 我有 ( ) 个苹果。",
+          "options": [
+            "哪",
+            "谁",
+            "什么",
+            "三"
+          ],
+          "answer": 3,
+          "explanation": "三 (ba) là số từ dùng để chỉ số lượng."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ chỉ thời gian: 今天是 ( ) 月五号。",
+          "options": [
+            "九",
+            "几",
+            "点",
+            "岁"
+          ],
+          "answer": 0,
+          "explanation": "九 (chín) dùng để chỉ tháng."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ phù hợp: 妈妈在 ( ) 饭。",
+          "options": [
+            "喝",
+            "做",
+            "去",
+            "来"
+          ],
+          "answer": 1,
+          "explanation": "做饭 (nấu cơm) là cụm từ cố định."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ chỉ vị trí: 书在桌子 ( ) 面。",
+          "options": [
+            "不",
+            "个",
+            "上",
+            "大"
+          ],
+          "answer": 2,
+          "explanation": "桌子上 (trên bàn) là vị trí."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thay thế cho 'tốt': 这个菜很 ( )。",
+          "options": [
+            "多",
+            "小",
+            "冷",
+            "好"
+          ],
+          "answer": 3,
+          "explanation": "好 (hảo) nghĩa là tốt/ngon."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ chỉ người: ( ) 是你的老师？",
+          "options": [
+            "谁",
+            "哪",
+            "什么",
+            "怎么"
+          ],
+          "answer": 0,
+          "explanation": "谁 (ai) dùng để hỏi về người."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ chỉ trạng thái: 今天天气很 ( )。",
+          "options": [
+            "喝",
+            "热",
+            "看",
+            "听"
+          ],
+          "answer": 1,
+          "explanation": "热 (nóng) dùng để miêu tả thời tiết."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Sắp xếp câu: 我 / 汉语 / 说 / 会。",
+          "options": [
+            "我会汉语说。",
+            "汉语我会说。",
+            "我会说汉语。",
+            "我说汉语会。"
+          ],
+          "answer": 2,
+          "explanation": "Cấu trúc: Chủ ngữ + động từ năng nguyện + động từ + tân ngữ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn từ nghi vấn: 你叫 ( ) 名字？",
+          "options": [
+            "谁",
+            "哪",
+            "几",
+            "什么"
+          ],
+          "answer": 3,
+          "explanation": "什么 (cái gì) dùng để hỏi tên."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn từ phủ định: 我 ( ) 去学校。",
+          "options": [
+            "不",
+            "没",
+            "不是",
+            "不看"
+          ],
+          "answer": 0,
+          "explanation": "不 dùng để phủ định hành động ở hiện tại/tương lai."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn từ chỉ sở hữu: 这是 ( ) 妈妈。",
+          "options": [
+            "我",
+            "我的",
+            "我个",
+            "我人"
+          ],
+          "answer": 1,
+          "explanation": "Cần thêm 的 để chỉ quan hệ sở hữu."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn từ chỉ số lượng: 我有 ( ) 个好朋友。",
+          "options": [
+            "一点",
+            "一些",
+            "一",
+            "一岁"
+          ],
+          "answer": 2,
+          "explanation": "一 (một) đi với lượng từ 个."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn từ hỏi: 你 ( ) 岁了？",
+          "options": [
+            "什么",
+            "谁",
+            "哪",
+            "几"
+          ],
+          "answer": 3,
+          "explanation": "几 dùng để hỏi số lượng nhỏ (tuổi)."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn từ chỉ thời gian: 我 ( ) 点去商店。",
+          "options": [
+            "几",
+            "什么",
+            "谁",
+            "哪"
+          ],
+          "answer": 0,
+          "explanation": "几点 (mấy giờ) là cụm từ hỏi thời gian."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn từ nối: 我爱爸爸 ( ) 妈妈。",
+          "options": [
+            "个",
+            "和",
+            "吗",
+            "呢"
+          ],
+          "answer": 1,
+          "explanation": "和 (và) dùng để nối hai danh từ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn từ hỏi: 你家有 ( ) 口人？",
+          "options": [
+            "什么",
+            "谁",
+            "几",
+            "哪"
+          ],
+          "answer": 2,
+          "explanation": "几 dùng để hỏi số lượng người trong gia đình."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn từ kết thúc câu: 你吃饭了 ( )？",
+          "options": [
+            "呢",
+            "个",
+            "不",
+            "吗"
+          ],
+          "answer": 3,
+          "explanation": "吗 dùng cuối câu hỏi nghi vấn."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "A: 你好！ B: 你好！ A: 你叫什么名字？ B: 我叫王小明。",
+          "prompt": "B 叫什么名字？",
+          "options": [
+            "王小明",
+            "你好",
+            "老师",
+            "学生"
+          ],
+          "answer": 0,
+          "explanation": "Dựa vào câu trả lời của B."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "今天星期五，天气很好。我不去学校，我在家看书。",
+          "prompt": "今天星期几？",
+          "options": [
+            "星期六",
+            "星期五",
+            "星期天",
+            "星期一"
+          ],
+          "answer": 1,
+          "explanation": "Thông tin có trong câu đầu tiên."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "我有一个猫，它很小，也很可爱。我喜欢它。",
+          "prompt": "猫怎么样？",
+          "options": [
+            "很大",
+            "不看",
+            "很小",
+            "不喝"
+          ],
+          "answer": 2,
+          "explanation": "Câu văn miêu tả nó rất nhỏ."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "桌子上有三个苹果，两个是红的，一个是绿的。",
+          "prompt": "有几个苹果？",
+          "options": [
+            "两个",
+            "一个",
+            "四个",
+            "三个"
+          ],
+          "answer": 3,
+          "explanation": "Tổng cộng là 3 quả."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "我爸爸是医生，他在医院工作。妈妈是老师，她在学校工作。",
+          "prompt": "爸爸在哪里工作？",
+          "options": [
+            "医院",
+            "学校",
+            "家里",
+            "商店"
+          ],
+          "answer": 0,
+          "explanation": "爸爸在医院工作。"
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "现在是十点，我睡觉了。晚安！",
+          "prompt": "现在几点了？",
+          "options": [
+            "九点",
+            "十点",
+            "八点",
+            "十一点"
+          ],
+          "answer": 1,
+          "explanation": "Câu văn nói rõ là 10 giờ."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "这是我的学校，学校很大，有很多学生。",
+          "prompt": "学校怎么样？",
+          "options": [
+            "很小",
+            "很冷",
+            "很大",
+            "很热"
+          ],
+          "answer": 2,
+          "explanation": "Câu văn nói trường rất lớn."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "我想喝水，我不喝茶。",
+          "prompt": "他想喝什么？",
+          "options": [
+            "茶",
+            "米饭",
+            "苹果",
+            "水"
+          ],
+          "answer": 3,
+          "explanation": "Anh ấy muốn uống nước."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "明天是星期六，我们去商店买东西。",
+          "prompt": "明天去哪里？",
+          "options": [
+            "商店",
+            "学校",
+            "医院",
+            "家"
+          ],
+          "answer": 0,
+          "explanation": "Đi đến cửa hàng (商店)."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "我爱我的家，家里有爸爸、妈妈和我。",
+          "prompt": "家里有几个人？",
+          "options": [
+            "两个人",
+            "三个人",
+            "四个人",
+            "五个人"
+          ],
+          "answer": 1,
+          "explanation": "Liệt kê có 3 người."
+        }
+      ]
+    },
+    {
+      "id": "hsk1-full-3",
+      "level": 1,
+      "title": "Đề HSK 1 số 3",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ thích hợp điền vào chỗ trống: 我去学校____书。",
+          "options": [
+            "看",
+            "听",
+            "喝",
+            "吃"
+          ],
+          "answer": 0,
+          "explanation": "看书 là cụm từ cố định nghĩa là đọc sách."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ trái nghĩa với '大' (lớn):",
+          "options": [
+            "多",
+            "小",
+            "好",
+            "高"
+          ],
+          "answer": 1,
+          "explanation": "小 nghĩa là nhỏ, trái nghĩa với 大."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Từ nào sau đây chỉ người?",
+          "options": [
+            "椅子",
+            "电脑",
+            "医生",
+            "衣服"
+          ],
+          "answer": 2,
+          "explanation": "医生 là bác sĩ, là danh từ chỉ người."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ đúng để hoàn thành câu: 今天是星期____。",
+          "options": [
+            "点",
+            "岁",
+            "个",
+            "三"
+          ],
+          "answer": 3,
+          "explanation": "星期三 là thứ Tư, các từ còn lại không dùng để chỉ thứ."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ chỉ thời gian:",
+          "options": [
+            "现在",
+            "桌子",
+            "猫",
+            "杯子"
+          ],
+          "answer": 0,
+          "explanation": "现在 nghĩa là bây giờ, là danh từ chỉ thời gian."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Điền từ thích hợp: 我____汉语。",
+          "options": [
+            "喝",
+            "会",
+            "去",
+            "看"
+          ],
+          "answer": 1,
+          "explanation": "会汉语 nghĩa là biết tiếng Trung."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ đúng: 爸爸有三____书。",
+          "options": [
+            "个",
+            "岁",
+            "本",
+            "点"
+          ],
+          "answer": 2,
+          "explanation": "本 là lượng từ dùng cho sách."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ chỉ số lượng:",
+          "options": [
+            "这",
+            "那",
+            "不",
+            "五"
+          ],
+          "answer": 3,
+          "explanation": "五 là số năm, là từ chỉ số lượng."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ đúng: 我____去商店买东西。",
+          "options": [
+            "想",
+            "多",
+            "大",
+            "好"
+          ],
+          "answer": 0,
+          "explanation": "想 là muốn, dùng để diễn đạt ý định."
+        },
+        {
+          "section": "Từ vựng",
+          "prompt": "Chọn từ chỉ địa điểm:",
+          "options": [
+            "老师",
+            "学校",
+            "同学",
+            "朋友"
+          ],
+          "answer": 1,
+          "explanation": "学校 là trường học, là danh từ chỉ địa điểm."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "我喝水不。",
+            "水我不喝。",
+            "我不喝水。",
+            "喝我不水。"
+          ],
+          "answer": 2,
+          "explanation": "Phó từ phủ định 不 đứng trước động từ 喝."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu hỏi đúng:",
+          "options": [
+            "什么你叫名字？",
+            "名字你叫什么？",
+            "你名字叫什么？",
+            "你叫什么名字？"
+          ],
+          "answer": 3,
+          "explanation": "Cấu trúc câu hỏi với 什么 thường đặt sau động từ hoặc làm tân ngữ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "他家有几个人？",
+            "他家有个人几？",
+            "几个人他家有？",
+            "有几个人他家？"
+          ],
+          "answer": 0,
+          "explanation": "Câu hỏi với 几 (mấy) đặt ở vị trí tân ngữ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "这我的书是。",
+            "这是我的书。",
+            "书我的这是。",
+            "是我的书这。"
+          ],
+          "answer": 1,
+          "explanation": "Cấu trúc câu khẳng định: Chủ ngữ + 是 + Tân ngữ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "你吃饭呢？",
+            "你吃饭了？",
+            "你吃饭吗？",
+            "你吃饭吧？"
+          ],
+          "answer": 2,
+          "explanation": "吗 dùng cuối câu để tạo câu hỏi nghi vấn."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "他家在吗？",
+            "在他在家？",
+            "家他在吗？",
+            "他在家吗？"
+          ],
+          "answer": 3,
+          "explanation": "Cấu trúc câu với động từ 在 (ở) là: Chủ ngữ + 在 + Địa điểm."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "我妈妈爱我。",
+            "我爱我的妈妈。",
+            "妈妈我爱我。",
+            "我爱妈妈我的。"
+          ],
+          "answer": 0,
+          "explanation": "Câu diễn đạt tình cảm: Chủ ngữ + Động từ + Tân ngữ."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "几点现在？",
+            "现在几点？",
+            "点几现在？",
+            "现在点几？"
+          ],
+          "answer": 1,
+          "explanation": "Hỏi giờ: Thời gian + 几点."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "他不老师是。",
+            "他老师不是。",
+            "他不是老师。",
+            "不是他老师。"
+          ],
+          "answer": 2,
+          "explanation": "Phủ định của 是 là 不是."
+        },
+        {
+          "section": "Ngữ pháp",
+          "prompt": "Chọn câu đúng:",
+          "options": [
+            "天气今天很好。",
+            "很好今天天气。",
+            "天气很好今天。",
+            "今天天气很好。"
+          ],
+          "answer": 3,
+          "explanation": "Trạng ngữ chỉ thời gian (今天) thường đứng đầu câu hoặc sau chủ ngữ."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "A: 你好！ B: 你好！你叫什么名字？ A: 我叫王明。",
+          "prompt": "王明叫什么名字？",
+          "options": [
+            "王明",
+            "你好",
+            "名字",
+            "王"
+          ],
+          "answer": 0,
+          "explanation": "Dựa vào câu '我叫王明' để trả lời."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "今天星期六，我不去学校。我在家看书。",
+          "prompt": "今天星期几？",
+          "options": [
+            "星期五",
+            "星期六",
+            "星期日",
+            "星期一"
+          ],
+          "answer": 1,
+          "explanation": "Câu đầu tiên ghi rõ '今天星期六'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "桌子上有三个杯子。杯子里有水。",
+          "prompt": "桌子上有几个杯子？",
+          "options": [
+            "一个",
+            "两个",
+            "三个",
+            "四个"
+          ],
+          "answer": 2,
+          "explanation": "Câu văn nói '桌子上有三个杯子'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "我有一个好朋友，他是医生。他很忙。",
+          "prompt": "他的朋友做什么工作？",
+          "options": [
+            "老师",
+            "学生",
+            "老板",
+            "医生"
+          ],
+          "answer": 3,
+          "explanation": "Câu văn nói '他是医生'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "现在是十点。我睡觉了。",
+          "prompt": "现在几点？",
+          "options": [
+            "十点",
+            "八点",
+            "九点",
+            "十一点"
+          ],
+          "answer": 0,
+          "explanation": "Câu văn nói '现在是十点'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "妈妈去商店买衣服。衣服很好看。",
+          "prompt": "妈妈去哪里？",
+          "options": [
+            "学校",
+            "商店",
+            "家",
+            "医院"
+          ],
+          "answer": 1,
+          "explanation": "Câu văn nói '妈妈去商店'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "我爱吃米饭，不爱吃面条。",
+          "prompt": "他爱吃什么？",
+          "options": [
+            "面条",
+            "水果",
+            "米饭",
+            "茶"
+          ],
+          "answer": 2,
+          "explanation": "Câu văn nói '我爱吃米饭'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "这只猫很小，它是白色的。",
+          "prompt": "猫是什么颜色的？",
+          "options": [
+            "黑色",
+            "红色",
+            "黄色",
+            "白色"
+          ],
+          "answer": 3,
+          "explanation": "Câu văn nói '它是白色的'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "老师在学校教汉语。我很喜欢老师。",
+          "prompt": "老师在哪里？",
+          "options": [
+            "学校",
+            "家",
+            "商店",
+            "饭店"
+          ],
+          "answer": 0,
+          "explanation": "Câu văn nói '老师在学校'."
+        },
+        {
+          "section": "Đọc hiểu",
+          "context": "爸爸有五本书，妈妈有两本书。",
+          "prompt": "谁的书多？",
+          "options": [
+            "妈妈",
+            "爸爸",
+            "我",
+            "老师"
+          ],
+          "answer": 1,
+          "explanation": "爸爸有5 bản, mẹ có 2 bản, nên bố nhiều hơn."
+        }
+      ]
+    }
+  ]
+}
