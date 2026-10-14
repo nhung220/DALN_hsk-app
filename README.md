@@ -2,7 +2,7 @@
 
 Ứng dụng web học tiếng Trung dành cho người Việt, xây dựng theo định hướng HSK 3.0. Hệ thống kết hợp học từ vựng, luyện viết chữ Hán, ngữ pháp, ôn tập ngắt quãng, đọc hiểu, hội thoại, luyện thi và gia sư AI trong một sản phẩm duy nhất.
 
-Ứng dụng: [hsk-app-sage.vercel.app](https://hsk-app-sage.vercel.app/)
+Ứng dụng: [hsk-app-sage.vercel.app](https://daln-hsk-app.vercel.app/)
 
 ## Tính năng chính
 
