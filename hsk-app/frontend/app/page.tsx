@@ -3,7 +3,7 @@ import {
   BookOpen, Zap, BarChart2, Volume2,
   Search, PenTool, MessageCircle, FileText,
   Trophy, BookMarked, Layers, Mic,
-  ChevronRight, Sparkles, Flame, Star, GraduationCap,
+  ChevronRight, Sparkles, Flame, GraduationCap,
 } from "lucide-react";
 
 interface ModuleCard {
@@ -183,24 +183,6 @@ export default function HomePage() {
                 </Link>
               </div>
 
-              <div className="flex items-center gap-3 justify-center lg:justify-start">
-                <div className="flex -space-x-2">
-                  {["#7C3AED","#2563EB","#16A34A","#DC2626"].map((c, i) => (
-                    <div key={i} className="w-7 h-7 rounded-full border-2 flex items-center justify-center text-[10px] font-bold text-white"
-                      style={{ background: c, borderColor: "#FFFBEA" }}>
-                      {["A","B","C","D"][i]}
-                    </div>
-                  ))}
-                </div>
-                <div className="flex items-center gap-1.5">
-                  <div className="flex gap-0.5">
-                    {[...Array(5)].map((_, i) => <Star key={i} size={12} className="text-yellow-500" fill="currentColor" />)}
-                  </div>
-                  <span className="text-xs" style={{ color: "#78614A" }}>
-                    Hơn <strong style={{ color: "#1C1408" }}>50,000+</strong> học viên đang học
-                  </span>
-                </div>
-              </div>
             </div>
 
             {/* Right: Feature card */}
